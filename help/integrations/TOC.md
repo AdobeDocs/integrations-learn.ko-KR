@@ -3,7 +3,7 @@ user-guide-title: Experience Cloud 통합 자습서
 breadcrumb-title: Experience Cloud 통합
 user-guide-description: 통합 학습.
 mini-toc-levels: 1
-source-git-commit: 510253b9fbf510ebdfb7e0cc51b854fa4c4bc07d
+source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 26%
@@ -23,7 +23,7 @@ ht-degree: 26%
    + [고객 여정](./solution-categories/customer-journeys.md)
    + [데이터 인사이트 및 활성화](./solution-categories/data-insights.md)
    + [규모에 맞는 개인화](./solution-categories/personalization.md)
-+ 애플리케이션 통합{#integrations-between-applications}
++ 제품 통합{#integrations-between-applications}
    + [개요](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
