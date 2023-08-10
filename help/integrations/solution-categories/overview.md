@@ -1,10 +1,10 @@
 ---
 title: Adobe Experience Cloud 애플리케이션의 통합 구성 - 솔루션별
-description: 솔루션별로 구성된 Adobe Experience Cloud 애플리케이션에 대한 일반적인 통합 구성
+description: 솔루션별로 구성된 Adobe Experience Cloud 애플리케이션의 공통 통합 구성입니다.
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 

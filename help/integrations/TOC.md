@@ -1,12 +1,12 @@
 ---
-user-guide-title: Experience Cloud 통합 자습서
+user-guide-title: Experience Cloud 통합 튜토리얼
 breadcrumb-title: Experience Cloud 통합
-user-guide-description: 통합 학습.
+user-guide-description: 통합 학습
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 26%
+ht-degree: 32%
 
 ---
 
