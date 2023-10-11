@@ -1,11 +1,11 @@
 ---
 title: 애플리케이션 통합 구성 - 비즈니스 솔루션별
-description: 비즈니스 솔루션별로 구성된 Experience Cloud 애플리케이션의 일반적인 통합 구성에 대해 알아봅니다.
+description: 비즈니스 솔루션별로 구성된 Experience Cloud 애플리케이션의 공통 통합 구성에 대해 알아봅니다.
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 

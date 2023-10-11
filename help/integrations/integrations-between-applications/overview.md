@@ -1,11 +1,11 @@
 ---
 title: 통합 구성 - 애플리케이션별
-description: 애플리케이션별로 구성된 Experience Cloud을 위한 일반적인 통합 구성에 대해 알아봅니다.
+description: 애플리케이션별로 구성된 Experience Cloud의 공통 통합 구성에 대해 알아봅니다.
 exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
