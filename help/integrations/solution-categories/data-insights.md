@@ -1,13 +1,13 @@
 ---
-title: 데이터 인사이트 및 활성화
+title: 데이터 인사이트 및 활성화를 위한 애플리케이션 통합
 description: 전체 조직에서 온라인 및 오프라인 데이터 인사이트를 사용하여 모든 채널에서 실시간 개인화를 촉진합니다.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 9f22085a-306e-48e8-9b86-6429d851df58
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '541'
 ht-degree: 1%
 
 ---
-
 
 # 데이터 인사이트 및 활성화
 

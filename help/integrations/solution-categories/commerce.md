@@ -1,13 +1,13 @@
 ---
-title: Commerce
+title: Commerce용 애플리케이션 통합
 description: 유연한 AI 기반 상거래 솔루션을 사용하여 단일 플랫폼에서 멀티채널 상거래 경험을 구축하십시오.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 4%
+source-wordcount: '165'
+ht-degree: 3%
 
 ---
-
 
 # [!DNL Commerce]
 

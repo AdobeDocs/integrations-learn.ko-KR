@@ -1,5 +1,5 @@
 ---
-title: AEM Forms을 Marketo Engage과 통합하는 방법
+title: AEM Forms과 Marketo Engage 통합
 description: Adobe Experience Manager Forms(AEM Forms)와 Marketo Engage을 통합하여 리드 생성을 간소화합니다.
 solution: Experience Manager, Experience Manager Forms, Marketo Engage
 feature: Integrations
@@ -11,13 +11,13 @@ kt: null
 thumbnail: experience-manager-marketo.png
 badgeIntegration: label="통합" type="positive"
 last-substantial-update: 2023-07-31T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: c943b334-19b7-4dc8-962a-aacc18bbd9f2
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '26'
 ht-degree: 3%
 
 ---
-
 
 # Marketo Engage과 Experience Manager 통합
 

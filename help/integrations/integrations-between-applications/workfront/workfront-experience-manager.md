@@ -1,5 +1,5 @@
 ---
-title: Workfront을 Experience Manager과 통합하는 방법
+title: Workfront과 Experience Manager 통합
 description: Adobe Experience Manager(AEM)와 Workfront을 통합하여 마케팅 작업을 간소화합니다.
 solution: Workfront, Experience Manager, Experience Manager Assets
 feature: Integrations
@@ -10,13 +10,13 @@ kt: null
 thumbnail: experience-manager-workfront.png
 badgeIntegration: label="통합" type="positive"
 last-substantial-update: 2023-07-31T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: be68f5c7-20b8-4844-acc8-cd71d08c16d4
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '25'
+source-wordcount: '23'
 ht-degree: 4%
 
 ---
-
 
 # Workfront과 Experience Manager 통합
 

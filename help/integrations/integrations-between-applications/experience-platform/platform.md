@@ -1,6 +1,6 @@
 ---
-title: Adobe 경험 통합 [!DNL Platform] 다른 Adobe 애플리케이션 사용
-description: Experience 통합 방법 알아보기 [!DNL Platform] 다른 Adobe 응용 프로그램과 함께 사용할 수 있습니다.
+title: 통합 Adobe [!DNL Experience Platform] 다른 Adobe 애플리케이션 사용
+description: 통합 방법 알아보기 [!DNL Experience Platform] 다른 Adobe 응용 프로그램과 함께 사용할 수 있습니다.
 solution: Experience [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -9,13 +9,13 @@ level: Beginner
 jira: null
 thumbnail: experience-platform.png
 last-substantial-update: 2023-07-19T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: ef86a50c-b8ff-4371-a9e9-8fc51aa1769a
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 7%
 
 ---
-
 
 # 통합 경험 [!DNL Platform] 다른 Adobe 애플리케이션 사용
 

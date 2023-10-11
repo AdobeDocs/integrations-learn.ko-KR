@@ -1,6 +1,6 @@
 ---
-title: 통합 방법 [!DNL Target] AEM 사용
-description: '통합: Adobe Experience Manager(AEM) [!DNL Target] 개인화된 경험을 제공할 수 있습니다.'
+title: 통합 [!DNL Target] Experience Manager 포함
+description: '통합: Adobe Experience Manager(AEM) [!DNL Adobe Target] 개인화된 경험을 제공할 수 있습니다.'
 solution: Target, Experience Manager, Experience Manager Sites
 feature: Integrations
 topic: Integrations
@@ -10,13 +10,13 @@ kt: null
 thumbnail: experience-manager-target.png
 last-substantial-update: 2023-07-31T00:00:00Z
 badgeIntegration: label="통합" type="positive"
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 013a35ff-ea80-4d81-9558-494d012293f8
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '19'
 ht-degree: 5%
 
 ---
-
 
 # 통합 [!DNL Target] Experience Manager 포함
 

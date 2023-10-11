@@ -1,13 +1,13 @@
 ---
-title: 규모에 맞는 개인화
+title: 규모에 맞게 개인화를 위한 애플리케이션 통합
 description: 개인화된 경험을 모든 순간의 일부로 만듭니다.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '516'
 ht-degree: 1%
 
 ---
-
 
 # 규모에 맞는 개인화
 

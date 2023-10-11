@@ -1,17 +1,18 @@
 ---
-title: 콘텐츠 공급망
+title: 콘텐츠 공급망을 위한 애플리케이션 통합
 description: 콘텐츠를 계획, 작성, 개인화 및 게시할 수 있습니다.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
 
-
 # 콘텐츠 공급망
 
 모든 고객을 위한 잊지 못할 콘텐츠를 지금 당장 계획하고, 만들고, 개인화하고, 게시하십시오.
+
 개인화된 경험에 대한 실시간 고객 기대치를 충족하려면 그 어느 때보다 더 많은 디지털 콘텐츠가 필요합니다. Adobe의 크리에이티브 워크플로 및 에셋 관리 솔루션을 통해 팀은 모든 접점에서 고객 여정을 지원하는 규모에 맞게 개인화된 콘텐츠를 계획, 제작 및 제공할 수 있습니다.
 
 <table>

@@ -1,5 +1,5 @@
 ---
-title: 통합 방법 [!DNL Analytics] AEM 사용
+title: 통합 [!DNL Analytics] Experience Manager 포함
 description: '통합: Adobe Experience Manager(AEM) [!DNL Analytics] 을 클릭하여 웹 사이트에서 사용자 행동을 추적하고 분석할 수 있습니다.'
 solution: Analytics, Experience Manager, Experience Manager Sites
 feature: Integrations
@@ -11,13 +11,13 @@ kt: null
 thumbnail: analytics-experience-manager.png
 badgeIntegration: label="통합" type="positive"
 last-substantial-update: 2023-07-31T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 342a9df5-6fbd-40be-8de1-2d9aba8fde9d
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '25'
+source-wordcount: '24'
 ht-degree: 4%
 
 ---
-
 
 # 통합 [!DNL Analytics] Experience Manager 포함
 

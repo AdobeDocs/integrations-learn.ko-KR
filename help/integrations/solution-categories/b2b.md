@@ -1,13 +1,13 @@
 ---
-title: B2B 마케팅
+title: B2B 마케팅을 위한 애플리케이션 통합
 description: 통합 고객 프로필 및 데이터를 기반으로 채널 전반에서 잠재 고객 관리, ABM 및 속성을 규모에 맞게 조정합니다.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '219'
 ht-degree: 2%
 
 ---
-
 
 # B2B 마케팅
 

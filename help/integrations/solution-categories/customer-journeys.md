@@ -1,13 +1,13 @@
 ---
-title: 고객 여정
+title: 고객 여정을 위한 애플리케이션 통합
 description: 모든 소스에서 데이터를 가져와 개인화된 크로스 채널 여정을 생성하여 실시간 고객 프로필을 개발합니다.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: eb653b89-db0f-433a-8641-bbeb32197096
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
-
 
 # 고객 여정
 
@@ -118,4 +118,3 @@ ht-degree: 2%
 </tr>
 </tbody>
 </table>
-

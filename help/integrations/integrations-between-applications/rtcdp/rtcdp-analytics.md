@@ -1,7 +1,7 @@
 ---
-title: 실시간 고객 데이터 통합 [!DNL Platform] 포함 [!DNL Analytics]
-description: 실시간 고객 데이터를 통합하는 방법 알아보기 [!DNL Platform] 포함 [!DNL Analytics].
-solution: Real-Time Customer Data [!DNL Platform], [!DNL Analytics]
+title: 통합 [!DNL Real-Time Customer Data Platform] 포함 [!DNL Analytics]
+description: 통합 방법 알아보기 [!DNL Real-Time Customer Data Platform] 포함 [!DNL Analytics].
+solution: Real-Time Customer Data Platform, [!DNL Analytics]
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
@@ -10,14 +10,14 @@ kt: null
 thumbnail: analytics-rtcdp.png
 badgeIntegration: label="통합" type="positive"
 last-substantial-update: 2023-06-29T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 7c29bf9a-8855-4a8e-9a06-f537fbde84a4
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '20'
-ht-degree: 5%
+source-wordcount: '15'
+ht-degree: 6%
 
 ---
 
-
-# 실시간 고객 데이터 통합 [!DNL Platform] 포함 [!DNL Analytics]
+# 통합: Real-time Customer Data Platform [!DNL Analytics]
 
 {{$include /help/_includes/integrations-between-applications/analytics-rtcdp.md}}
