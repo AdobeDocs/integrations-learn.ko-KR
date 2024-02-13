@@ -1,7 +1,7 @@
 ---
-title: 통합 [!DNL Campaign] v8 Experience Manager 자습서
+title: 통합 [!DNL Campaign] v8 Experience Manager 튜토리얼
 description: Adobe 연결 방법 알아보기 [!DNL Campaign] Adobe Experience Manager을 통해 Experience Manager에서 이메일 게재 템플릿, 에셋 및 양식을 관리할 수 있습니다.
-solution: Campaign, Campaign v8, Experience Manager
+solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Experience Manager
 feature: Integrations
 topic: Integrations
 role: Admin, Developer
@@ -12,15 +12,15 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-07-26T00:00:00Z
 badgeIntegration: label="통합" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 040f992e-029c-44a2-ac2b-10f2995a6c75
+source-git-commit: cb7b3dd4776f7a475519ae7b8ed9c3209f9d9917
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-
-# 통합 [!DNL Campaign] v8 Experience Manager 자습서
+# 통합 [!DNL Campaign] v8 Experience Manager 튜토리얼
 
 Adobe 연결 방법 알아보기 [!DNL Campaign] Adobe Experience Manager을 통해 Experience Manager에서 이메일 게재 템플릿, 에셋 및 양식을 관리할 수 있습니다.
 
