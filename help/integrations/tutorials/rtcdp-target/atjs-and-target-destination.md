@@ -1,6 +1,6 @@
 ---
-title: Real-Time CDP 및 통합 [!DNL Target] at.js 및 [!DNL Target] 대상
-description: Real-Time CDP 및 을 통합하는 방법 알아보기 [!DNL Target] at.js 및 [!DNL Target] 대상.
+title: at.js 및 [!DNL Target] destination과 Real-Time CDP 및 [!DNL Target] 통합
+description: Real-Time CDP 및 [!DNL Target] 을(를) at.js 및 [!DNL Target] destination과 통합하는 방법에 대해 알아봅니다.
 solution: Target, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -10,48 +10,47 @@ index: true
 hidefromtoc: true
 last-substantial-update: 2023-07-25T00:00:00Z
 badgeIntegration: label="통합" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 4cd856a8-2c92-42e2-b259-2bcdc517a706
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
-
-# Real-Time CDP 및 통합 [!DNL Target] at.js 및 [!DNL Target] 대상
+# Real-Time CDP 및 [!DNL Target]을(를) at.js 및 [!DNL Target] 대상과 통합
 
 >[!IMPORTANT]
 >
 >at.js와 통합할 때 다음 세션 개인화만 가능합니다.
 
 
-## Adobe Real-Time CDP 및 Adobe을 사용한 다음 히트 개인화 [!DNL Target]
+## Adobe Real-Time CDP 및 Adobe [!DNL Target]을(를) 사용한 다음 히트 개인화
 
 통합에 대한 개요 및 데모를 확인하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
 
-## Adobe 구성 [!DNL Target] 실시간 고객 데이터의 대상 [!DNL Platform]
+## 실시간 고객 데이터 [!DNL Platform]에서 Adobe [!DNL Target] 대상 구성
 
-Adobe 구성 방법 알아보기 [!DNL Target] 실시간 고객 데이터의 대상 [!DNL Platform].
+실시간 고객 데이터 [!DNL Platform]에서 Adobe [!DNL Target] 대상을 구성하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418799/?learn=on)
 
-## Adobe에 세그먼트 및 프로필 속성 활성화 [!DNL Target]
+## [!DNL Target] Adobe에 대한 세그먼트 및 프로필 특성 활성화
 
-실시간 고객 데이터 Adobe에서 세그먼트 및 프로필 속성을 활성화하는 방법을 알아봅니다 [!DNL Platform] 대상 Adobe [!DNL Target].
+Adobe 실시간 고객 데이터 [!DNL Platform]에서 Adobe [!DNL Target](으)로 세그먼트 및 프로필 특성을 활성화하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
 
-## Adobe에서 Real-Time CDP 세그먼트 사용 [!DNL Target]
+## [!DNL Target] Adobe에서 Real-Time CDP 세그먼트 사용
 
-실시간 고객 데이터를 사용하는 방법 알아보기 [!DNL Platform] Adobe의 세그먼트 [!DNL Target].
+[!DNL Target] Adobe에서 실시간 고객 데이터 [!DNL Platform] 세그먼트를 사용하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
 
-## Adobe에서 Real-Time CDP 프로필 속성 사용 [!DNL Target]
+## [!DNL Target] Adobe에서 Real-Time CDP 프로필 특성 사용
 
-Adobe 실시간 고객 데이터를 사용하는 방법 알아보기 [!DNL Platform] Adobe의 프로필 속성 [!DNL Target].
+[!DNL Target] Adobe에서 Adobe 실시간 고객 데이터 [!DNL Platform] 프로필 특성을 사용하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
-

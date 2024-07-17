@@ -1,6 +1,6 @@
 ---
-title: 통합 [!DNL Campaign] 포함 [!DNL Analytics]
-description: 통합 방법 알아보기 [!DNL Campaign] Adobe 포함 [!DNL Analytics].
+title: ' [!DNL Analytics]과(와)  [!DNL Campaign]  통합'
+description: ' [!DNL Campaign] 을(를) Adobe [!DNL Analytics]과(와) 통합하는 방법을 알아봅니다.'
 solution: Campaign, Campaign Standard, Analytics
 feature: Integrations
 topic: Integrations
@@ -10,14 +10,14 @@ kt: null
 thumbnail: analytics-campaign.png
 badgeIntegration: label="통합" type="positive"
 last-substantial-update: 2023-05-19T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: b1962bfe-e483-4a80-8258-a5bf8454b54c
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '11'
 ht-degree: 9%
 
 ---
 
-
-# 통합 [!DNL Campaign] 포함 [!DNL Analytics]
+# [!DNL Campaign]과(와) [!DNL Analytics] 통합
 
 {{$include /help/_includes/integrations-between-applications/analytics-campaign.md}}

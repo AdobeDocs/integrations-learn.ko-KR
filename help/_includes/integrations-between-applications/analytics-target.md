@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 8%
+source-wordcount: '126'
+ht-degree: 6%
 
 ---
 
@@ -13,12 +13,12 @@ ht-degree: 8%
 
 {{target-description}}
 
-Adobe 통합의 주요 이점 [!DNL Analytics] 및 Adobe [!DNL Target] (A4T)는 다음과 같습니다.
+[!DNL Analytics] Adobe과 [!DNL Target] Adobe(A4T) 통합의 주요 이점은 다음과 같습니다.
 
-+ **데이터 기반 개인화**: 사용 [!DNL Analytics] Adobe의 타깃팅된 활동 [!DNL Target], 개인화 전략 향상.
-+ **통합 보고**: A4T 통합 조합 [!DNL Target] 및 [!DNL Analytics] 포괄적인 분석을 위한 보고서입니다.
-+ **최적화된 타깃팅**: 다음에 대한 기본 결정: [!DNL Analytics] 정확한 대상 세분화 및 콘텐츠 최적화를 위한 데이터.
-+ **공유 대상자**: 사용 [!DNL Analytics] 을 클릭하여 세부 세그먼트를 만들고 공유할 수 있습니다. [!DNL Target] 을 테스트 대상으로 사용합니다.
++ **데이터 기반 개인화**: [!DNL Target] Adobe의 타깃팅된 활동에 [!DNL Analytics]을(를) 사용하여 개인화 전략을 향상시키십시오.
++ **통합 보고**: A4T 통합에서는 포괄적인 분석을 위해 [!DNL Target] 및 [!DNL Analytics] 보고서를 결합합니다.
++ **최적화된 타깃팅**: 정확한 대상 세분화 및 콘텐츠 최적화를 위해 [!DNL Analytics] 데이터에 대한 기본 결정입니다.
++ **공유 대상**: [!DNL Analytics]을(를) 사용하여 자세한 세그먼트를 만들고 [!DNL Target]에 공유하여 테스트용 대상으로 사용합니다.
 
 <table>
     <thead>
@@ -34,12 +34,12 @@ Adobe 통합의 주요 이점 [!DNL Analytics] 및 Adobe [!DNL Target] (A4T)는 
             <td rowspan="2">[!DNL Analytics] 및 [!DNL Target]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li><a href="../../integrations/tutorials/analytics-target/analytics-target.md" target="_blank" rel="noreferrer">at.js 라이브러리 [!DNL Target] 및 의 appmeasurement.js 라이브러리 [!DNL Analytics]</a></li>
+                    <li><a href="../../integrations/tutorials/analytics-target/analytics-target.md" target="_blank" rel="noreferrer">[!DNL Target]에 대한 at.js 라이브러리 및 appmeasurement.js 라이브러리에 대한 [!DNL Analytics]</a></li>
                 </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Adobe을 사용하려고 합니다. [!DNL Analytics] 표시 및 분석할 풍부한 보고 기능 [!DNL Target] 활동 결과.</li>
+                    <li>[!DNL Analytics] Adobe의 다양한 보고 기능을 사용하여 [!DNL Target] 활동 결과를 표시하고 분석하려고 합니다.</li>
                 </ul>
             </td>
             <td>
@@ -57,7 +57,7 @@ Adobe 통합의 주요 이점 [!DNL Analytics] 및 Adobe [!DNL Target] (A4T)는 
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>공유하려는 항목 [!DNL Analytics] 세그먼트 대상 [!DNL Target] 대상.</li>
+                    <li>[!DNL Analytics]개의 세그먼트를 [!DNL Target]개의 대상자에게 공유하려고 합니다.</li>
                 </ul>
             </td>
             <td>

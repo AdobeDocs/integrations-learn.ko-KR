@@ -1,27 +1,27 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 5%
+source-wordcount: '227'
+ht-degree: 1%
 
 ---
 
 
-# 고객 여정 [!DNL Analytics] 및 실시간 고객 데이터 [!DNL Platform] (Real-Time CDP) 통합
+# 고객 여정 [!DNL Analytics] 및 실시간 고객 데이터 [!DNL Platform](Real-Time CDP) 통합
 
 {{customer-journey-analytics-description}}
 
 {{real-time-cdp-description}}
 
-Adobe 고객 여정 통합의 주요 이점 [!DNL Analytics] 및 Adobe Real-Time CDP에는 다음이 포함됩니다.
+Adobe 고객 여정 [!DNL Analytics]과(와) Adobe Real-Time CDP을(를) 통합하면 다음과 같은 이점이 있습니다.
 
-+ **360도 고객 뷰**: 통합 고객 여정 보기를 위해 데이터를 결합하여 상호 작용 및 환경 설정을 이해합니다.
++ **360도 고객 보기**: 통합 고객 여정 보기를 위해 데이터를 결합하여 상호 작용 및 환경 설정을 이해합니다.
 + **실시간 개인화**: Adobe Real-Time CDP을 통해 관련 경험을 즉시 제공합니다.
-+ **보다 심층적인 고객 통찰력**: 행동 및 여정을 분석하고, 데이터 기반 결정을 통해 전략을 구체화합니다.
-+ **원활한 데이터 활성화**: 데이터 활성화를 간소화하여 채널 간에 개인화된 경험을 가능하게 합니다.
-+ **향상된 마케팅 속성**: 터치포인트 영향을 정확하게 파악하여 ROI 측정 및 최적화를 향상시킬 수 있습니다.
++ **더 심층적인 고객 인사이트**: 데이터 기반 결정을 통해 행동 및 여정을 분석하고 전략을 구체화합니다.
++ **원활한 데이터 활성화**: 데이터 활성화를 간소화하여 채널 전체에 개인화된 환경을 제공합니다.
++ **향상된 마케팅 속성**: 접점 영향을 정확하게 지정하여 ROI 측정 및 최적화를 개선합니다.
 
-전반적으로 Adobe 고객 여정 통합 [!DNL Analytics] 또한 Adobe Real-Time CDP은 포괄적인 실시간 고객 통찰력을 기반으로 탁월한 고객 경험을 제공하고, 고객 참여를 유도하고, 정보에 입각한 마케팅 결정을 내릴 수 있도록 비즈니스를 강화합니다.
+전반적으로 Adobe 고객 여정 [!DNL Analytics]과(와) Adobe Real-Time CDP의 통합은 기업이 포괄적인 실시간 고객 통찰력을 기반으로 탁월한 고객 경험을 제공하고, 고객 참여를 유도하고, 정보에 입각한 마케팅 결정을 내릴 수 있도록 해줍니다.
 
 ## 일반적인 통합
 
@@ -40,8 +40,8 @@ Adobe 고객 여정 통합의 주요 이점 [!DNL Analytics] 및 Adobe Real-Time
             <td>Adobe 경험 [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>고객 여정을 사용하려는 경우 [!DNL Analytics] (CJA) Adobe Journey Optimizer 여정 대상.</li>
-                    <li>경험을 통해 CJA 대상자를 서드파티에 내보내고 싶은 경우 [!DNL Platform] 대상.</li>
+                    <li>Adobe Journey Optimizer에서 여정에 CJA(고객 여정 [!DNL Analytics]) 대상을 사용하려는 경우.</li>
+                    <li>Experience [!DNL Platform] 대상을 통해 CJA 대상자를 서드파티에 내보내려는 경우.</li>
                     <li>CJA의 이벤트 기반 데이터에서 파생된 유용한 속성으로 실시간 고객 프로필을 보강하려는 경우.</li>
                     <li>대상을 Real-Time CDP에 게시한 후 대기 시간을 최소화하면서 이 모든 작업을 수행합니다.</li>
                     <li>일회성 대상자 또는 반복 대상자를 게시하려는 경우.</li>

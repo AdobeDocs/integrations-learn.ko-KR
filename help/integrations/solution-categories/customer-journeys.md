@@ -17,7 +17,7 @@ ht-degree: 2%
 <table>
  <thead>
     <tr>
-      <th>사용 사례</th>
+      <th>활용 사례</th>
       <th>설명</th>
       <th>예시</th>
       <th>애플리케이션</th>
@@ -26,7 +26,7 @@ ht-degree: 2%
   <tbody>
 <tr>
   <td><strong>브랜드 자산을 사용하여 마케팅 자료 만들기</strong><br></td>
-  <td>AEM 및 Adobe을 사용하여 이메일 마케팅 콘텐츠 및 템플릿 작성 및 감독 [!DNL Campaign].</td>
+  <td>AEM 및 Adobe [!DNL Campaign]을(를) 사용하여 전자 메일 마케팅 콘텐츠와 템플릿을 빌드하고 감독합니다.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>AEM으로 만든 마케팅 이메일 보내기</li>
@@ -37,14 +37,14 @@ ht-degree: 2%
 
 <tr>
   <td><strong>고객 데이터 캡처</strong><br></td>
- <td>기본 확장 [!DNL Campaign] 마케팅 캠페인의 타겟팅 및 개인화를 위해 고객 데이터를 캡처하는 기능.</td>
+ <td>마케팅 캠페인의 타기팅 및 개인화를 위해 고객 데이터를 캡처할 수 있도록 기본 [!DNL Campaign] 기능을 강화합니다.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>프로필을 만들고 추가 정보를 수집합니다. </li>
-      <li>구독</li>
+      <li>구독수</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms 및 [!DNL Campaign] 표준</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms 및 [!DNL Campaign] Standard</a></td>
 </tr>
 
 <tr>
@@ -83,7 +83,7 @@ ht-degree: 2%
 
 <tr>
   <td><strong>이메일 게재 개인화</strong><br></td>
-  <td>Adobe 기능을 활용하여 다이내믹 콘텐츠를 통해 이메일 게재 개인화 [!DNL Target].</td>
+  <td>[!DNL Target] Adobe의 기능을 활용하여 다이내믹 콘텐츠로 이메일 게재를 개인화합니다.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>고객 이메일에 개인화된 오퍼 추가</li>
@@ -94,7 +94,7 @@ ht-degree: 2%
 
 <tr>
   <td><strong>디지털 경험 개인화</strong><br></td>
-  <td>실시간 고객 프로필 사용 및 중앙 집중식 관리 [!DNL Platform] 세그먼트를 통해 웹, 모바일 및 기타 디지털 채널 간에 메시지를 개인화할 수 있습니다.</td>
+  <td>실시간 고객 프로필과 중앙에서 관리되는 [!DNL Platform] 세그먼트를 사용하여 웹, 모바일 및 기타 디지털 채널에서 메시지를 개인화할 수 있습니다.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>알려진 방문자에 대한 콘텐츠 개인화</li>
@@ -108,7 +108,7 @@ ht-degree: 2%
 
 <tr>
   <td><strong>리드 생성 향상</strong><br></td>
-  <td>실시간 고객 프로필 사용 및 중앙 집중식 관리 [!DNL Platform] 웹, 모바일 및 기타 디지털 채널 간에 메시지를 개인화하기 위한 세그먼트</td>
+  <td>실시간 고객 프로필과 중앙에서 관리되는 [!DNL Platform] 세그먼트를 사용하여 웹, 모바일 및 기타 디지털 채널에서 메시지를 개인화할 수 있습니다</td>
   <td>
     <ul style="margin-top: 0;">
       <li>알려진 방문자에 대한 콘텐츠 개인화</li>

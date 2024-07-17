@@ -1,6 +1,6 @@
 ---
-title: 통합 [!DNL Target] Experience Manager 포함
-description: '통합: Adobe Experience Manager(AEM) [!DNL Adobe Target] 개인화된 경험을 제공할 수 있습니다.'
+title: ' [!DNL Target] 을(를) Experience Manager과 통합'
+description: Adobe Experience Manager(AEM)을  [!DNL Adobe Target] 과(와) 통합하여 개인화된 경험을 제공합니다.
 solution: Target, Experience Manager, Experience Manager Sites
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 5%
 
 ---
 
-# 통합 [!DNL Target] Experience Manager 포함
+# [!DNL Target]을(를) Experience Manager과 통합
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-target.md}}

@@ -1,6 +1,6 @@
 ---
-title: 통합 [!DNL Analytics] 포함 [!DNL Target]
-description: Adobe 통합 방법 알아보기 [!DNL Analytics] Adobe Target.
+title: ' [!DNL Target]과(와)  [!DNL Analytics]  통합'
+description: Adobe [!DNL Analytics] 을(를) Adobe Target과 통합하는 방법을 알아봅니다.
 solution: Analytics, Target
 feature: Integrations
 topic: Integrations
@@ -19,6 +19,6 @@ ht-degree: 7%
 
 ---
 
-# 통합 [!DNL Analytics] 포함 [!DNL Target]
+# [!DNL Analytics]과(와) [!DNL Target] 통합
 
 {{$include /help/_includes/integrations-between-applications/analytics-target.md}}

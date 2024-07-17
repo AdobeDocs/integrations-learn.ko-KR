@@ -1,6 +1,6 @@
 ---
-title: 통합 [!DNL Campaign] v8 with Real-Time CDP 튜토리얼
-description: 통합 방법 알아보기 [!DNL Campaign] v8(Real-Time CDP 포함)
+title: Real-Time CDP 자습서와  [!DNL Campaign] v8 통합
+description: ' [!DNL Campaign] v8을 Real-Time CDP과 통합하는 방법을 알아봅니다.'
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -20,16 +20,16 @@ ht-degree: 1%
 
 ---
 
-# 통합 [!DNL Campaign] v8 및 Real-Time CDP
+# [!DNL Campaign] v8과 Real-Time CDP 통합
 
-## 연결 [!DNL Campaign] 경험으로 [!DNL Platform] 대상
+## [!DNL Campaign]을(를) [!DNL Platform] 경험에 대상으로 연결
 
-Adobe 경험을 활성화하는 방법 알아보기 [!DNL Platform] Amazon S3 연결 유형을 사용하여 대상에 세그먼트화합니다.
+Amazon S3 연결 유형을 사용하여 대상에 Adobe 경험 [!DNL Platform] 세그먼트를 활성화하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on)
 
-## 경험에서 수신자 데이터 가져오기 [!DNL Platform] 이메일 보내기
+## [!DNL Platform] 경험에서 수신자 데이터를 가져오고 이메일을 보냅니다.
 
-Adobe에서 외부 계정을 구성하는 방법 알아보기 [!DNL Campaign] Adobe 경험에서 수신자 데이터를 가져오려면 [!DNL Platform] 끝 [!DNL Campaign]. 경험에서 받은 수신자를 업로드하고 타겟팅하는 워크플로우를 만드는 방법을 이해합니다 [!DNL Platform].
+[!DNL Campaign] Adobe에서 외부 계정을 구성하여 [!DNL Platform] Adobe 경험에서 [!DNL Campaign](으)로 받는 사람 데이터를 가져오는 방법에 대해 알아봅니다. [!DNL Platform] 경험에서 받은 수신자를 업로드하고 타깃팅하는 워크플로우를 만드는 방법을 이해합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)

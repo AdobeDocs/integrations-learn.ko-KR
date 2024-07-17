@@ -5,8 +5,8 @@ user-guide-description: 통합 학습
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 32%
+source-wordcount: '91'
+ht-degree: 17%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 32%
 # [!DNL Experience Cloud] 통합 자습서 {#experience-cloud}
 
 + [[!DNL Experience Cloud] 통합](./overview.md)
-+ 솔루션 카테고리{#solution-categories}
++ 솔루션 범주{#solution-categories}
    + [개요](./solution-categories/overview.md)
    + [B2B 마케팅](./solution-categories/b2b.md)
    + [Commerce](./solution-categories/commerce.md)
@@ -22,7 +22,7 @@ ht-degree: 32%
    + [콘텐츠 공급망](./solution-categories/content-supply-chain.md)
    + [고객 여정](./solution-categories/customer-journeys.md)
    + [데이터 인사이트 및 활성화](./solution-categories/data-insights.md)
-   + [규모에 맞는 개인화](./solution-categories/personalization.md)
+   + [규모에 맞는 Personalization](./solution-categories/personalization.md)
 + 제품 통합{#integrations-between-applications}
    + [개요](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
@@ -80,24 +80,24 @@ ht-degree: 32%
    + Workfront{#experience-manager}
       + [[!DNL Creative Cloud]](./integrations-between-applications/workfront/workfront-creative-cloud.md)
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
-+ 튜토리얼{#tutorials}
++ 자습서{#tutorials}
    + [!DNL Analytics] 및 [!DNL Commerce]{#analytics-commerce}
       + [[!DNL Analytics] 및 [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
-   + [!DNL Analytics] CJA의 수정 사항{#analytics-cja}
-      + [[!DNL Analytics] CJA의 수정 사항](./tutorials/analytics-cja/experience-platform-edge.md)
-      + [[!DNL Analytics] CJA의 수정 사항](./tutorials/analytics-cja/experience-platform-source-connector.md)
+   + [!DNL Analytics] 및 CJA{#analytics-cja}
+      + [[!DNL Analytics] 및 CJA](./tutorials/analytics-cja/experience-platform-edge.md)
+      + [[!DNL Analytics] 및 CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
    + [!DNL Analytics] 및 Real-Time CDP{#analytics-real-time-cdp}
       + [[!DNL Analytics] 및 Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
       + [[!DNL Analytics] 및 Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] 및 [!DNL Target]{#analytics-target}
       + [[!DNL Analytics] 및 [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] 및 [!DNL Analytics]{#campaign-analytics}
-      + [통합 [!DNL Campaign] 표준 포함 [!DNL Analytics] 트리거 튜토리얼 사용](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+      + [트리거 사용 자습서 [!DNL Analytics] 과(와)  [!DNL Campaign] 표준 통합](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign] 및 Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8 및 Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign] 및 Real-Time CDP{#campaign-real-time-cdp}
       + [[!DNL Campaign] v8 및 Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
-   + Real-Team CDP{#rtcdp-target}
+   + 실시간 CDP{#rtcdp-target}
       + [Real-Time CDP 및 [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
       + [Real-Time CDP 및 [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP 및 [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)

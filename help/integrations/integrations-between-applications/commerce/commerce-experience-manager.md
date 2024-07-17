@@ -1,6 +1,6 @@
 ---
-title: 통합 Adobe [!DNL Commerce] AEM 사용
-description: Adobe Experience Manager(AEM)와 Adobe 통합 [!DNL Commerce] 매력적인 쇼핑 경험을 구축하십시오.
+title: AEM과  [!DNL Commerce]  Adobe 통합
+description: AEM(Adobe Experience Manager)을 Adobe [!DNL Commerce] 과(와) 통합하여 매력적인 쇼핑 경험을 구축하십시오.
 solution: Commerce, Experience Manager, Experience Manager Sites
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 
 ---
 
-# 통합: Experience Manager [!DNL Commerce]
+# [!DNL Commerce]과(와) Experience Manager 통합
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-commerce.md}}

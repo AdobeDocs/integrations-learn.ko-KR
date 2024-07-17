@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 5%
+source-wordcount: '105'
+ht-degree: 2%
 
 ---
 
@@ -13,11 +13,11 @@ ht-degree: 5%
 
 {{target-description}}
 
-Adobe 사용 [!DNL Campaign] Adobe 포함 [!DNL Target] 이메일 콘텐츠를 개인화하고 최적화합니다. 주요 이점은 다음과 같습니다.
+[!DNL Target] Adobe을 사용하여 [!DNL Campaign] Adobe을 사용하여 전자 메일 콘텐츠를 개인화하고 최적화합니다. 주요 이점은 다음과 같습니다.
 
-+ **Adobe [!DNL Campaign] 데이터**: Adobe에서 타깃팅 향상 [!DNL Target] Adobe 포함 [!DNL Campaign] 데이터 마트.
++ **Adobe [!DNL Campaign] 데이터**: Adobe [!DNL Campaign] 데이터 마트를 사용하여 Adobe [!DNL Target]의 타깃팅을 개선합니다.
 + **대상자 세분화**: 최적화된 타깃팅 및 개인화된 경험을 위해 세그먼트를 방문자 ID에 연결합니다.
-+ **[!DNL Target]ing 개선 사항**: 개선된 타겟팅 및 캠페인을 위해 중요한 데이터(사용자 에이전트, IP 주소, 지리적 위치)에 액세스합니다.
++ **[!DNL Target]개선 사항**: 개선된 타기팅 및 캠페인을 위해 중요한 데이터(사용자 에이전트, IP 주소, 지리적 위치)에 액세스합니다.
 
 ## 일반적인 통합
 

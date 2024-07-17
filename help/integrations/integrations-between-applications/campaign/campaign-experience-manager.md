@@ -1,6 +1,6 @@
 ---
-title: 통합 [!DNL Campaign] Experience Manager 포함
-description: '통합: Adobe Experience Manager(AEM) [!DNL Campaign] 이메일 캠페인을 만들고 관리합니다.'
+title: ' [!DNL Campaign] 을(를) Experience Manager과 통합'
+description: AEM(Adobe Experience Manager)을  [!DNL Campaign] 과(와) 통합하여 이메일 캠페인을 만들고 관리합니다.
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Campaign Standard, Campaign Classic v7, Experience Manager, Experience Manager Forms
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 
 ---
 
-# 통합 [!DNL Campaign] Experience Manager 포함
+# [!DNL Campaign]을(를) Experience Manager과 통합
 
 {{$include /help/_includes/integrations-between-applications/campaign-experience-manager.md}}

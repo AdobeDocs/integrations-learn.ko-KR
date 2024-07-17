@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '109'
+ht-degree: 2%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 5%
 
 Adobe Workfront 및 Adobe Creative Cloud 통합의 주요 이점은 다음과 같습니다.
 
-+ **크리에이티브 워크플로**: 통합은 Creative Cloud 앱에서의 작업, 피드백 및 시간 로깅을 간소화합니다.
++ **Creative 워크플로**: 통합은 Creative Cloud 앱에서 작업, 피드백 및 시간 로깅을 간소화합니다.
 + **효율적인 공동 작업**: Workfront은 창의적인 작업 검토, 승인 및 팀 공동 작업을 용이하게 합니다.
-+ **생산성 향상**: 원활한 환경 환경 선호로 인해 콘텐츠 생성 속도 및 품질이 향상됩니다.
++ **생산성 향상**: 원활한 환경 환경 설정으로 콘텐츠 생성 속도와 품질이 향상됩니다.
 
 ## 일반적인 통합
 

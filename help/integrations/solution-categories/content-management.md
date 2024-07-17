@@ -18,7 +18,7 @@ ht-degree: 1%
 <table>
  <thead>
     <tr>
-      <th>사용 사례</th>
+      <th>활용 사례</th>
       <th>설명</th>
       <th>예시</th>
       <th>애플리케이션</th>
@@ -28,7 +28,8 @@ ht-degree: 1%
     <tr>
       <td><strong>브랜드 자산을 사용하여 마케팅 자료 만들기</strong></td>
       <td>
-        AEM 및 Adobe을 사용하여 이메일 마케팅 콘텐츠 및 템플릿 작성 및 감독 [!DNL Campaign].
+        AEM 및 를 사용하여 이메일 마케팅 콘텐츠 및 템플릿 작성 및 감독
+        Adobe [!DNL Campaign].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -47,7 +48,8 @@ ht-degree: 1%
     <tr>
       <td><strong>마케팅 이미지 사용 및 성능 측정</strong></td>
       <td>
-        AEM Assets과 Adobe을 통합하여 마케팅 이미지의 효과를 추적 및 분석 [!DNL Analytics].
+        다음을 통합하여 마케팅 이미지의 효과 추적 및 분석
+        AEM Assets 및 Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -68,7 +70,8 @@ ht-degree: 1%
     <tr>
       <td rowspan="3"><strong>자산 만들기 관리</strong></td>
       <td>
-        AEM Assets과 Workfront을 통합하여 기업의 에셋 생성을 조정하고 측정합니다.
+        엔터프라이즈에서 자산 생성 조정 및 측정
+        AEM Assets과 Workfront 통합.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -89,7 +92,8 @@ ht-degree: 1%
     </tr>
     <tr>
       <td>
-        AEM Assets Essentials와 Workfront을 통합하여 부서에서 에셋 생성을 조정 및 측정합니다.
+        부서 내 에셋 생성 조정 및 측정
+        AEM Assets Essentials 및 Workfront 통합.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -109,7 +113,8 @@ ht-degree: 1%
     </tr>
     <tr>
       <td>
-        Creative Cloud 및 Workfront 애플리케이션 전반에 걸친 에셋 업데이트 생성 및 관리
+        Creative Cloud 및 Workfront에서 에셋 업데이트 만들기 및 관리
+        응용 프로그램
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -130,12 +135,13 @@ ht-degree: 1%
     <tr>
       <td><strong>고객 데이터 캡처</strong></td>
       <td>
-        기본 확장 [!DNL Campaign] 마케팅 캠페인의 타겟팅 및 개인화를 위해 고객 데이터를 캡처하는 기능.
+        다음에 대한 고객 데이터를 캡처할 수 있도록 기본 [!DNL Campaign] 기능 강화
+        마케팅 캠페인의 타겟팅 및 개인화.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>프로필을 만들고 추가 정보를 수집합니다.</li>
-          <li>구독</li>
+          <li>구독수</li>
         </ul>
       </td>
       <td>
@@ -150,12 +156,14 @@ ht-degree: 1%
     <tr>
       <td><strong>개인화된 PDF 문서 만들기</strong></td>
       <td>
-        사용자 선택/환경 설정에 따라 서명을 위한 커뮤니케이션 문서를 생성합니다.
+        사용자를 기반으로 서명할 통신 문서 생성
+        선택/환경 설정.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            서명을 위해 AEM Forms 제출의 데이터를 기반으로 동적으로 생성된 NDA 제공
+            AEM의 데이터를 기반으로 동적으로 생성된 NDA 제공
+            서명을 위한 Forms 제출
           </li>
         </ul>
       </td>
@@ -171,12 +179,14 @@ ht-degree: 1%
     <tr>
       <td><strong>리드 생성</strong></td>
       <td>
-        양식 제출에서 캡처한 데이터를 리드 생성, 고객 세분화 및 개인화된 마케팅 캠페인에 사용합니다.
+        리드 생성을 위해 양식 제출에서 캡처된 데이터를 사용합니다.
+        고객 세분화 및 개인화된 마케팅 캠페인.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            리드 생성을 위해 웹 및 모바일 장치용 동적 및 대화형 양식을 디자인하고 게시합니다.
+            웹 및 모바일용 동적 및 대화형 양식 디자인 및 게시
+            리드 생성 목적의 디바이스.
           </li>
         </ul>
       </td>
@@ -192,7 +202,8 @@ ht-degree: 1%
     <tr>
       <td><strong>이메일 게재 개인화</strong></td>
       <td>
-        Adobe 기능을 활용하여 다이내믹 콘텐츠를 통해 이메일 게재 개인화 [!DNL Target].
+        을(를) 활용하여 다이내믹 콘텐츠를 통해 이메일 게재 개인화
+        Adobe [!DNL Target]의 기능입니다.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -211,18 +222,22 @@ ht-degree: 1%
     <tr>
       <td rowspan="2"><strong>개인화 및 광고 플랫폼을 위한 대상 확장</strong></td>
       <td>
-        Audience Manager 세그먼트를 사용하여 Real-Time CDP에서 대상자를 만들어 개인화 및 리마케팅 전술에 사용할 수 있습니다.
+        Real-Time CDP에서 Audience Manager 세그먼트를 사용하여 사용할 대상 만들기
+        개인화 및 리마케팅 전술에서.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            웹 사이트, 모바일 앱 또는 지원되는 광고 채널에서 익명 디지털 대상자 타겟팅 및 개인화를 수행합니다
+            다음에 대한 익명 디지털 대상자 타깃팅 및 개인화 수행
+            웹 사이트, 모바일 앱 또는 지원되는 광고 채널
           </li>
           <li>
-            알려진 장치 및 동작 특성을 기반으로 랜딩 페이지 및 사전 인증 경험 최적화
+            를 기반으로 랜딩 페이지 및 사전 인증 경험 최적화
+            알려진 장치 및 동작 특성
           </li>
           <li>
-            Audience Manager 타사 데이터 네트워크를 활용하여 타깃팅할 대상을 더욱 세분화하고 확장하십시오
+            Audience Manager 타사 데이터 네트워크 활용
+            타깃팅할 대상 세분화 및 확장
           </li>
           <li>RTCDP에 Audience Manager 세그먼트 공유</li>
         </ul>
@@ -238,15 +253,18 @@ ht-degree: 1%
     </tr>
     <tr>
       <td>
-        사용 [!DNL Analytics] 개인화 또는 리마케팅 전술에서 사용할 대상자를 만들기 위한 데이터.
+        개인화에 사용할 대상자를 만드는 데 [!DNL Analytics] 데이터를 사용하거나
+        리마케팅 전략.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            장치 또는 지원되는 광고 채널에서 디지털 대상자 타겟팅 및 개인화를 수행합니다.
+            장치에서 디지털 대상자 타깃팅 및 개인화 수행 또는
+            지원되는 광고 채널.
           </li>
           <li>
-            장치 및 동작 특성을 기반으로 알려진 고객 랜딩 페이지 및 익명 경험을 최적화합니다.
+            알려진 고객 랜딩 페이지 및 익명 경험 최적화
+            디바이스 및 동작 속성을 기반으로 합니다.
           </li>
           <li>이메일 및 SMS와 같은 알려진 채널에 대상을 활성화합니다.</li>
         </ul>
@@ -263,7 +281,8 @@ ht-degree: 1%
     <tr>
       <td rowspan="2"><strong>웹 경험 개인화</strong></td>
       <td>
-        AEM Headless를 Adobe과 함께 효과적으로 활용하여 단일 페이지 애플리케이션(SPA) 경험을 사용자 지정합니다 [!DNL Target].
+        효과적으로 단일 페이지 애플리케이션(SPA) 경험 맞춤화
+        Adobe [!DNL Target]과(와) 함께 AEM Headless를 활용합니다.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -277,13 +296,14 @@ ht-degree: 1%
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM 헤드리스 및 [!DNL Target]</a
+          >AEM Headless 및 [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        AEM Sites 및 Adobe을 효과적으로 활용하여 맞춤화된 웹 사이트 경험 제공 [!DNL Target] 개인화를 위해.
+        AEM Sites을 효과적으로 활용하여 맞춤형 웹 사이트 경험 제공
+        개인화를 위해 [!DNL Target] Adobe을 사용합니다.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -304,7 +324,8 @@ ht-degree: 1%
     <tr>
       <td><strong>디지털 경험 개인화</strong></td>
       <td>
-        실시간 고객 프로필 사용 및 중앙 집중식 관리 [!DNL Platform] 웹, 모바일 및 기타 디지털 채널 간에 메시지를 개인화하기 위한 세그먼트
+        실시간 고객 프로필 및 중앙에서 관리되는 [!DNL Platform]개 세그먼트 사용
+        웹, 모바일 및 기타 디지털 채널에서 메시지를 개인화하려면
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -326,7 +347,8 @@ ht-degree: 1%
     <tr>
       <td><strong>리드 생성 향상</strong></td>
       <td>
-        실시간 고객 프로필 사용 및 중앙 집중식 관리 [!DNL Platform] 웹, 모바일 및 기타 디지털 채널 간에 메시지를 개인화하기 위한 세그먼트
+        실시간 고객 프로필 및 중앙에서 관리되는 [!DNL Platform]개 세그먼트 사용
+        웹, 모바일 및 기타 디지털 채널에서 메시지를 개인화하려면
       </td>
       <td>
         <ul style="margin-top: 0;">

@@ -1,6 +1,6 @@
 ---
-title: Adobe Real-time Customer Data Platform과 Adobe 통합 [!DNL Target]
-description: Adobe Real-time Customer Data Platform을 Adobe과 통합하는 방법 알아보기 [!DNL Target].
+title: Adobe  [!DNL Target]과(와) Adobe Real-time Customer Data Platform 통합
+description: Adobe Real-time Customer Data Platform을 Adobe  [!DNL Target]과(와) 통합하는 방법을 알아봅니다.
 solution: Real-Time Customer Data Platform, [!DNL Target]
 feature-set: Experience Platform, [!DNL Target]
 feature: Integrations, Audiences, Segments, Profiles
@@ -19,6 +19,6 @@ ht-degree: 3%
 
 ---
 
-# Adobe Real-time Customer Data Platform과 Adobe 통합 [!DNL Target]
+# [!DNL Target] Adobe과 Adobe Real-time Customer Data Platform 통합
 
 {{$include /help/_includes/integrations-between-applications/rtcdp-target.md}}

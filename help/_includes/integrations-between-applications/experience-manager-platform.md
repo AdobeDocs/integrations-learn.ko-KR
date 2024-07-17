@@ -1,21 +1,21 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 17%
+source-wordcount: '100'
+ht-degree: 3%
 
 ---
 
 
-# Experience Manager 및 Adobe Experience [!DNL Platform]
+# Experience Manager 및 Adobe 경험 [!DNL Platform]
 
 {{experience-manager-description}}
 
 {{experience-platform-description}}
 
-AEM과 경험 통합 [!DNL Platform] 은 다음을 포함한 몇 가지 이점을 제공합니다.
+AEM과 Experience [!DNL Platform]을(를) 통합하면 다음과 같은 몇 가지 이점이 있습니다.
 
-+ **데이터 수집**: 다양한 소스의 데이터를 수집 및 통합하여 전체적인 고객 보기
++ **데이터 수집**: 다양한 소스의 데이터를 수집하여 전체적인 고객 보기로 통합합니다.
 + **고객 프로필**: 행동, 트랜잭션 및 인구 통계 데이터를 사용하여 통합 프로필을 만듭니다.
 + **활성화 및 통합**: 실시간 데이터 활성화 및 통찰력을 위해 Adobe 제품과 통합됩니다.
 
@@ -41,9 +41,9 @@ AEM과 경험 통합 [!DNL Platform] 은 다음을 포함한 몇 가지 이점�
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                  <li>Adobe과 통합 [!DNL Analytics].</li>
-                  <li>Adobe과 통합 [!DNL Target].</li>
-                  <li>Adobe Journey Optimizer와 통합.</li>
+                  <li>Adobe [!DNL Analytics]과(와) 통합됩니다.</li>
+                  <li>Adobe [!DNL Target]과(와) 통합됩니다.</li>
+                  <li>Adobe Journey Optimizer과 통합합니다.</li>
                 </ul>
             </td>
         </tr>        

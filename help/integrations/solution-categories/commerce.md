@@ -17,7 +17,7 @@ ht-degree: 3%
 
 <thead>
     <tr>
-      <th>사용 사례</th>
+      <th>활용 사례</th>
       <th>설명</th>
       <th>예시</th>
       <th>애플리케이션</th>
@@ -40,7 +40,7 @@ ht-degree: 3%
           <li>복잡한 다중 스토어 구성을 구현합니다.</li>
           <li>사이트 간 원활한 컨텐츠 관리</li>
           <li>효율적인 전역 콘텐츠 조정.</li>
-          <li>Adobe을 위한 다중 환경 지원 [!DNL Commerce].</li>
+          <li>[!DNL Commerce] Adobe에 대한 다중 환경을 지원합니다.</li>
           <li>상거래 콘텐츠 만들기 간소화.</li>
           <li>일관되고 효율적인 상점 관리.</li>
       </ul>
@@ -50,7 +50,7 @@ ht-degree: 3%
  <tr>
    <td><strong>데이터 분석 및 보고<strong></td>
    <td>상거래 저장소 전환 단계, 주문, 매출, 방문 및 방문자 지표를 평가합니다.</td>
-   <td><ul style="margin-top: 0;"><li>상거래 활동에 대한 데이터 통찰력 및 보고.</li><li>Adobe에 대한 포괄적인 통찰력 확보 [!DNL Commerce] 선택한 주요 지표 및 차원을 사용하여 성능을 저장합니다.</li></ul></td>
+   <td><ul style="margin-top: 0;"><li>상거래 활동에 대한 데이터 통찰력 및 보고.</li><li>선택한 주요 지표 및 차원을 사용하여 [!DNL Commerce] Adobe 스토어 성능에 대한 포괄적인 통찰력을 얻으십시오.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] 및 [!DNL Analytics]</a></td>
  </tr>
  </tbody>

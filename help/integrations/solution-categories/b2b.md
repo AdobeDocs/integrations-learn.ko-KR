@@ -4,7 +4,7 @@ description: 통합 고객 프로필 및 데이터를 기반으로 채널 전반
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '217'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 <thead>
     <tr>
-      <th>사용 사례</th>
+      <th>활용 사례</th>
       <th>설명</th>
       <th>예시</th>
       <th>애플리케이션</th>
@@ -41,7 +41,7 @@ ht-degree: 2%
 
 <tr>
   <td rowspan="1"><strong>개인화 및 광고 플랫폼을 위한 대상 확장</strong><br/></td> 
-  <td>사용 [!DNL Analytics] 개인화 또는 리마케팅 전술에서 사용할 대상자를 만들기 위한 데이터.</td>
+  <td>개인화 또는 리마케팅 전술에서 사용할 대상자를 만드는 데 [!DNL Analytics] 데이터를 사용하십시오.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>장치 또는 지원되는 광고 채널에서 디지털 대상자 타겟팅 및 개인화를 수행합니다.</li>
@@ -54,7 +54,7 @@ ht-degree: 2%
 
 <tr>
   <td><strong>디지털 경험 개인화</strong><br/></td>
-  <td> 실시간 고객 프로필 사용 및 중앙 집중식 관리 [!DNL Platform] 세그먼트를 통해 웹, 모바일 및 기타 디지털 채널 간에 메시지를 개인화할 수 있습니다.
+  <td> 실시간 고객 프로필과 중앙에서 관리되는 [!DNL Platform] 세그먼트를 사용하여 웹, 모바일 및 기타 디지털 채널에서 메시지를 개인화할 수 있습니다.
   </td>
   <td>
     <ul style="margin-top: 0;">
@@ -70,7 +70,7 @@ ht-degree: 2%
 <tr>
   <td><strong>리드 생성 향상</strong><br/></td>
   <td>
-    실시간 고객 프로필 사용 및 중앙 집중식 관리 [!DNL Platform] 웹, 모바일 및 기타 디지털 채널 간에 메시지를 개인화하기 위한 세그먼트
+    실시간 고객 프로필과 중앙에서 관리되는 [!DNL Platform] 세그먼트를 사용하여 웹, 모바일 및 기타 디지털 채널에서 메시지를 개인화할 수 있습니다
   </td>
   <td>
     <ul style="margin-top: 0;">

@@ -1,6 +1,6 @@
 ---
-title: '통합: Real-time Customer Data Platform [!DNL Campaign]'
-description: Real-time Customer Data Platform을 와 통합하는 방법 알아보기 [!DNL Campaign]
+title: ' [!DNL Campaign]과(와) Real-time Customer Data Platform 통합'
+description: Real-time Customer Data Platform을  [!DNL Campaign]과(와) 통합하는 방법 알아보기
 solution: Real-Time Customer Data Platform, [!DNL Campaign]
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 
 ---
 
-# 실시간 고객 데이터 통합 [!DNL Platform] 포함 [!DNL Campaign]
+# 실시간 고객 데이터 [!DNL Platform]을(를) [!DNL Campaign]과(와) 통합
 
 {{$include /help/_includes/integrations-between-applications/campaign-rtcdp.md}}

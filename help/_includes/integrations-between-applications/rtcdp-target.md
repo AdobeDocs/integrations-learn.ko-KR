@@ -2,22 +2,22 @@
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
 
-# 실시간 고객 데이터 Adobe [!DNL Platform] 및 Adobe [!DNL Target] 통합
+# Adobe 실시간 고객 데이터 [!DNL Platform] 및 Adobe [!DNL Target] 통합
 
 {{real-time-cdp-description}}
 
 {{target-description}}
 
-Real-Time CDP 통합 [!DNL Target] 은 알려진 고객 데이터를 사용하여 콘텐츠를 개인화할 수 있는 기능을 제공합니다. 또한 Real-Time CDP의 데이터 거버넌스 및 동의 기능을 사용하면 알려진 고객 데이터를 책임감 있게 사용하고 법적, 계약 및 규제 제한을 준수하며 고객 선호도를 준수할 수 있습니다. Real-Time CDP 및 통합 시 얻을 수 있는 주요 이점 [!DNL Target] 포함:
+Real-Time CDP을 [!DNL Target]과(와) 통합하면 알려진 고객 데이터를 사용하여 콘텐츠를 개인화할 수 있습니다. 또한 Real-Time CDP의 데이터 거버넌스 및 동의 기능을 사용하면 알려진 고객 데이터를 책임감 있게 사용하고 법적, 계약 및 규제 제한을 준수하며 고객 선호도를 준수할 수 있습니다. Real-Time CDP과 [!DNL Target]을(를) 통합하면 다음과 같은 이점이 있습니다.
 
-+ **개인화된 경험 전달** 웹 사이트 및 모바일 앱에서.
-+ **세그먼트 및 프로필 속성 공유** Adobe Real-Time CDP에서 Adobe [!DNL Target].
-+ **[!DNL Target]콘텐츠** 를 사용하여 속성 값을 세그먼트화하고 표시할 수 있습니다.
++ 웹 사이트 및 모바일 앱에서 **개인화된 경험 제공**.
++ Adobe Real-Time CDP에서 [!DNL Target] Adobe으로 **세그먼트 및 프로필 특성 공유**.
++ **[!DNL Target]콘텐츠**&#x200B;을(를) 세그먼트로 가져와서 특성 값을 표시합니다.
 
 <table>
     <thead>
@@ -31,10 +31,10 @@ Real-Time CDP 통합 [!DNL Target] 은 알려진 고객 데이터를 사용하�
     <tbody>
     <tr>
         <td><a href="../../integrations/tutorials/rtcdp-target/web-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Real-Time CDP 및 [!DNL Target]</a></td>
-        <td>Web SDK 및 [!DNL Target] 대상</td>
+        <td>웹 SDK 및 [!DNL Target] 대상</td>
         <td>
             <ul style="margin-top: 0;">
-                <li>Real-Time CDP에서 로 데이터를 가장 빠르게 공유하려는 경우 [!DNL Target] 웹 사이트용.</li>
+                <li>웹 사이트를 위해 Real-Time CDP에서 [!DNL Target](으)로 데이터를 가장 빠르게 공유하려는 경우.</li>
             </ul>
         </td>
         <td>

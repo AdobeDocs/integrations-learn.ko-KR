@@ -1,6 +1,6 @@
 ---
-title: 고객 여정 통합 [!DNL Analytics] 포함 [!DNL Real-Time Customer Data Platform]
-description: 고객 여정을 통합하는 방법 알아보기 [!DNL Analytics] 포함 [!DNL Real-Time Customer Data Platform].
+title: 고객 여정  [!DNL Analytics] 과(와)  [!DNL Real-Time Customer Data Platform] 통합
+description: 고객 여정 [!DNL Analytics] 을(를)  [!DNL Real-Time Customer Data Platform]과(와) 통합하는 방법을 알아보세요.
 solution: Customer Journey [!DNL Analytics], Real-Time Customer Data [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -19,6 +19,6 @@ ht-degree: 5%
 
 ---
 
-# 고객 여정 통합 [!DNL Analytics] 실시간 고객 데이터 포함 [!DNL Platform]
+# 고객 여정 [!DNL Analytics]을(를) 실시간 고객 데이터 [!DNL Platform]과(와) 통합
 
 {{$include /help/_includes/integrations-between-applications/cja-rtcdp.md}}

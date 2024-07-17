@@ -1,6 +1,6 @@
 ---
-title: 통합 [!DNL Real-Time Customer Data Platform] Audience Manager 포함
-description: 실시간 고객 데이터를 통합하는 방법 알아보기 [!DNL Platform] Audience Manager.
+title: ' [!DNL Real-Time Customer Data Platform] 을(를) Audience Manager과 통합'
+description: Real-Time Customer Data [!DNL Platform] 을(를) Audience Manager과 통합하는 방법을 알아봅니다.
 solution: Real-Time Customer Data Platform, Audience Manager
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 5%
 
 ---
 
-# 통합 [!DNL Real-Time Customer Data Platform] 포함 [!DNL Audience Manager]
+# [!DNL Real-Time Customer Data Platform]과(와) [!DNL Audience Manager] 통합
 
 {{$include /help/_includes/integrations-between-applications/aam-rtcdp.md}}

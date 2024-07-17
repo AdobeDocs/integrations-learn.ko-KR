@@ -4,8 +4,8 @@ description: 비즈니스 솔루션별로 구성된 Experience Cloud 애플리�
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 9%
+source-wordcount: '178'
+ht-degree: 11%
 
 ---
 
@@ -64,8 +64,8 @@ ht-degree: 9%
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="규모에 맞는 개인화" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
-      <div><strong><a href="./personalization.md">규모에 따른 개인화</a></strong></div>
+      <a  href="./personalization.md"><img alt="규모에 맞는 Personalization" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <div><strong><a href="./personalization.md">규모에 따른 Personalization</a></strong></div>
       <p>
         모든 연결을 개인화하는 방법
       </p>

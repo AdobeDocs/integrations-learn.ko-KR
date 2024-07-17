@@ -1,6 +1,6 @@
 ---
-title: 통합 [!DNL Campaign] 포함 [!DNL Target]
-description: 통합 방법 알아보기 [!DNL Campaign] 포함 [!DNL Target].
+title: ' [!DNL Target]과(와)  [!DNL Campaign]  통합'
+description: ' [!DNL Campaign] 을(를)  [!DNL Target]과(와) 통합하는 방법을 알아봅니다.'
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Campaign Classic v7, Target
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 10%
 
 ---
 
-# 통합 [!DNL Campaign] 포함 [!DNL Target]
+# [!DNL Campaign]과(와) [!DNL Target] 통합
 
 {{$include /help/_includes/integrations-between-applications/campaign-target.md}}

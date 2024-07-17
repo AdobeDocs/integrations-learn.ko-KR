@@ -1,6 +1,6 @@
 ---
-title: 통합 [!DNL Analytics] 포함 [!DNL Real-Time Customer Data Platform]
-description: 통합 방법 알아보기 [!DNL Analytics] 실시간 고객 데이터 사용 [!DNL Platform].
+title: ' [!DNL Real-Time Customer Data Platform]과(와)  [!DNL Analytics]  통합'
+description: ' [!DNL Analytics] 을(를) 실시간 고객 데이터와 통합 [!DNL Platform]하는 방법에 대해 알아봅니다.'
 solution: Analytics, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -19,6 +19,6 @@ ht-degree: 5%
 
 ---
 
-# 통합 [!DNL Analytics] 실시간 고객 데이터 포함 [!DNL Platform]
+# [!DNL Analytics]을(를) 실시간 고객 데이터 [!DNL Platform]과(와) 통합
 
 {{$include /help/_includes/integrations-between-applications/analytics-rtcdp.md}}
