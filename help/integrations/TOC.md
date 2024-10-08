@@ -3,9 +3,9 @@ user-guide-title: Experience Cloud 통합 튜토리얼
 breadcrumb-title: Experience Cloud 통합
 user-guide-description: 통합 학습
 mini-toc-levels: 1
-source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
+source-git-commit: 055180c634e028a208d1def883288441e76f87c3
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '93'
 ht-degree: 17%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 17%
    + [고객 여정](./solution-categories/customer-journeys.md)
    + [데이터 인사이트 및 활성화](./solution-categories/data-insights.md)
    + [규모에 맞는 Personalization](./solution-categories/personalization.md)
+   + [GenStudio 아카데미](./tutorials/genstudio-academy.md)
 + 제품 통합{#integrations-between-applications}
    + [개요](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
