@@ -3,9 +3,9 @@ title: GenStudio 아카데미
 description: GenStudio 아카데미 랜딩
 index: false
 hidefromtoc: true
-source-git-commit: e8809d1e8662797ef6c3fdf0370e83f96797f600
+source-git-commit: e55be0b347a77cca64cc466ea9188f30ab5f7067
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '201'
 ht-degree: 2%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 2%
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <strong style= "font-size: 2em">마케팅용 생성 AI를 분류합니다.</strong><p> Generative AI 리더가 되십시오. 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">등록</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">로그인</span></a><td>
+  <td> <strong style= "font-size: 2em">마케팅용 생성 AI를 분류합니다.</strong><p> Generative AI 리더가 되십시오. 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">이동</span><td>
  </tr>
 </table>
 
@@ -61,7 +61,7 @@ ht-degree: 2%
  <tr style= "border: 0;colspan: 2;">
   <td> <strong style= "font-size: 2em">Genstudio Academy에 곧 출시</strong></td>
  </tr> 
- <tr> 
+ <tr style= "border: 0;colspan: 2;"> 
     <td align="left"><img src="./assets/small.png"></td>
     <td align="center"><img src="./assets/small.png"></td>
     <td align="right"><img src="./assets/small.png"></td>
@@ -72,23 +72,8 @@ ht-degree: 2%
 
 <table>
  <tr style= "border: 0;">
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <strong style= "font-size: 2em">학습 실행</strong><p> Generative AI 리더가 되십시오. 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">이동</span></a><td>
- </tr>
-</table>
-
-<table>
- <tr style= "border: 0;">
  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
   <td> <strong style= "font-size: 2em">학습 실행</strong><p> Generative AI 리더가 되십시오. 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">이동</span></a></td>
-
-</tr>
-</table>
-
-<table>
- <tr style= "border: 0;">
- <td><img src="./assets/medium.png"></td>
-  <td> <strong style= "font-size: 2em">바닥글</strong><p> Generative AI 리더가 되십시오. 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">이동</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">로그인</span></a></td>
 
 </tr>
 </table>
