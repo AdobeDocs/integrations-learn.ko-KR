@@ -3,7 +3,7 @@ title: GenStudio 아카데미
 description: GenStudio 아카데미 랜딩
 index: false
 hidefromtoc: true
-source-git-commit: 6270ed2ccb04287ff7da3a26e70d154c49ab65a2
+source-git-commit: e296e5d0859af7258ff4dcdd21ec507bfe1e3661
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 2%
@@ -46,7 +46,7 @@ ht-degree: 2%
 <table>
  <tr style= "border: 0;">
   <td align="center"> <strong style= "font-size: 2em">개의 FOO 확인 메시지가 쉽게 표시되었습니다.</strong><p> 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다. 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다. 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다.</td>
-  <td><img src="./assets/medium.png"></td>
+  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
