@@ -3,7 +3,7 @@ title: GenStudio 아카데미
 description: GenStudio 아카데미 랜딩
 index: false
 hidefromtoc: true
-source-git-commit: 56161e27aecff07b0d93bf85edb994c477d9e586
+source-git-commit: 969f6489b79a84079c542c008b8f7dd372afcd60
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 1%
@@ -22,12 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em"> 기본 생성 AI. 워크플로를 변환합니다.</strong>
-  </td>
- </tr>
- <tr style= "border: 0;">
-  <td align="center">
-    마케팅 워크플로우에서 생성 AI를 사용하기 위한 핵심 기술에 대해 알아봅니다. 어디든지. 공짜로.
+    <strong style= "font-size: 2em"> 기본 생성 AI. 워크플로를 변환합니다.</strong><p>마케팅 워크플로우에서 생성 AI를 사용하기 위한 핵심 기술에 대해 알아봅니다. 어디든지. 공짜로.
   </td>
  </tr>
 </table>
