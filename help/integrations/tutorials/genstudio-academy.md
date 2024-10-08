@@ -3,9 +3,9 @@ title: GenStudio 아카데미
 description: GenStudio 아카데미 랜딩
 index: false
 hidefromtoc: true
-source-git-commit: e55be0b347a77cca64cc466ea9188f30ab5f7067
+source-git-commit: 6270ed2ccb04287ff7da3a26e70d154c49ab65a2
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '202'
 ht-degree: 2%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 2%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em">확인 메시지를 쉽게 표시합니다.</strong><p> 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다. 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다. 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다.</td>
+  <td align="center"> <strong style= "font-size: 2em">개의 FOO 확인 메시지가 쉽게 표시되었습니다.</strong><p> 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다. 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다. 기본 AI 기술을 통해 워크플로우를 전환하고 업계를 선도합니다.</td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
