@@ -3,7 +3,7 @@ title: GenStudio 아카데미
 description: GenStudio 아카데미 랜딩
 index: false
 hidefromtoc: true
-source-git-commit: e14b1f5e7a01a9e55aee6be31f9d4d262efe9140
+source-git-commit: 0bc7183ad172cc640dc45281bab3504f500cb871
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 1%
@@ -46,7 +46,7 @@ ht-degree: 1%
 </table>
 
 
-<table>
+<table align="center">
  <tr style= "border: 0;colspan: 3;">
   <td colspan="3"> <strong style= "font-size: 2em;">준비 중</strong></td>
  </tr> 
