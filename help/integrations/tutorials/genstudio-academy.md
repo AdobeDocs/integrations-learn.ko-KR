@@ -3,9 +3,9 @@ title: GenStudio 아카데미
 description: GenStudio 아카데미 랜딩
 index: false
 hidefromtoc: true
-source-git-commit: e8126729c5ebc92999d09be07c8a359f96236ed3
+source-git-commit: c9395bb9f75f00a816757fc76cb137de1a7bbc63
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -48,10 +48,10 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;colspan: 3;">
-  <td colspan="3"> <strong style= "font-size: 2em;">Genstudio Academy에 곧 출시</strong></td>
+  <td colspan="3"> <strong style= "font-size: 2em;">준비 중</strong></td>
  </tr> 
  <tr style= "border: 0;colspan: 3;"> 
-   <td>
+   <td align="Left">
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
       <strong>팁과 트릭 </strong>
@@ -60,7 +60,7 @@ ht-degree: 1%
       GenStudio for Performance Marketing을 가장 효율적인 방식으로 사용하기 위한 팁과 요령입니다.
       </p>
    </td>
-   <td>
+   <td align="Right">
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
       <strong>전문가 과정</strong>
