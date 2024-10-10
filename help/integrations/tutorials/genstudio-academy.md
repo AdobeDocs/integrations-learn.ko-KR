@@ -3,10 +3,10 @@ title: GenStudio 아카데미
 description: GenStudio 아카데미 랜딩
 index: false
 hidefromtoc: true
-source-git-commit: 58659803aa9611d28c8b31c3f879f0df4e10fe32
+source-git-commit: e8126729c5ebc92999d09be07c8a359f96236ed3
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 2%
+source-wordcount: '197'
+ht-degree: 1%
 
 ---
 
@@ -47,15 +47,14 @@ ht-degree: 2%
 
 
 <table>
- <!-- <tr style= "border: 0;colspan: 3;">
-  <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
- </tr> --> 
+ <tr style= "border: 0;colspan: 3;">
+  <td colspan="3"> <strong style= "font-size: 2em;">Genstudio Academy에 곧 출시</strong></td>
+ </tr> 
  <tr style= "border: 0;colspan: 3;"> 
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="https://www.adobe.com/kr/"><strong>팁과 트릭 </strong>
-      </a>
+      <strong>팁과 트릭 </strong>
       </div>
       <p>
       GenStudio for Performance Marketing을 가장 효율적인 방식으로 사용하기 위한 팁과 요령입니다.
@@ -64,8 +63,7 @@ ht-degree: 2%
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="https://www.adobe.com/kr/"><strong>전문가 과정</strong>
-      </a>
+      <strong>전문가 과정</strong>
       </div>
       <p>
       마케팅에서 전문가 수준의 AI 기술을 활용하는 고급 교육 과정입니다.
@@ -80,7 +78,7 @@ ht-degree: 2%
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">학습 실행</strong><p>마케팅 팀이 자신의 광고와 이메일을 만들어 영향력 있고 개인화된 마케팅 캠페인을 유도할 수 있는 생성 AI 우선 애플리케이션인 GenStudio for Performance Marketing을 살펴보십시오.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">이동</span></a></td>
+  <td> <strong style= "font-size: 2em">학습 실행</strong><p>마케팅 팀이 자신의 광고와 이메일을 만들어 영향력 있고 개인화된 마케팅 캠페인을 유도할 수 있는 생성 AI 우선 애플리케이션인 GenStudio for Performance Marketing을 살펴보십시오.<p><a href="https://business.adobe.com" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">이동</span></a></td>
  </tr>
     <tr></tr>
 </table>
