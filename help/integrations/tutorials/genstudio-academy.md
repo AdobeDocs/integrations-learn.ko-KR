@@ -3,7 +3,7 @@ title: GenStudio 아카데미
 description: GenStudio 아카데미 랜딩
 index: false
 hidefromtoc: true
-source-git-commit: c9395bb9f75f00a816757fc76cb137de1a7bbc63
+source-git-commit: e14b1f5e7a01a9e55aee6be31f9d4d262efe9140
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 1%
@@ -78,7 +78,7 @@ ht-degree: 1%
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">학습 실행</strong><p>마케팅 팀이 자신의 광고와 이메일을 만들어 영향력 있고 개인화된 마케팅 캠페인을 유도할 수 있는 생성 AI 우선 애플리케이션인 GenStudio for Performance Marketing을 살펴보십시오.<p><a href="https://business.adobe.com" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">이동</span></a></td>
+  <td> <strong style= "font-size: 2em">학습 실행</strong><p>마케팅 팀이 자신의 광고와 이메일을 만들어 영향력 있고 개인화된 마케팅 캠페인을 유도할 수 있는 생성 AI 우선 애플리케이션인 GenStudio for Performance Marketing을 살펴보십시오.<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">이동</span></a></td>
  </tr>
     <tr></tr>
 </table>
