@@ -3,9 +3,9 @@ title: GenStudio 아카데미
 description: GenStudio 아카데미 랜딩
 index: false
 hidefromtoc: true
-source-git-commit: 743c51f9736576d0c0d41bd8d4924c1fc2ca320f
+source-git-commit: bce56dc3f7eeacb704ab53bd25ddbe21284d5781
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '192'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td> <strong style= "font-size: 2em">일반 AI 지식을 향상시킵니다.  </strong><p>크리에이티브 및 마케팅 워크플로우를 변환하기 위한 생성 AI 기술을 기본으로 제공합니다. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">등록</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">로그인</span></a></td>
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td><img src="./assets/elevate-your-generative-ai-knowledge.png"></td>
  </tr>
 </table>
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center"> <strong style= "font-size: 2em">학습 수준. 무한한 기회가 잠금 해제되었습니다.</strong><p>GenStudio Academy의 숙달 수준을 사용하면 LLM에 대해 학습하거나, 신속한 생성 작업을 마스터하거나, AI 도구가 작동하는 것을 보는 등 생성 AI 기술을 향상시키는 콘텐츠를 쉽게 찾을 수 있습니다. GenStudio 아카데미는 모두를 위한 무언가가 있다.</td>
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td><img src="./assets/levels-of-learning.png"></td>
  </tr>
 </table>
 
@@ -51,8 +51,26 @@ ht-degree: 1%
   <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
  </tr> --> 
  <tr style= "border: 0;colspan: 3;"> 
-    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>GenStudio for Performance Marketing을 가장 효율적인 방식으로 사용하기 위한 팁과 요령입니다. </td>
-    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>마케팅에서 전문가 수준의 AI 기술을 활용하는 고급 교육 과정입니다. </td>
+   <td>
+      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+      <div>
+      <a href="www.adobe.com"><strong>팁과 트릭 </strong>
+      </a>
+      </div>
+      <p>
+      GenStudio for Performance Marketing을 가장 효율적인 방식으로 사용하기 위한 팁과 요령입니다.
+      </p>
+   </td>
+   <td>
+      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+      <div>
+      <a href="www.adobe.com"><strong>전문가 과정</strong>
+      </a>
+      </div>
+      <p>
+      마케팅에서 전문가 수준의 AI 기술을 활용하는 고급 교육 과정입니다.
+      </p>
+   </td>
  </tr>
 </table>
 
