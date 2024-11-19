@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 295
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16483
-source-git-commit: 7d07f37f6267eda106f895cb367d42669f0d5c65
+source-git-commit: 911be1d339181609a94770b070f9187916fe7fe4
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Adobe GenStudio의 가벼운 검토 및 승인
 
-[통합 개요로 돌아가기](./overview.md)
+[‹ 통합 개요로 돌아가기](./overview.md)
 
 AEM Assetsas a Cloud Service 에서 에셋을 업로드하고, 검토하고, 승인하여 콘텐츠 워크플로를 간소화하는 방법에 대해 알아봅니다. 승인되면 이러한 에셋은 GenStudio for Performance Marketing에 원활하게 통합되어 캠페인에 대해 브랜드 승인을 받은 자료에 쉽게 액세스할 수 있습니다.
 
