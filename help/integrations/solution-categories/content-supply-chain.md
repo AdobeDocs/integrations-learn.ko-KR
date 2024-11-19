@@ -2,10 +2,10 @@
 title: 콘텐츠 공급망을 위한 애플리케이션 통합
 description: 콘텐츠를 계획, 작성, 개인화 및 게시할 수 있습니다.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '327'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 2%
   </thead>
   <tbody>
 <tr>
-  <td><strong>브랜드 자산을 사용하여 마케팅 자료 만들기</strong><br/></td>
+  <td rowspan="2"><strong>브랜드 자산을 사용하여 마케팅 자료 만들기</strong><br/></td>
   <td>AEM 및 Adobe [!DNL Campaign]을(를) 사용하여 전자 메일 마케팅 콘텐츠와 템플릿을 빌드하고 감독합니다.</td>
   <td>
     <ul>
@@ -34,6 +34,16 @@ ht-degree: 2%
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] 및 AEM</a></td>
+</tr>
+<tr>
+  <td>브랜드에 맞게 개인화된 마케팅 경험을 만듭니다.</td>
+  <td>
+    <ul>
+      <li>GenStudio for Performance Marketing에서 만든 마케팅 이메일을 AEM Assets의 브랜드 내 이미지와 함께 보냅니다.</li>
+      <li>AEM Assets의 브랜드 내 이미지를 사용하여 GenStudio for Performance Marketing에서 브랜드 내 메타 광고를 만듭니다.</li>
+    </ul>    
+  </td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GenStudio for Performance Marketing 및 AEM</a></td>
 </tr>
 <tr>
   <td rowspan="3"><strong>자산 만들기 관리</strong><br/></td>

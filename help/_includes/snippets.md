@@ -1,7 +1,7 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '941'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ Adobe [!DNL Analytics]은(는) 조직이 웹 사이트, 모바일 앱, 스트리
 
 ## Audience Manager 설명 {#audience-manager-description}
 
-Adobe Audience Manager(AAM)는 Adobe에서 제공하는 DMP(데이터 관리 플랫폼)입니다. 이를 통해 기업은 다양한 소스에서 대량의 대상 데이터를 수집, 구성 및 세그먼트화할 수 있으며, 이를 통해 마케터는 타겟팅되고 개인화된 광고 캠페인을 제작하고, 콘텐츠 전달을 최적화할 수 있으며, 대상 행동 및 선호도에서 수집된 중요한 통찰력을 기반으로 전반적인 고객 경험을 개선할 수 있습니다.
+Adobe Audience Manager(AAM)는 Adobe에서 제공하는 데이터 관리 플랫폼(DMP)입니다. 이를 통해 기업은 다양한 소스에서 대량의 대상 데이터를 수집, 구성 및 세그먼트화할 수 있으며, 이를 통해 마케터는 타겟팅되고 개인화된 광고 캠페인을 제작하고, 콘텐츠 전달을 최적화할 수 있으며, 대상 행동 및 선호도에서 수집된 중요한 통찰력을 기반으로 전반적인 고객 경험을 개선할 수 있습니다.
 
 ## [!DNL Campaign] 설명 {#campaign-description}
 
@@ -46,6 +46,11 @@ Adobe Experience Manager Forms은 Adobe Experience Manager의 구성 요소로�
 ## 경험 [!DNL Platform] 설명 {#experience-platform-description}
 
 Adobe 경험 [!DNL Platform]은(는) 고객 경험을 주도하는 완벽한 솔루션을 구축하고 관리하기 위해 시장에서 가장 강력하고 유연하며 개방적인 시스템입니다. [!DNL Platform] 경험을 통해 조직은 모든 시스템의 고객 데이터와 콘텐츠를 중앙 집중화 및 표준화하고 데이터 과학 및 시스템 학습을 적용하여 풍부한 개인별 경험의 디자인과 전달을 획기적으로 개선할 수 있습니다.
+
+
+## GenStudio for Performance Marketing 설명 {#genstudio-for-performance-marketing-description}
+
+Adobe GenStudio for Performance Marketing은 브랜드에서 승인한 자산을 통합하여 콘텐츠 생성 및 관리를 간소화하는 강력한 애플리케이션으로, 마케터가 모든 채널에 개인화되고 일관된 콘텐츠를 규모에 맞게 제공할 수 있어 캠페인 성과를 높일 수 있습니다.
 
 ## Journey Optimizer 설명 {#journey-optimizer-description}
 
