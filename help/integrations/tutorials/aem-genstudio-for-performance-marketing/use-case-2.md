@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
-source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
+source-git-commit: 7d07f37f6267eda106f895cb367d42669f0d5c65
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Adobe GenStudio을 사용하여 변형 만들기
 
-[‹ 통합 개요로 돌아가기](./overview.md)
+[통합 개요로 돌아가기](./overview.md)
 
 GenStudio for Performance Marketing과 AEM Assets as a Cloud Service 및 Adobe Express이 어떻게 상호 작용하여 통합적인 마케팅 캠페인을 신속하게 생성할 수 있는지 알아보십시오. 이메일 프로모션 및 메타 광고에 대한 비주얼을 쉽게 생성하고 조정함으로써, 동일한 마케팅 경험에 대해 다양한 대상자를 타겟팅하는 동안 일관성을 보장합니다.
 
