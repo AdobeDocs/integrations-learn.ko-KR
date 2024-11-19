@@ -11,7 +11,7 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
-source-git-commit: 9624caa4307c31f94c5439b99ac48278dd9a67da
+source-git-commit: ba8d90c256356ccf806484a5b791d5c4ad54ab9f
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 2%
@@ -23,9 +23,7 @@ ht-degree: 2%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
 
-
 Adobe GenStudio 및 AEM Assetsas a Cloud Service 의 기능을 활용하여 성능 마케팅 워크플로우를 전환할 수 있습니다. 원활한 통합을 통해 중앙 집중식 저장소에서 브랜드로 승인된 에셋에 액세스하여 모든 캠페인 및 채널에 대해 일관된 고품질 콘텐츠를 만들 수 있습니다. 이러한 도구를 통해 콘텐츠 공급망을 간소화하고 마케팅 효과를 높이는 방법을 살펴볼 수 있습니다.
-
 
 ## 연습
 
