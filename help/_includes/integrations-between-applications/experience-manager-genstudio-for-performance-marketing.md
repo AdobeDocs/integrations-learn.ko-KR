@@ -1,7 +1,7 @@
 ---
-source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
+source-git-commit: 954b4bd9b36496d3a5992316a985bf88d129baf5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '116'
 ht-degree: 2%
 
 ---
@@ -42,11 +42,7 @@ Adobe GenStudio for Performance Marketing과 Experience Manager Assets Essential
             <td>
                 <ul style="margin-top: 0;">
                     <li>브랜드 자산을 업로드, 검토 및 승인합니다.</li>
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
                     <li>마케팅 경험에 사용할 승인된 브랜드 자산의 이미지 변형을 만듭니다.</li>
-=======
-                    <li>마케팅 경험에 사용할 승인된 브랜드 자산의 이미지 변형을 만듭니다.</li>&lt;
-&gt;&gt;&gt;&gt;&gt;&gt;&gt; edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
                 </ul>
             </td>
         </tr>        
