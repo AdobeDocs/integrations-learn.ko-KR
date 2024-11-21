@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud 통합 튜토리얼
 breadcrumb-title: Experience Cloud 통합
 user-guide-description: 통합 학습
 mini-toc-levels: 1
-source-git-commit: 1ef94353ffe1be605df8e575edac3e2a9ef69afb
+source-git-commit: 6c6adc31c2c556373528841250c5c91ac42388a6
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 20%
+source-wordcount: '118'
+ht-degree: 19%
 
 ---
 
@@ -106,5 +106,5 @@ ht-degree: 20%
       + [개요](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [설정](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [통합 워크스루](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
-      + [사용 사례 #1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-      + [사용 사례 #2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+      + [Adobe GenStudio에서 검토 및 승인](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+      + [Adobe GenStudio을 사용하여 변형 만들기](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
