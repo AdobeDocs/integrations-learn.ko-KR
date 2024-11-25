@@ -11,17 +11,20 @@ doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
+index: true
+hidefromtoc: true
+badgeIntegration: label="AEM Asset 및 GenStudio for Performance Marketing" type="positive"
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: c3d3d3076d495d01701dae09088ea0278c345299
+source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 7%
+source-wordcount: '264'
+ht-degree: 6%
 
 ---
 
-# 설정
+# AEM Asset 및 GenStudio for Performance Marketing 설정
 
-[‹ 통합 개요로 돌아가기](./overview.md)
+[‹ AEM Asset 및 GenStudio for Performance Marketing 개요로 돌아가기](./overview.md)
 
 AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing을 사용하여 Adobe GenStudio을 시작하려면 두 애플리케이션을 모두 올바르게 구성해야 합니다. 설정 프로세스에는 Adobe GenStudio을 AEM Assets 및 GenStudio for Performance Marketing과 완전히 통합하기 전에 완료해야 하는 몇 가지 단계가 포함됩니다.
 

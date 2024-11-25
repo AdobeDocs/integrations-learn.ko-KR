@@ -11,17 +11,20 @@ doc-type: Feature Video
 duration: 296
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
+index: true
+hidefromtoc: true
+badgeIntegration: label="AEM Asset 및 GenStudio for Performance Marketing" type="positive"
 exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
-source-git-commit: 39e23e7d05dc76f96b41051db83e2bb6141e7cc5
+source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-# 통합 워크스루
+# AEM Asset 및 GenStudio for Performance Marketing 연습
 
-[‹ 통합 개요로 돌아가기](./overview.md)
+[‹ AEM Asset 및 GenStudio for Performance Marketing 개요로 돌아가기](./overview.md)
 
 AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing AEM Assets 통합 사용, AEM Assets에서 에셋 승인에 에셋 업로드 및 GenStudio for Performance Marketing에서 승인된 에셋 사용에 대한 기본 사항을 알아봅니다.
 
