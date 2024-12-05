@@ -1,5 +1,5 @@
 ---
-title: AEM Assets 및 GenStudio for Performance Marketing을 사용하여 Adobe GenStudio 설정
+title: GenStudio for Performance Marketing 및 AEM Assets을 사용하여 Adobe GenStudio 설정
 description: AEM Assets과 GenStudio for Performance Marketing 간의 통합을 설정하는 방법에 대해 알아봅니다.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
@@ -11,29 +11,34 @@ doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
-index: true
-hidefromtoc: true
-badgeIntegration: label="AEM Asset 및 GenStudio for Performance Marketing" type="positive"
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
+source-git-commit: 4400dfd33821ef15e134f272fa9834b6302b61b1
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 6%
+source-wordcount: '265'
+ht-degree: 7%
 
 ---
 
-# AEM Asset 및 GenStudio for Performance Marketing 설정
+# GenStudio for Performance Marketing 및 AEM Assets 설정
 
-[‹ AEM Asset 및 GenStudio for Performance Marketing 개요로 돌아가기](./overview.md)
+[‹ 통합 개요로 돌아가기](./overview.md)
 
-AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing을 사용하여 Adobe GenStudio을 시작하려면 두 애플리케이션을 모두 올바르게 구성해야 합니다. 설정 프로세스에는 Adobe GenStudio을 AEM Assets 및 GenStudio for Performance Marketing과 완전히 통합하기 전에 완료해야 하는 몇 가지 단계가 포함됩니다.
+AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing과 함께 Adobe GenStudio을 사용하려면 필요한 제품이 프로비저닝되고, 활성화되고, 구성되었는지 확인하십시오. 특히 다음에 대한 액세스 권한이 필요합니다.
 
-이러한 작업에는 두 시스템을 모두 관리할 수 있는 적절한 권한이 있는 관리자와 공동 작업이 필요합니다.
+* AEM Assets as a Cloud Service
+* AEM Assets Content Hub
+* 성과 마케팅을 위한 GenStudio
+
+이러한 제품을 사용하고 설정하고 사용자가 액세스할 수 있도록 보장하는 것 외에 이러한 제품을 통합하는 데 필요한 추가 설정은 없습니다.
+
+## 안내선 설정
+
+이러한 Adobe 제품이 아직 설정되지 않았으며 활성화되지 않은 경우 자세한 구성 단계는 다음 안내서를 참조하십시오.
 
 <!-- CARDS 
 
 * https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view
-   {title=Set up AEM Assets with Assets view}
+   {title=Set up AEM Assets}
 * https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up
    {title=Enable AEM Assets Content Hub}
 * https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started
@@ -43,12 +48,12 @@ AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing을 사용�
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up AEM Assets with Assets view">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Set up AEM Assets">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" title="Assets 보기로 AEM Assets 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="Assets 보기로 AEM Assets 설정"
+                    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" title="AEM Assets 설정" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="AEM Assets 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -56,9 +61,9 @@ AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing을 사용�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="Assets 보기로 AEM Assets 설정">Assets 보기로 AEM Assets 설정</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="AEM Assets 설정">AEM Assets 설정</a>
                     </p>
-                    <p class="is-size-6">제품 전문 지식을 향상하기 위해 고안된 이 비디오 플레이리스트 컬렉션으로 Assets 보기에서 AEM Assetsas a Cloud Service 를 사용하는 방법을 알아봅니다.</p>
+                    <p class="is-size-6">제품 지식을 향상하기 위해 선별된 비디오 플레이리스트로 Assets 보기에서 AEM Assetsas a Cloud Service 를 탐색하는 방법에 대해 알아보십시오.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
@@ -71,7 +76,7 @@ AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing을 사용�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up" title="AEM Assets Content Hub 활성화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1732112018062" alt="AEM Assets Content Hub 활성화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1733417775065" alt="AEM Assets Content Hub 활성화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
