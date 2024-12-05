@@ -12,16 +12,16 @@ duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 4400dfd33821ef15e134f272fa9834b6302b61b1
+source-git-commit: 0943e1198e542a4357e19708b7bd6f0d79c2aafc
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '270'
 ht-degree: 7%
 
 ---
 
 # GenStudio for Performance Marketing 및 AEM Assets 설정
 
-[‹ 통합 개요로 돌아가기](./overview.md)
+[‹ AEM Asset 및 GenStudio for Performance Marketing 개요로 돌아가기](./overview.md)
 
 AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing과 함께 Adobe GenStudio을 사용하려면 필요한 제품이 프로비저닝되고, 활성화되고, 구성되었는지 확인하십시오. 특히 다음에 대한 액세스 권한이 필요합니다.
 
@@ -31,7 +31,7 @@ AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing과 함께 
 
 이러한 제품을 사용하고 설정하고 사용자가 액세스할 수 있도록 보장하는 것 외에 이러한 제품을 통합하는 데 필요한 추가 설정은 없습니다.
 
-## 안내선 설정
+## 설정 안내서
 
 이러한 Adobe 제품이 아직 설정되지 않았으며 활성화되지 않은 경우 자세한 구성 단계는 다음 안내서를 참조하십시오.
 
