@@ -15,7 +15,7 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset 및 GenStudio for Performance Marketing" type="positive"
 exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
-source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
+source-git-commit: 7764aca295510187e45b448d39f23514915a6517
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing AEM Assets 통합 사용, AEM Assets에서 에셋 승인에 에셋 업로드 및 GenStudio for Performance Marketing에서 승인된 에셋 사용에 대한 기본 사항을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
