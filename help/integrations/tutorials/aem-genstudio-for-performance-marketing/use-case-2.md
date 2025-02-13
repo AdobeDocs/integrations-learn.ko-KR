@@ -1,7 +1,6 @@
 ---
 title: Adobe GenStudio을 사용하여 변형 만들기
-description: AEM Assets 및 Adobe Express을 사용하여 동일한 마케팅 경험을 홍보하는 데 사용되는 이메일 및 메타 광고에 사용할 에셋 변형을 만드는 사용 사례를 살펴봅니다.
-solution: Experience Manager, GenStudio for Performance Marketing
+description: AEM Assets 및 Adobe Express을 사용하여 이메일 및 메타 광고에 대한 에셋 변형을 만들고 일관된 마케팅 경험을 보장하는 방법을 살펴봅니다.
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
@@ -15,17 +14,17 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset 및 GenStudio for Performance Marketing" type="positive"
 exl-id: 338762f2-179a-47ab-8ca8-d22921a0354d
-source-git-commit: 2bbf8feb6eb83c7bd3f8d36ca821713e86dd8b4f
+source-git-commit: 998a43ccd2b3d8a15f4c065e9e0f153edd81b7a6
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Adobe GenStudio을 사용하여 변형 만들기
 
-[‹ AEM Asset 및 GenStudio for Performance Marketing 개요로 돌아가기](./overview.md)
+[‹ AEM Assets 및 GenStudio for Performance Marketing 개요로 돌아가기](./overview.md)
 
-GenStudio for Performance Marketing과 AEM Assets as a Cloud Service 및 Adobe Express이 어떻게 상호 작용하여 통합적인 마케팅 캠페인을 신속하게 생성할 수 있는지 알아보십시오. 이메일 프로모션 및 메타 광고에 대한 비주얼을 쉽게 생성하고 조정함으로써, 동일한 마케팅 경험에 대해 다양한 대상자를 타겟팅하는 동안 일관성을 보장합니다.
+AEM Assets as a Cloud Service 및 Adobe Express을 GenStudio for Performance Marketing과 함께 사용하여 통합 마케팅 캠페인에 적합한 에셋 변형을 빠르게 만드는 방법을 살펴봅니다. 이메일 프로모션 및 메타 광고에 대한 비주얼을 쉽게 생성하고 조정함으로써, 동일한 마케팅 경험에 대해 다양한 대상자를 타겟팅하는 동안 일관성을 보장합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on&enablevpops)
