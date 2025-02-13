@@ -1,6 +1,6 @@
 ---
-title: GenStudio for Performance Marketing 및 AEM Assets을 사용한 Adobe GenStudio
-description: 이 비디오에서는 AEM Assets을 GenStudio for Performance Marketing과 통합하여 팀이 브랜드에서 승인한 자산의 중앙 집중식 저장소에 액세스하여 모든 채널 및 캠페인에서 일관적인 콘텐츠를 보장하는 방법을 설명합니다.
+title: Adobe GenStudio for Performance Marketing 및 AEM Assets 사용
+description: Adobe GenStudio의 잠금을 해제하여 마케팅을 간소화할 수 있습니다. 브랜드에서 승인한 에셋에 액세스하고 채널 간에 일관된 고품질 콘텐츠를 만듭니다.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -15,31 +15,31 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset 및 GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: ad3d8d090434b1c1a2cbcf024223db9fb6bb9fef
+source-git-commit: 7ffb3102086df5d7ca7b6593fd94bec9518d227e
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
 
-# AEM Assets 및 GenStudio for Performance Marketing을 사용한 Adobe GenStudio
+# AEM Assets 및 GenStudio for Performance Marketing을 사용하는 Adobe GenStudio
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
 
-Adobe GenStudio 및 AEM Assetsas a Cloud Service 의 기능을 활용하여 성능 마케팅 워크플로우를 전환할 수 있습니다. 원활한 통합을 통해 중앙 집중식 저장소에서 브랜드로 승인된 에셋에 액세스하여 모든 캠페인 및 채널에 대해 일관된 고품질 콘텐츠를 만들 수 있습니다. 이러한 도구를 통해 콘텐츠 공급망을 간소화하고 마케팅 효과를 높이는 방법을 살펴볼 수 있습니다.
+Adobe GenStudio 및 AEM Assets as a Cloud Service의 기능을 활용하여 성능 마케팅 워크플로우를 혁신할 수 있습니다. 원활한 통합을 통해 중앙 집중식 저장소에서 브랜드로 승인된 에셋에 액세스하여 모든 캠페인 및 채널에 대해 일관된 고품질 콘텐츠를 만들 수 있습니다. 이러한 도구를 통해 콘텐츠 공급망을 간소화하고 마케팅 효과를 높이는 방법을 살펴볼 수 있습니다.
 
 ## 전제 조건
 
 AEM Assets과 GenStudio for Performance Marketing 간의 통합을 위해서는 다음에 대한 기본적인 이해가 필요합니다.
 
-* Adobe GenStudio for Performance Marketing
-* AEM Assets as a Cloud Service
+* [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing)
+* [AEM Assets as a Cloud Service](https://experienceleague.adobe.com/ko/docs/experience-manager-cloud-service/content/assets/overview)
 
 설정 및 워크플로로 이동하기 전에 AEM Assets 및 GenStudio for Performance Marketing에 필요한 액세스 권한이 있는지 확인하십시오.
 
 ## 시작하기
 
-AEM Assets 및 GenStudio for Performance Marketing을 기본적으로 이해하고 있는 사용자를 위해 설계된 두 가지 포괄적인 연습을 살펴봅니다. 첫 번째 연습에서는 Adobe GenStudio과 AEM Assetsas a Cloud Service 를 원활하게 통합하는 데 필요한 모든 사항을 포함하여 설정 프로세스를 안내합니다. 두 번째는 주요 워크플로우로 이동하여 통합을 활용하여 성과 마케팅 콘텐츠를 효과적으로 만들고, 관리하고, 배포하기 위한 주요 동작을 보여 줍니다.
+AEM Assets 및 GenStudio for Performance Marketing을 기본적으로 이해하고 있는 사용자를 위해 설계된 두 가지 포괄적인 연습을 살펴봅니다. 첫 번째 연습에서는 Adobe GenStudio과 AEM Assets as a Cloud Service을 원활하게 통합하는 데 필요한 모든 사항을 다루는 설정 프로세스를 안내합니다. 두 번째는 주요 워크플로우로 이동하여 통합을 활용하여 성과 마케팅 콘텐츠를 효과적으로 만들고, 관리하고, 배포하기 위한 주요 동작을 보여 줍니다.
 
 <!-- CARDS 
 
@@ -105,7 +105,7 @@ AEM Assets 및 GenStudio for Performance Marketing을 기본적으로 이해하�
 
 ## 작동 중인 통합
 
-AEM Assets 및 GenStudio for Performance Marketing에 대한 기본 지식을 갖춘 사용자를 위해 설계된 실용적인 사용 사례를 살펴보십시오. 이러한 예제는 자산 승인 프로세스를 단순화하고, 사용자 지정된 콘텐츠 변형을 생성 및 활용하며, AEM Assetsas a Cloud Service 와 GenStudio for Performance Marketing이 어떻게 상호 작용하여 일관된 성능 마케팅 캠페인을 강화하는지 보여 줍니다.
+AEM Assets 및 GenStudio for Performance Marketing에 대한 기본 지식을 갖춘 사용자를 위해 설계된 실용적인 사용 사례를 살펴보십시오. 이러한 예제에서는 자산 승인 프로세스를 단순화하고, 사용자 지정된 컨텐츠 변형을 생성 및 활용하며, AEM Assets as a Cloud Service과 GenStudio for Performance Marketing이 함께 작동하여 효율적이고 일관된 성능 마케팅 캠페인을 제공하는 등 이 통합이 워크플로를 향상시키는 방법을 보여 줍니다.
 
 <!-- CARDS 
 
@@ -128,7 +128,7 @@ AEM Assets 및 GenStudio for Performance Marketing에 대한 기본 지식을 �
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Adobe GenStudio의 가벼운 검토 및 승인">Adobe GenStudio의 가벼운 검토 및 승인</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" title="Adobe GenStudio의 가벼운 검토 및 승인">Adobe GenStudio에서 간단한 검토 및 승인</a>
                     </p>
                     <p class="is-size-6">AEM Assets에서 자산을 업로드, 검토 및 승인하여 GenStudio for Performance Marketing에서 사용할 수 있도록 하는 사용 사례를 살펴봅니다.</p>
                 </div>
