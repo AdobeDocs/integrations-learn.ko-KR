@@ -1,8 +1,8 @@
 ---
 title: GenStudio for Performance Marketing 및 AEM Assets 설정
 description: GenStudio for Performance Marketing 및 AEM Assets과 함께 Adobe GenStudio을 설정하여 콘텐츠 생성을 간소화하고 브랜드 일관성을 보장합니다.
-solution: Experience Manager, GenStudio for Performance Marketing
-version: Cloud Service
+solution: Experience Manager, Experience Manager as a Cloud Service, GenStudio for Performance Marketing
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
 role: User
@@ -14,7 +14,7 @@ index: true
 hidefromtoc: false
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 67814146c561a483a00dd82f7cf1116c114beaf6
+source-git-commit: 20e988c078ee926bbcf79f581ad9a60d5c478a83
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 7%
@@ -29,7 +29,7 @@ AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing과 함께 
 
 * AEM Assets as a Cloud Service
 * AEM Assets Content Hub
-* 성과 마케팅을 위한 GenStudio
+* GenStudio for Performance Marketing
 
 이러한 제품을 사용하고 설정하고 사용자가 액세스할 수 있도록 보장하는 것 외에 이러한 제품을 통합하는 데 필요한 추가 설정은 없습니다.
 
