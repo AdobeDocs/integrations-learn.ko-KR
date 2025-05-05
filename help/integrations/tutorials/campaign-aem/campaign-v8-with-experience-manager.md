@@ -26,22 +26,22 @@ Adobe [!DNL Campaign]을(를) Adobe Experience Manager과 연결하여 Experienc
 
 다음 비디오에서는 학습 내용을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344276?quality=12&learn=on&captions=kor)
 
 ## Experience Manager 통합을 위해 [!DNL Campaign] 구성
 
 찾아야 할 중요한 설정 및 피해야 할 잠재적인 &#39;문제&#39;를 포함하여 Experience Manager과 [!DNL Campaign] 간의 통합을 설정하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445903?quality=12&learn=on&captions=kor)
 
 ## [!DNL Campaign]에 Experience Manager 페이지 승인 및 게시
 
 Experience Manager에서 뉴스레터를 만드는 방법과 [!DNL Campaign]에 승인하고 게시하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447578?quality=12&learn=on&captions=kor)
 
 ## [!DNL Campaign]에서 Experience Manager 이메일 게재를 동기화하고 보내기
 
 [!DNL Campaign]에서 Experience Manager에서 만든 뉴스레터를 테스트하고 보내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444755?quality=12&learn=on&captions=kor)

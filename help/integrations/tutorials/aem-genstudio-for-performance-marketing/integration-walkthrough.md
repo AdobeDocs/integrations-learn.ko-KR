@@ -28,4 +28,4 @@ ht-degree: 0%
 
 AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing 통합 사용의 기본 사항, AEM Assets에 에셋 업로드, AEM Assets의 에셋 승인 및 GenStudio for Performance Marketing의 승인된 에셋 사용에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439284/?learn=on&enablevpops&captions=kor)

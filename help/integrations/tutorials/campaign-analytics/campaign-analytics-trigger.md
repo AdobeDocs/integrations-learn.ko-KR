@@ -32,22 +32,22 @@ Adobe Experience [!DNL Platform] 데이터 수집을 테스트하고 필요한 �
 >
 > 이제 Launch가 Adobe 경험 [!DNL Platform]의 태그 기능입니다. **Adobe 경험 [!DNL Platform] 데이터 컬렉션**&#x200B;에서 찾을 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454023?quality=12&learn=on&captions=kor)
 
 ## Experience Cloud에서 트리거 만들기
 
 Experience Cloud의 트리거를 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446145?quality=12&learn=on&captions=kor)
 
 ## [!DNL Campaign] Standard에서 트리거 만들기
 
 [!DNL Campaign] Standard에서 트리거 이벤트를 만드는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446416?quality=12&learn=on&captions=kor)
 
 ## 실시간 이벤트 데이터를 사용한 트랜잭션 메시지 구성
 
 트리거에서 나오는 실시간 이벤트 데이터를 사용하여 트랜잭션 메시지를 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450209?quality=12&learn=on&captions=kor)

@@ -28,4 +28,4 @@ ht-degree: 0%
 
 AEM Assets as a Cloud Service에서 에셋을 업로드, 검토 및 승인하여 콘텐츠 워크플로를 간소화하는 방법을 알아봅니다. 승인되면 이러한 에셋은 GenStudio for Performance Marketing에 원활하게 통합되어 캠페인에 대해 브랜드 승인을 받은 자료에 쉽게 액세스할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439295/?learn=on&enablevpops&captions=kor)

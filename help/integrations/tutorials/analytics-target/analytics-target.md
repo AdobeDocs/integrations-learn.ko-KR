@@ -48,7 +48,7 @@ ht-degree: 1%
 * A4T는 어떻게 작동합니까?
 * A4T를 사용하기 위한 사전 요구 사항은 무엇입니까?
 
->[!VIDEO](https://video.tv.adobe.com/v/17384/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421728/?quality=12&learn=on&captions=kor)
 
 
 ## 일반적인 사용 사례
@@ -59,13 +59,13 @@ ht-degree: 1%
 
 [!DNL Target]용 [!DNL Analytics] (A4T) 패널을 사용하면 Analysis Workspace에서 자신 있게 Adobe [!DNL Target] 활동 및 경험을 분석할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326714/?quality=12&learn=on&captions=kor)
 
 ### A4T 패널을 사용하여 자동 [!DNL Target] 활동 분석
 
 이 비디오에서는 [!DNL Target] 패널의 [!DNL Analytics]을(를) 사용하여 자동 [!DNL Target] 테스트의 결과를 시각화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412971/?quality=12&learn=on&captions=kor)
 
 또한 &quot;자동 할당&quot; 및 &quot;자동 타겟&quot; 활동을 위해 Analysis Workspace에서 A4T 보고서를 설정하는 방법에 대한 세부 사항을 보여주는 두 가지 단계별 자습서가 있습니다.
 

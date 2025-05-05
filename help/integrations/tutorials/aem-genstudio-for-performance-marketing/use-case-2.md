@@ -28,4 +28,4 @@ ht-degree: 0%
 
 AEM Assets as a Cloud Service 및 Adobe Express을 GenStudio for Performance Marketing과 함께 사용하여 통합 마케팅 캠페인에 적합한 에셋 변형을 빠르게 만드는 방법을 살펴봅니다. 이메일 프로모션 및 메타 광고에 대한 비주얼을 쉽게 생성하고 조정함으로써, 동일한 마케팅 경험에 대해 다양한 대상자를 타겟팅하는 동안 일관성을 보장합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439306/?learn=on&enablevpops&captions=kor)

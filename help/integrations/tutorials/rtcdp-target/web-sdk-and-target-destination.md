@@ -31,22 +31,22 @@ ht-degree: 0%
 
 실시간 고객 데이터 [!DNL Platform]에서 Adobe [!DNL Target] 대상을 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418799/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449800/?learn=on&captions=kor)
 
 ## [!DNL Target] Adobe에 대한 세그먼트 및 프로필 특성 활성화
 
 Adobe 실시간 고객 데이터 [!DNL Platform]에서 Adobe [!DNL Target] (으)로 세그먼트 및 프로필 특성을 활성화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447362/?learn=on&captions=kor)
 
 ## [!DNL Target] Adobe에서 실시간 CDP 세그먼트 사용
 
 [!DNL Target] Adobe에서 실시간 고객 데이터 [!DNL Platform] 세그먼트를 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446834/?learn=on&captions=kor)
 
 ## [!DNL Target] Adobe에서 Real-time CDP 프로필 특성 사용
 
 [!DNL Target] Adobe에서 Adobe 실시간 고객 데이터 [!DNL Platform] 프로필 특성을 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451900/?learn=on&captions=kor)

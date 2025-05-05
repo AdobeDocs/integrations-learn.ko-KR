@@ -26,10 +26,10 @@ ht-degree: 1%
 
 Amazon S3 연결 유형을 사용하여 대상에 Adobe 경험 [!DNL Platform] 세그먼트를 활성화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453128?quality=12&learn=on&captions=kor)
 
 ## [!DNL Platform] 경험에서 수신자 데이터를 가져오고 이메일을 보냅니다.
 
 [!DNL Campaign] Adobe에서 외부 계정을 구성하여 [!DNL Platform] Adobe 경험에서 [!DNL Campaign] (으)로 받는 사람 데이터를 가져오는 방법에 대해 알아봅니다. [!DNL Platform] 경험에서 받은 수신자를 업로드하고 타깃팅하는 워크플로우를 만드는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453484?quality=12&learn=on&captions=kor)
