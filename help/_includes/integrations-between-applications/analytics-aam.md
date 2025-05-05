@@ -62,7 +62,7 @@ Adobe [!DNL Analytics]과(와) Audience Manager 통합의 주요 이점은 다�
             <td>Adobe [!DNL Analytics] 태그 확장 또는 서버측 전달이 활성화된 AppMeasurement.js</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>대상 검색, 세분화 및 최적화를 알리기 위해 Audience Manager에서 [!DNL Analytics](으)로 세그먼트를 공유하려는 경우.</li>
+                    <li>대상 검색, 세분화 및 최적화를 알리기 위해 Audience Manager에서 [!DNL Analytics] (으)로 세그먼트를 공유하려는 경우.</li>
                 </ul>
             </td>
             <td>

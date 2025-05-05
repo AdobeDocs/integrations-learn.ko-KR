@@ -23,7 +23,7 @@ Adobe 경험 [!DNL Platform]은(는) 고객 경험을 주도하는 완벽한 솔
 
 * 고객 여정 [!DNL Analytics]
 * Journey Optimizer
-* 실시간 고객 데이터 [!DNL Platform](Real-Time CDP)
+* 실시간 고객 데이터 [!DNL Platform] (Real-Time CDP)
 
 응용 프로그램을 _여러 [!DNL Platform] 기본 응용 프로그램과 통합_&#x200B;하면 많은 공통 단계가 공유되지만, 통합 중인 응용 프로그램에 따라 다양한 사용 사례가 잠금 해제됩니다. 따라서 통합 콘텐츠는 애플리케이션별로 구성됩니다. 아래 리소스를 참조하십시오.
 

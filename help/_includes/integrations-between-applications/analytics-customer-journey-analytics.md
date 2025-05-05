@@ -55,7 +55,7 @@ ht-degree: 1%
             <td>
                 <ul style="margin-top: 0;">
                     <li>새로운 [!DNL Analytics] 구현에 대한 권장 접근 방식 또는 장기적인 전략을 구현하려는 경우.</li>
-                    <li>AEP Web SDK, AEP Mobile SDK 또는 Edge Network 서버 API를 사용하여 장치에서 Experience [!DNL Platform](으)로 직접 데이터를 보냅니다.</li>
+                    <li>AEP Web SDK, AEP Mobile SDK 또는 Edge Network 서버 API를 사용하여 장치에서 Experience [!DNL Platform] (으)로 직접 데이터를 보냅니다.</li>
                 </ul>
             </td>
             <td>

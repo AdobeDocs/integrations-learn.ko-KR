@@ -39,7 +39,7 @@ ht-degree: 0%
 
 ## [!DNL Target] Adobe에 대한 세그먼트 및 프로필 특성 활성화
 
-Adobe 실시간 고객 데이터 [!DNL Platform]에서 Adobe [!DNL Target](으)로 세그먼트 및 프로필 특성을 활성화하는 방법을 알아봅니다.
+Adobe 실시간 고객 데이터 [!DNL Platform]에서 Adobe [!DNL Target] (으)로 세그먼트 및 프로필 특성을 활성화하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
 

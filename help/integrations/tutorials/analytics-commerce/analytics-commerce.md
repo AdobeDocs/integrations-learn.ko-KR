@@ -39,8 +39,10 @@ ht-degree: 0%
 
 1. [!DNL Commerce] 백 오피스 Adobe 내에서 자격 증명을 사용하여 모듈을 구성합니다.
    * 아래에 표시된 대로 먼저 [!DNL Commerce] 서비스 커넥터 구성을 사용합니다.
+
      ![[!DNL Commerce] 서비스 커넥터 설정](./assets/analytics-commerce/commerce-services-connector-setup.png)
    * 그런 다음 아래 표시된 대로 Experience [!DNL Platform] 커넥터 설정을 사용합니다.
+
      ![경험 [!DNL Platform] 커넥터](./assets/analytics-commerce/experience-platform-connector.png)
 
 온보딩 프로세스의 각 단계 및 단계에 대한 자세한 내용은 [경험 [!DNL Platform] 커넥터 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}의 지침을 따르십시오. Experience [!DNL Platform] 커넥터 튜토리얼은 각 섹션에 대해 자세히 설명하고 있을 수 있는 질문에 답합니다. 나머지 빠른 설정 단계는 이 자습서를 사용하십시오.
@@ -67,7 +69,7 @@ ht-degree: 0%
    * 오른쪽 상단의 **데이터 집합 만들기**&#x200B;를 클릭합니다. **스키마에서 데이터 집합 만들기** 옵션을 선택하십시오.
    * 마지막 단계에서 생성한 스키마를 검색하고 사용합니다
 
-1. [!DNL Commerce] 데이터를 Adobe [!DNL Analytics](으)로 보낼 데이터 스트림을 만드십시오.
+1. [!DNL Commerce] 데이터를 Adobe [!DNL Analytics] (으)로 보낼 데이터 스트림을 만드십시오.
    * 왼쪽 열의 **데이터 수집** 제목 아래에서 **데이터스트림**&#x200B;을 선택합니다.
    * 인터페이스 오른쪽 상단에서 **새 데이터스트림**&#x200B;을 클릭합니다.
    * 이름 및 설명(선택 사항)을 입력합니다.

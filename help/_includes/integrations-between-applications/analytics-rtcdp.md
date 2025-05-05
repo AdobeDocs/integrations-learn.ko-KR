@@ -13,7 +13,7 @@ ht-degree: 0%
 
 {{real-time-cdp-description}}
 
-Adobe [!DNL Analytics]을(를) Adobe 실시간 고객 데이터 [!DNL Platform](Real-Time CDP)와 통합하면 고객 경험과 마케팅 노력을 향상시키려는 비즈니스에 여러 가지 이점을 제공할 수 있습니다. 주요 이점은 다음과 같습니다.
+Adobe [!DNL Analytics]을(를) Adobe 실시간 고객 데이터 [!DNL Platform] (Real-Time CDP)와 통합하면 고객 경험과 마케팅 노력을 향상시키려는 비즈니스에 여러 가지 이점을 제공할 수 있습니다. 주요 이점은 다음과 같습니다.
 
 + **향상된 대상 타깃팅 및 개인화**: 장치 및 채널에 대한 정확한 마케팅, 최적화된 참여를 위한 맞춤 메시지.
 + **향상된 랜딩 페이지 최적화**: 장치 및 동작을 기반으로 맞춤화된 경험으로 사용자 만족도 및 전환을 개선했습니다.
@@ -52,7 +52,7 @@ Adobe [!DNL Analytics]과(와) Real-Time CDP을(를) 결합함으로써 기업�
         <td>
             <ul style="margin-top: 0;">
                 <li>새로운 [!DNL Analytics] 구현에 대한 권장 접근 방식 또는 장기적인 전략을 구현하려는 경우.</li>
-                <li>AEP Web SDK, AEP Mobile SDK 또는 Edge Network 서버 API를 사용하여 장치에서 Experience [!DNL Platform](으)로 직접 데이터를 보냅니다.</li>
+                <li>AEP Web SDK, AEP Mobile SDK 또는 Edge Network 서버 API를 사용하여 장치에서 Experience [!DNL Platform] (으)로 직접 데이터를 보냅니다.</li>
                 <li>동일 및 다음 페이지 개인화 사용 사례를 지원하기 위해 실시간 고객 프로필에 [!DNL Analytics] 데이터 가용성이 필요한 신규 고객 또는 기존 고객.</li>
             </ul>
         </td>

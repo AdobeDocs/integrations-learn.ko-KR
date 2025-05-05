@@ -7,7 +7,7 @@ ht-degree: 1%
 ---
 
 
-# 고객 여정 [!DNL Analytics] 및 실시간 고객 데이터 [!DNL Platform](Real-Time CDP) 통합
+# 고객 여정 [!DNL Analytics] 및 실시간 고객 데이터 [!DNL Platform] (Real-Time CDP) 통합
 
 {{customer-journey-analytics-description}}
 

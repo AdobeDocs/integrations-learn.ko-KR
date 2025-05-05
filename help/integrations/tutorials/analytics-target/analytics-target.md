@@ -55,9 +55,9 @@ ht-degree: 1%
 
 아래 비디오에서는 A4T를 통해 통합하는 다양한 기능, 활동 유형 및 이점을 보여 줍니다.
 
-### Analysis Workspace의 [!DNL Target](A4T) 패널에 대한 [!DNL Analytics]
+### Analysis Workspace의 [!DNL Target] (A4T) 패널에 대한 [!DNL Analytics]
 
-[!DNL Target]용 [!DNL Analytics](A4T) 패널을 사용하면 Analysis Workspace에서 자신 있게 Adobe [!DNL Target] 활동 및 경험을 분석할 수 있습니다.
+[!DNL Target]용 [!DNL Analytics] (A4T) 패널을 사용하면 Analysis Workspace에서 자신 있게 Adobe [!DNL Target] 활동 및 경험을 분석할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
@@ -71,7 +71,7 @@ ht-degree: 1%
 
 ## 자동 할당 활동을 위해 Analysis Workspace에서 A4T 보고서 설정 {#a4t-auto-allocate}
 
-자동 할당 활동은 둘 이상의 경험에서 승자를 식별하고, 테스트가 계속 실행되고 학습되는 동안 더 많은 트래픽을 승자에게 자동으로 재할당합니다. 자동 할당을 위한 [!DNL Target]용 [!DNL Analytics](A4T) 통합을 사용하면 [!DNL Analytics] Adobe에서 보고 데이터를 볼 수 있으며, [!DNL Analytics]에 정의된 사용자 지정 이벤트 또는 지표에 최적화할 수도 있습니다.
+자동 할당 활동은 둘 이상의 경험에서 승자를 식별하고, 테스트가 계속 실행되고 학습되는 동안 더 많은 트래픽을 승자에게 자동으로 재할당합니다. 자동 할당을 위한 [!DNL Target]용 [!DNL Analytics] (A4T) 통합을 사용하면 [!DNL Analytics] Adobe에서 보고 데이터를 볼 수 있으며, [!DNL Analytics]에 정의된 사용자 지정 이벤트 또는 지표에 최적화할 수도 있습니다.
 
 <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자동 할당 활동에 대한 A4T 보고서 설정</span>
@@ -79,7 +79,7 @@ ht-degree: 1%
 
 ## 자동 [!DNL Target] 활동을 위해 Analysis Workspace에서 A4T 보고서 설정 {#a4t-auto-target}
 
-자동 [!DNL Target] 활동에 대한 [!DNL Target](A4T) 통합용 [!DNL Analytics]은(는) Adobe [!DNL Target] ML(Ensemble Machine Learning) 알고리즘을 사용하여 Adobe [!DNL Analytics] 목표 지표를 사용하는 동안 각 방문자의 프로필, 동작 및 컨텍스트를 기반으로 최상의 경험을 선택합니다.
+자동 [!DNL Target] 활동에 대한 [!DNL Target] (A4T) 통합용 [!DNL Analytics]은(는) Adobe [!DNL Target] ML(Ensemble Machine Learning) 알고리즘을 사용하여 Adobe [!DNL Analytics] 목표 지표를 사용하는 동안 각 방문자의 프로필, 동작 및 컨텍스트를 기반으로 최상의 경험을 선택합니다.
 
 Adobe [!DNL Analytics] Analysis Workspace에서 다양한 분석 기능을 사용할 수 있지만 실험 활동(수동 A/B 테스트 및 자동 할당)과 개인화 활동(자동 [!DNL Target]) 간의 차이로 인해 자동 [!DNL Target] 활동을 올바르게 해석하려면 [!DNL Target] 패널의 기본값 [!DNL Analytics]을(를) 몇 가지 수정해야 합니다.
 

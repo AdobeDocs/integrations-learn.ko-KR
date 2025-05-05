@@ -33,7 +33,7 @@ Adobe Creative Cloud for enterprise은 Adobe에서 제공하는 크리에이티�
 
 ## 고객 여정 [!DNL Analytics] 설명 {#customer-journey-analytics-description}
 
-Adobe 고객 여정 [!DNL Analytics](CJA)은 기업이 다양한 접점 및 채널에서 고객 상호 작용을 분석하고 시각화할 수 있도록 해 주는 Adobe에서 제공하는 분석 플랫폼입니다. 이를 통해 조직은 고객 행동에 대한 심층적인 통찰력을 얻고, 패턴을 식별하고, 고객 여정을 최적화할 수 있으므로 데이터 중심의 의사 결정을 통해 마케팅 전략을 강화하고 고객 경험을 개선하며 비즈니스 성장을 촉진할 수 있습니다.
+Adobe 고객 여정 [!DNL Analytics] (CJA)은 기업이 다양한 접점 및 채널에서 고객 상호 작용을 분석하고 시각화할 수 있도록 해 주는 Adobe에서 제공하는 분석 플랫폼입니다. 이를 통해 조직은 고객 행동에 대한 심층적인 통찰력을 얻고, 패턴을 식별하고, 고객 여정을 최적화할 수 있으므로 데이터 중심의 의사 결정을 통해 마케팅 전략을 강화하고 고객 경험을 개선하며 비즈니스 성장을 촉진할 수 있습니다.
 
 ## Experience Manager 설명 {#experience-manager-description}
 
@@ -66,7 +66,7 @@ Adobe Marketo Measure은 마케터에게 기업의 매출을 증대시키는 데
 
 ## Real-Time CDP 설명 {#real-time-cdp-description}
 
-Adobe 실시간 고객 데이터 [!DNL Platform](Real-Time CDP)은 Adobe에서 제공하는 고객 데이터 관리 플랫폼입니다. 다양한 소스의 고객 데이터를 실시간으로 수집하고 통합하여 비즈니스에 고객에 대한 종합적이고 최신의 뷰를 제공합니다. 이를 통해 마케터는 여러 채널에서 고도로 개인화되고 관련성 있는 경험을 제공할 수 있으므로 고객 참여도가 향상되고 타깃팅된 마케팅 캠페인 및 고객 만족도가 향상됩니다.
+Adobe 실시간 고객 데이터 [!DNL Platform] (Real-Time CDP)은 Adobe에서 제공하는 고객 데이터 관리 플랫폼입니다. 다양한 소스의 고객 데이터를 실시간으로 수집하고 통합하여 비즈니스에 고객에 대한 종합적이고 최신의 뷰를 제공합니다. 이를 통해 마케터는 여러 채널에서 고도로 개인화되고 관련성 있는 경험을 제공할 수 있으므로 고객 참여도가 향상되고 타깃팅된 마케팅 캠페인 및 고객 만족도가 향상됩니다.
 
 ## [!DNL Target] 설명 {#target-description}
 

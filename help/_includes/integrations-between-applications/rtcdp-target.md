@@ -34,7 +34,7 @@ Real-Time CDP을 [!DNL Target]과(와) 통합하면 알려진 고객 데이터�
         <td>웹 SDK 및 [!DNL Target] 대상</td>
         <td>
             <ul style="margin-top: 0;">
-                <li>웹 사이트를 위해 Real-Time CDP에서 [!DNL Target](으)로 데이터를 가장 빠르게 공유하려는 경우.</li>
+                <li>웹 사이트를 위해 Real-Time CDP에서 [!DNL Target] (으)로 데이터를 가장 빠르게 공유하려는 경우.</li>
             </ul>
         </td>
         <td>
