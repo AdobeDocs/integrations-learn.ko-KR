@@ -34,7 +34,7 @@ ht-degree: 2%
     <tbody>
         <tr>
             <td rowspan="3">Cloud Service 및 로서 AEM Sites [!DNL Commerce]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html" target="_blank" rel="noreferrer">[!DNL Commerce] CIF(통합 프레임워크)를 사용하여 단일 상점 만들기</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=ko" target="_blank" rel="noreferrer">[!DNL Commerce] CIF(통합 프레임워크)를 사용하여 단일 상점 만들기</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>AEM에 단일 상점을 원하는 경우.</li>
@@ -50,7 +50,7 @@ ht-degree: 2%
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html" target="_blank" rel="noreferrer">[!DNL Commerce] CIF(통합 프레임워크)를 사용하여 여러 상점 만들기</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multi-store-setup.html?lang=ko" target="_blank" rel="noreferrer">[!DNL Commerce] CIF(통합 프레임워크)를 사용하여 여러 상점 만들기</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>AEM에 여러 상점을 사용하려는 경우.</li>
@@ -64,7 +64,7 @@ ht-degree: 2%
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html" target="_blank" rel="noreferrer">[!DNL Commerce] CIF(통합 프레임워크)를 사용하는 여러 상거래 시스템</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html?lang=ko" target="_blank" rel="noreferrer">[!DNL Commerce] CIF(통합 프레임워크)를 사용하는 여러 상거래 시스템</a></td>
             <td>
                 <ul style="margin-top: 0;"><li>여러 상거래 시스템을 사용하여 다중 지역 또는 다중 브랜드 매장을 원하는 경우.</li></ul>
             </td>

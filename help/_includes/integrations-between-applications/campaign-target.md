@@ -31,7 +31,7 @@ ht-degree: 2%
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/integrating/target-integration.html" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8 포함 [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/integrating/target-integration.html?lang=ko" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8 포함 [!DNL Target]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>이메일 콘텐츠를 개인화하려는 경우.</li>

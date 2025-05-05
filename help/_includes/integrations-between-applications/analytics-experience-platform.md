@@ -34,7 +34,7 @@ Adobe [!DNL Analytics]과(와) Adobe 경험 [!DNL Platform]을(를) 통합하면
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html" target="_blank" rel="noreferrer">[!DNL Analytics] 및 경험 [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=ko" target="_blank" rel="noreferrer">[!DNL Analytics] 및 경험 [!DNL Platform]</a></td>
             <td>경험 [!DNL Platform] 원본 커넥터</td>
             <td>
                 <ul style="margin-top: 0;">

@@ -31,7 +31,7 @@ Experience Manager과 Marketo Engage을 통합하면 다음과 같은 몇 가지
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html" target="_blank" rel="noreferrer">Experience Manager Forms 및 Marketo Engage</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html?lang=ko" target="_blank" rel="noreferrer">Experience Manager Forms 및 Marketo Engage</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>사용자의 디지털 양식 제출을 기반으로 리드를 생성하려는 경우.</li>

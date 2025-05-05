@@ -52,7 +52,7 @@ ht-degree: 6%
         <tr>
             <td>
                 <ul style="margin-top: 0;">
-                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html" target="_blank" rel="noreferrer">Experience Cloud 핵심 서비스</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html?lang=ko" target="_blank" rel="noreferrer">Experience Cloud 핵심 서비스</a></li>
                 </ul>
             </td>
             <td>

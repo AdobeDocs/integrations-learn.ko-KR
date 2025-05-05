@@ -36,7 +36,7 @@ Adobe 고객 여정 [!DNL Analytics]과(와) Adobe Real-Time CDP을(를) 통합�
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html" target="_blank" rel="noreferrer">고객 여정 [!DNL Analytics] 및 Real-Time CDP</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html?lang=ko" target="_blank" rel="noreferrer">고객 여정 [!DNL Analytics] 및 Real-Time CDP</a></td>
             <td>Adobe 경험 [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">

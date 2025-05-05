@@ -29,7 +29,7 @@ ht-degree: 0%
 1. 로컬 환경에서 코드 체크 아웃
 1. 작성기 사용 및 설치 모듈
 1. 여기에서 개별 지침을 따르고 완료되면 돌아가서 나머지 단계를 완료합니다
-   [경험 설치 및 구성 [!DNL Platform] 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html){target="_blank"}
+   [경험 설치 및 구성 [!DNL Platform] 커넥터](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html?lang=ko){target="_blank"}
 
 
 1. composer.json을 커밋하고 클라우드에 composer.lock 파일이 있는 경우
@@ -45,17 +45,17 @@ ht-degree: 0%
 
      ![경험 [!DNL Platform] 커넥터](./assets/analytics-commerce/experience-platform-connector.png)
 
-온보딩 프로세스의 각 단계 및 단계에 대한 자세한 내용은 [경험 [!DNL Platform] 커넥터 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}의 지침을 따르십시오. Experience [!DNL Platform] 커넥터 튜토리얼은 각 섹션에 대해 자세히 설명하고 있을 수 있는 질문에 답합니다. 나머지 빠른 설정 단계는 이 자습서를 사용하십시오.
+온보딩 프로세스의 각 단계 및 단계에 대한 자세한 내용은 [경험 [!DNL Platform] 커넥터 개요](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html?lang=ko){target="_blank"}의 지침을 따르십시오. Experience [!DNL Platform] 커넥터 튜토리얼은 각 섹션에 대해 자세히 설명하고 있을 수 있는 질문에 답합니다. 나머지 빠른 설정 단계는 이 자습서를 사용하십시오.
 
 ## Experience Edge 및 Adobe [!DNL Analytics]의 구성
 
 1. 조직에 [!DNL Analytics] Adobe에 대한 액세스 권한이 있는지 확인하십시오. [Adobe Experience Cloud 홈 페이지](https://experience.adobe.com/)(으)로 이동하여 위쪽 탐색에서 응용 프로그램 전환기(9개 점)를 클릭하면 확인할 수 있습니다.
 
-1. [!DNL Analytics] Adobe에서 새 보고서 세트를 만들거나 [!DNL Commerce] 데이터를 푸시할 보고서 세트의 ID를 식별합니다. 자세한 정보는 [새 보고서 세트 만들기](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)에 대한 자습서를 참조하십시오. 아래 데이터 스트림 단계에서 이 보고서 세트 ID가 필요합니다.
+1. [!DNL Analytics] Adobe에서 새 보고서 세트를 만들거나 [!DNL Commerce] 데이터를 푸시할 보고서 세트의 ID를 식별합니다. 자세한 정보는 [새 보고서 세트 만들기](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ko)에 대한 자습서를 참조하십시오. 아래 데이터 스트림 단계에서 이 보고서 세트 ID가 필요합니다.
 
 1. [!DNL Platform] Adobe에 액세스할 수 있는 경우 [경험 관리 [!DNL Platform] 인터페이스](https://platform.adobe.com)(으)로 이동합니다. 해당 인터페이스에 액세스할 수 없는 경우 Adobe 환경 [!DNL Platform] [데이터 수집 인터페이스](https://experience.adobe.com/#/data-collection)에서 아래 나열된 필요한 모든 단계를 수행할 수 있습니다.
 
-1. [!DNL Commerce]별 필드 그룹으로 XDM 스키마를 만들거나 업데이트합니다. 스키마를 만드는 방법에 대한 자세한 내용은 [&quot;스키마 만들기&quot;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html) 자습서를 참조하십시오.
+1. [!DNL Commerce]별 필드 그룹으로 XDM 스키마를 만들거나 업데이트합니다. 스키마를 만드는 방법에 대한 자세한 내용은 [&quot;스키마 만들기&quot;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=ko) 자습서를 참조하십시오.
    * 아래 데이터 스트림 단계의 옵션에서 이 스키마를 선택해야 합니다. 스키마를 만들려면 **데이터 관리**&#x200B;의 왼쪽 열에서 **스키마**&#x200B;를 찾습니다. 이제 인터페이스 오른쪽 상단에서 **스키마 만들기**&#x200B;를 클릭합니다. XDM ExperienceEvent 를 선택합니다.
    * 새 스키마를 만든 후 [!DNL Commerce] 필드 그룹을 추가합니다. UI의 왼쪽에서 필드 그룹을 찾아 **추가**&#x200B;를 클릭합니다
       * 검색에서 `ExperienceEvent Commerce`을(를) 입력하여 필터링할 수 있습니다.
@@ -87,9 +87,9 @@ ht-degree: 0%
 
    다음은 Analysis Workspace에서 작업하는 데 도움이 되는 몇 가지 추가 리소스입니다.
 
-   * [Analysis Workspace 개요](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html)
-   * [처음부터 Workspace 프로젝트 빌드](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
-   * [Analysis Workspace에서 표, 시각화 및 패널 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
-   * [시각화 사용 사례](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
+   * [Analysis Workspace 개요](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html?lang=ko)
+   * [처음부터 Workspace 프로젝트 빌드](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html?lang=ko)
+   * [Analysis Workspace에서 표, 시각화 및 패널 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=ko)
+   * [시각화 사용 사례](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=ko)
 
-   또한 Experience League 시 무료 강좌도 제공됩니다. [여기](https://experienceleague.adobe.com/?lang=en&amp;Solution=Analytics#courses)에서 사용 가능한 [!DNL Analytics] 과정을 참조하세요.
+   또한 Experience League 시 무료 강좌도 제공됩니다. [여기](https://experienceleague.adobe.com/ko?lang=en&amp;Solution=Analytics#courses)에서 사용 가능한 [!DNL Analytics] 과정을 참조하세요.

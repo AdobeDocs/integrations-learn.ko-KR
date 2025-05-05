@@ -29,7 +29,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->이 비디오에서는 [!DNL Target] at.js 및 [!DNL Analytics] appMeasurement.js에 대한 구현과 유효성 검사를 보여 줍니다. 두 도구의 필수 라이브러리 버전에 대해서는 [설명서](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html)를 참조하십시오.
+>이 비디오에서는 [!DNL Target] at.js 및 [!DNL Analytics] appMeasurement.js에 대한 구현과 유효성 검사를 보여 줍니다. 두 도구의 필수 라이브러리 버전에 대해서는 [설명서](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=ko)를 참조하십시오.
 
 ### A4T([!DNL Target]의 경우 [!DNL Analytics]) 설정 중
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 자동 할당 활동은 둘 이상의 경험에서 승자를 식별하고, 테스트가 계속 실행되고 학습되는 동안 더 많은 트래픽을 승자에게 자동으로 재할당합니다. 자동 할당을 위한 [!DNL Target]용 [!DNL Analytics] (A4T) 통합을 사용하면 [!DNL Analytics] Adobe에서 보고 데이터를 볼 수 있으며, [!DNL Analytics]에 정의된 사용자 지정 이벤트 또는 지표에 최적화할 수도 있습니다.
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=ko" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자동 할당 활동에 대한 A4T 보고서 설정</span>
 </a>
 
@@ -83,6 +83,6 @@ ht-degree: 1%
 
 Adobe [!DNL Analytics] Analysis Workspace에서 다양한 분석 기능을 사용할 수 있지만 실험 활동(수동 A/B 테스트 및 자동 할당)과 개인화 활동(자동 [!DNL Target]) 간의 차이로 인해 자동 [!DNL Target] 활동을 올바르게 해석하려면 [!DNL Target] 패널의 기본값 [!DNL Analytics]을(를) 몇 가지 수정해야 합니다.
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=ko" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자동 [!DNL Target] 활동에 대한 A4T 보고서 설정</span>
 </a>

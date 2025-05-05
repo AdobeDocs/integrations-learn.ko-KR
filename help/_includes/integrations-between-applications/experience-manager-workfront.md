@@ -34,7 +34,7 @@ AEM과 Workfront은 컨텐츠 제작을 간소화하여 Workfront에서 AEM으�
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront 및 AEM Assets 기본 사항</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ko" target="_blank" rel="noreferrer">Workfront 및 AEM Assets 기본 사항</a></td>
             <td>기본 커넥터</td>
             <td>
               <ul style="margin-top: 0;">
@@ -50,7 +50,7 @@ AEM과 Workfront은 컨텐츠 제작을 간소화하여 Workfront에서 AEM으�
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">Workfront 및 AEM Assets</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=ko" target="_blank" rel="noreferrer">Workfront 및 AEM Assets</a></td>
             <td>향상된 커넥터</td>
             <td>
                 <ul style="margin-top: 0;">
