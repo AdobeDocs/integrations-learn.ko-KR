@@ -41,7 +41,7 @@ ht-degree: 3%
                 </ul></li>
             <li>Edge Network 서버 API:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">튜토리얼</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=ko" _target="_blank" rel="noopener noreferrer">튜토리얼</a></li>
                 </ul>
        </ul>
     <li><i>(선택 사항)</i>. 여러 데이터 세트를 사용하는 경우 개인 ID를 함께 <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html?lang=ko" _target="_blank" rel="noopener noreferrer">결합된 데이터 세트를 생성</a>합니다. 단일 [!DNL Analytics] 데이터 세트를 사용하거나 고객 여정 [!DNL Analytics]에서 사용하려는 모든 데이터 세트에 공통 식별자가 있는 경우 이 단계를 건너뜁니다.</li>

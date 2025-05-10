@@ -41,7 +41,7 @@ ht-degree: 2%
                 </ul></li>
             <li>Edge Network 서버 API:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">튜토리얼</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=ko" _target="_blank" rel="noopener noreferrer">튜토리얼</a></li>
                 </ul>
        </ul>
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=ko" _target="_blank" rel="noopener noreferrer">경험 [!DNL Platform]에서 세그먼트를 만듭니다.</a> 시스템에서 세그먼트가 일괄 처리(데이터 커넥터)로 평가되는지 또는 스트리밍(Edge 네트워크)으로 평가되는지 여부를 자동으로 결정합니다.</li>
