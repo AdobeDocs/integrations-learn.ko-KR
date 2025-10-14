@@ -92,4 +92,4 @@ ht-degree: 0%
    * [Analysis Workspace에서 표, 시각화 및 패널 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=ko)
    * [시각화 사용 사례](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=ko)
 
-   또한 Experience League 시 무료 강좌도 제공됩니다. [여기](https://experienceleague.adobe.com/ko?lang=en&amp;Solution=Analytics#courses)에서 사용 가능한 [!DNL Analytics] 과정을 참조하세요.
+   또한 Experience League 시 무료 강좌도 제공됩니다. [여기](https://experienceleague.adobe.com/ko?lang=en&Solution=Analytics#courses)에서 사용 가능한 [!DNL Analytics] 과정을 참조하세요.

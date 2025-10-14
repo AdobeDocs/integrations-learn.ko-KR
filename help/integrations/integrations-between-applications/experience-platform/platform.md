@@ -30,13 +30,13 @@ Adobe 경험 [!DNL Platform]은(는) 고객 경험을 주도하는 완벽한 솔
 
 ## 고객 여정 [!DNL Analytics]
 
-* [ [!DNL Analytics] 포함](../cja/customer-journey-analytics-analytics.md)
+* [&#x200B; [!DNL Analytics] 포함](../cja/customer-journey-analytics-analytics.md)
 * [Real-Time CDP 사용](../cja/cja-rtcdp.md)
 
 ## 실시간 고객 데이터 [!DNL Platform]
 
-* [ [!DNL Analytics] 포함](../rtcdp/rtcdp-analytics.md)
+* [&#x200B; [!DNL Analytics] 포함](../rtcdp/rtcdp-analytics.md)
 * [Audience Manager 포함](../rtcdp/rtcdp-aam.md)
-* [ [!DNL Campaign] v8 사용](../rtcdp/rtcdp-campaign.md)
+* [&#x200B; [!DNL Campaign] v8 사용](../rtcdp/rtcdp-campaign.md)
 * [고객 여정  [!DNL Analytics] 사용](../rtcdp/rtcdp-cja.md)
-* [ [!DNL Target] 포함](../rtcdp/rtcdp-target.md)
+* [&#x200B; [!DNL Target] 포함](../rtcdp/rtcdp-target.md)
