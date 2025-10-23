@@ -2,9 +2,9 @@
 title: 규모에 맞게 개인화를 위한 애플리케이션 통합
 description: 개인화된 경험을 모든 순간의 일부로 만듭니다.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '533'
 ht-degree: 1%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 1%
 <table>
  <thead>
     <tr>
-      <th>활용 사례</th>
+      <th>사용 사례</th>
       <th>설명</th>
-      <th>예시</th>
+      <th>예</th>
       <th>애플리케이션</th>
     </tr>
   </thead>
@@ -76,7 +76,7 @@ ht-degree: 1%
     <tr>
       <td>
         개인화 활동에 대한 보고<br />최적화 분석
-        [!DNL Target] Adobe을 활용하여 A/B 테스트를 포함한 테스트 결과 및
+        Adobe [!DNL Target] 및 을(를) 활용하여 A/B 테스트를 포함한 테스트 결과
         Adobe [!DNL Analytics]을(를) 통해 포괄적인 보고서를 생성하고 있습니다.
       </td>
       <td>
@@ -200,14 +200,14 @@ ht-degree: 1%
     <tr>
       <td>
         AEM Sites을 효과적으로 활용하여 맞춤형 웹 사이트 경험 제공
-        개인화를 위해 [!DNL Target] Adobe을 사용합니다.
+        개인화를 위해 Adobe [!DNL Target]을(를) 사용합니다.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>AEM 웹 사이트 개인화.</li>
-          <li>웹 사이트 콘텐츠 개인화</li>
-          <li>사용자 경험을 최적화합니다.</li>
           <li>A/B 테스트 변형.</li>
+          <li>사용자 행동을 기반으로 한 행동 타깃팅.</li>
+          <li>고객에 대한 360도 뷰를 제공하는 여러 시스템의 사용자 데이터를 결합하여 알려진 사용자 개인화</li>
         </ul>
       </td>
       <td>
