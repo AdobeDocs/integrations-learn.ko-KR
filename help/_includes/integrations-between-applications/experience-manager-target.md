@@ -35,7 +35,7 @@ Adobe Experience Manager 및 Adobe [!DNL Target]을(를) 함께 사용하면 다
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM Sites 및 [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/ko/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM Sites 및 [!DNL Target]</a></td>
             <td>경험 [!DNL Platform] 웹 SDK 태그 확장 또는 alloy.js</td>
             <td>
                 <ul style="margin-top: 0;">
@@ -52,7 +52,7 @@ Adobe Experience Manager 및 Adobe [!DNL Target]을(를) 함께 사용하면 다
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM 헤드리스 as a Cloud Service 및 [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=ko" target="_blank" rel="noreferrer">AEM 헤드리스 as a Cloud Service 및 [!DNL Target]</a></td>
             <td>경험 [!DNL Platform] 웹 SDK 태그 확장 또는 alloy.js</td>
             <td>
               <ul style="margin-top: 0;">
