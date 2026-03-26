@@ -14,10 +14,10 @@ index: true
 hidefromtoc: false
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 20e988c078ee926bbcf79f581ad9a60d5c478a83
+source-git-commit: 2d898df7e49f6a14c162973145592f0d3fdd1646
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 7%
+source-wordcount: '372'
+ht-degree: 16%
 
 ---
 
@@ -37,15 +37,16 @@ AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing과 함께 
 
 이러한 Adobe 제품이 아직 설정되지 않았으며 활성화되지 않은 경우 자세한 구성 단계는 다음 안내서를 참조하십시오.
 
-<!-- CARDS 
+<!--
+CARDS 
 
-* https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/video-playlists/assets-view
+* https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view
    {title=Set up AEM Assets}
-* https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/content-hub/set-up
+* https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up
    {title=Enable AEM Assets Content Hub}
-* https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/get-started
+* https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started
    {title=Set up GenStudio for Performance Marketing}
-   {image=https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=2000&format=webply&optimize=medium}
+   {image=https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=2000&format=webply&optimize=medium}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -54,8 +55,8 @@ AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing과 함께 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/video-playlists/assets-view" title="AEM Assets 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="AEM Assets 설정"
+                    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" title="AEM Assets 설정" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="AEM Assets 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -63,11 +64,11 @@ AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing과 함께 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="AEM Assets 설정">AEM Assets 설정</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="AEM Assets 설정">AEM Assets 설정</a>
                     </p>
                     <p class="is-size-6">제품 지식을 향상하기 위해 선별된 비디오 플레이리스트로 Assets 보기에서 AEM Assets as a Cloud Service을 탐색하는 방법에 대해 알아보십시오.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>
@@ -100,8 +101,8 @@ AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing과 함께 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/get-started" title="GenStudio for Performance Marketing 설정" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=400&format=webply&optimize=medium" alt="GenStudio for Performance Marketing 설정"
+                    <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" title="GenStudio for Performance Marketing 설정" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=400&format=webply&optimize=medium" alt="GenStudio for Performance Marketing 설정"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,11 +110,11 @@ AEM Assets as a Cloud Service 및 GenStudio for Performance Marketing과 함께 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" title="GenStudio for Performance Marketing 설정">GenStudio for Performance Marketing 설정</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" title="GenStudio for Performance Marketing 설정">GenStudio for Performance Marketing 설정</a>
                     </p>
                     <p class="is-size-6">GenStudio for Performance Marketing을 사용하여 새로운 브랜드 맞춤 마케팅 콘텐츠를 생성하는 방법을 알아봅니다.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/ko/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span>
                 </a>
             </div>

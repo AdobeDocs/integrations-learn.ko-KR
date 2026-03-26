@@ -13,35 +13,35 @@ thumbnail: null
 last-substantial-update: 2023-07-26T00:00:00Z
 badgeIntegration: label="통합" type="positive"
 exl-id: 040f992e-029c-44a2-ac2b-10f2995a6c75
-source-git-commit: cb7b3dd4776f7a475519ae7b8ed9c3209f9d9917
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # Experience Manager 자습서와 [!DNL Campaign] v8 통합
 
-Adobe [!DNL Campaign]을(를) Adobe Experience Manager과 연결하여 Experience Manager에서 전자 메일 게재 템플릿, 에셋, 양식을 관리하는 방법을 알아봅니다.
+Adobe [!DNL Campaign]을(를) Adobe Experience Manager과 연결하여 Experience Manager에서 이메일 게재 템플릿, 에셋, 양식을 관리하는 방법을 알아봅니다.
 
 다음 비디오에서는 학습 내용을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/344276?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on)
 
 ## Experience Manager 통합을 위해 [!DNL Campaign] 구성
 
 찾아야 할 중요한 설정 및 피해야 할 잠재적인 &#39;문제&#39;를 포함하여 Experience Manager과 [!DNL Campaign] 간의 통합을 설정하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445903?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
 
 ## [!DNL Campaign]에 Experience Manager 페이지 승인 및 게시
 
-Experience Manager에서 뉴스레터를 만드는 방법과 [!DNL Campaign]에 승인하고 게시하는 방법을 알아봅니다.
+Experience Manager에서 뉴스레터를 만드는 방법 및 이를 승인하고 [!DNL Campaign]에 게시하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447578?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
 
 ## [!DNL Campaign]에서 Experience Manager 이메일 게재를 동기화하고 보내기
 
 [!DNL Campaign]에서 Experience Manager에서 만든 뉴스레터를 테스트하고 보내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444755?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)

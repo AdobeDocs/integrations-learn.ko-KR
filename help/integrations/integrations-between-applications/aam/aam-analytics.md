@@ -1,17 +1,17 @@
 ---
 title: ' [!DNL Analytics]과(와) Audience Manager 통합'
-description: ' [!DNL Analytics]과(와) Audience Manager을 통합하는 방법을 알아봅니다.'
-solution: Audience Manager, [!DNL Analytics]
+description: Audience Manager을  [!DNL Analytics]과(와) 통합하는 방법을 알아봅니다.
+solution: Audience Manager, Analytics
 feature: Integrations
 topic: Integrations
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Beginner
 kt: null
 thumbnail: aam-analytics.png
 badgeIntegration: label="통합" type="positive"
 last-substantial-update: 2023-04-21T00:00:00Z
 exl-id: 88886f4d-24dc-494b-992d-85ad4e92527d
-source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 6%
