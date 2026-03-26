@@ -24,7 +24,7 @@ ht-degree: 3%
 
 # AEM Assets 및 GenStudio for Performance Marketing을 사용하는 Adobe GenStudio
 
->[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439273/?captions=kor&learn=on)
 
 Adobe GenStudio 및 AEM Assets as a Cloud Service의 기능을 활용하여 성능 마케팅 워크플로우를 혁신할 수 있습니다. 원활한 통합을 통해 중앙 집중식 저장소에서 브랜드로 승인된 에셋에 액세스하여 모든 캠페인 및 채널에 대해 일관된 고품질 콘텐츠를 만들 수 있습니다. 이러한 도구를 통해 콘텐츠 supply chain을 간소화하고 마케팅 효과를 높이는 방법을 살펴볼 수 있습니다.
 
@@ -83,7 +83,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="GenStudio for Performance Marketing 및 AEM Assets 시작하기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1739560516243" alt="GenStudio for Performance Marketing 및 AEM Assets 시작하기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439284/?captions=kor&format=jpeg&nocache=1739560516243" alt="GenStudio for Performance Marketing 및 AEM Assets 시작하기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -122,7 +122,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" title="Adobe GenStudio의 가벼운 검토 및 승인" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1739560516635" alt="Adobe GenStudio의 가벼운 검토 및 승인"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439295/?captions=kor&format=jpeg&nocache=1739560516635" alt="Adobe GenStudio의 가벼운 검토 및 승인"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +145,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" title="Adobe GenStudio을 사용하여 변형 만들기" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1739560516573" alt="Adobe GenStudio을 사용하여 변형 만들기"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439306/?captions=kor&format=jpeg&nocache=1739560516573" alt="Adobe GenStudio을 사용하여 변형 만들기"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
