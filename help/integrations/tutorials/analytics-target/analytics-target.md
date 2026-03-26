@@ -29,7 +29,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->이 비디오에서는 [!DNL Target] at.js 및 [!DNL Analytics] appMeasurement.js에 대한 구현과 유효성 검사를 보여 줍니다. 두 도구의 필수 라이브러리 버전에 대해서는 [설명서](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html)를 참조하십시오.
+>이 비디오에서는 [!DNL Target] at.js 및 [!DNL Analytics] appMeasurement.js에 대한 구현과 유효성 검사를 보여 줍니다. 두 도구의 필수 라이브러리 버전에 대해서는 [설명서](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=ko)를 참조하십시오.
 
 ### A4T([!DNL Target]의 경우 [!DNL Analytics]) 설정 중
 
