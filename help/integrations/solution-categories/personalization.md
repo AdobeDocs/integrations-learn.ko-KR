@@ -2,9 +2,9 @@
 title: 규모에 맞게 개인화를 위한 애플리케이션 통합
 description: 개인화된 경험을 모든 순간의 일부로 만듭니다.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: fc60646e49dcd32f833669e05e82397386eb68d9
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '610'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
     <tr>
       <th>사용 사례</th>
       <th>설명</th>
-      <th>예</th>
+      <th>예시</th>
       <th>애플리케이션</th>
     </tr>
   </thead>
@@ -175,7 +175,7 @@ ht-degree: 1%
       </td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>웹 경험 개인화</strong></td>
+      <td rowspan="3"><strong>웹 경험 개인화</strong></td>
       <td>
         효과적으로 단일 페이지 애플리케이션(SPA) 경험 맞춤화
         Adobe [!DNL Target]과(와) 함께 AEM Headless를 활용합니다.
@@ -219,6 +219,29 @@ ht-degree: 1%
         >
       </td>
     </tr>
+    <tr>
+      <td>
+        AEM 및 Adobe [!DNL Target] 통합을 위한 실용적인 팁
+      </td>
+      <td>
+        <ul style="margin-top: 0;">
+          <li>확장 가능한 Personalization에 경험 조각 사용</li>
+          <li>타겟 대상에 ContextHub 세그먼트 미러</li>
+          <li>경험 조각을 Target에서 사용할 수 있도록 만들기</li>
+          <li>Launch 워크플로우에 Target 유효성 검사 빌드</li>
+          <li>Dynamic Media + Target for Visual Personalization 결합</li>
+          <li>Edge Delivery 작성자</li>
+        </ul>
+      </td>
+      <td>
+        <a
+          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          target="_blank"
+          rel="noopener noreferrer"
+          >AEM Sites 및 [!DNL Target]</a
+        >
+      </td>
+    </tr>    
     <tr>
       <td><strong>디지털 경험 개인화</strong></td>
       <td>
