@@ -3,10 +3,10 @@ user-guide-title: Experience Cloud 통합 튜토리얼
 breadcrumb-title: Experience Cloud 통합
 user-guide-description: 통합 학습
 mini-toc-levels: 1
-source-git-commit: a5f6fdd10569618e495750e1bcd4cf604cbf142c
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 25%
+source-wordcount: '226'
+ht-degree: 32%
 
 ---
 
@@ -56,15 +56,15 @@ ht-degree: 25%
       + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
       + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
       + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
-      + [GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
-      + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
+      + {hide-from-toc}[GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
+      + {hide-from-toc}[[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
       + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
    + 경험 [!DNL Platform]{#experience-platform}
       + [개요](./integrations-between-applications/experience-platform/platform.md)
    + Journey Optimizer{#journey-optimizer}
-      + [[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
+      + {hide-from-toc}[[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
    + [!DNL Marketo Engage]{#marketo}
       + [[!DNL Experience Manager]](./integrations-between-applications/marketo/marketo-experience-manager.md)
    + [!DNL Real-Time CDP]{#rtcdp}
@@ -83,25 +83,25 @@ ht-degree: 25%
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
 + 튜토리얼{#tutorials}
    + [!DNL Analytics] 및 [!DNL Commerce]{#analytics-commerce}
-      + [[!DNL Analytics] 및 [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
+      + {hide-from-toc}[[!DNL Analytics] 및 [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
    + [!DNL Analytics] 및 CJA{#analytics-cja}
-      + [[!DNL Analytics] 및 CJA](./tutorials/analytics-cja/experience-platform-edge.md)
-      + [[!DNL Analytics] 및 CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
+      + {hide-from-toc}[[!DNL Analytics] 및 CJA](./tutorials/analytics-cja/experience-platform-edge.md)
+      + {hide-from-toc}[[!DNL Analytics] 및 CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
    + [!DNL Analytics] 및 Real-Time CDP{#analytics-real-time-cdp}
-      + [[!DNL Analytics] 및 Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
-      + [[!DNL Analytics] 및 Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
+      + {hide-from-toc}[[!DNL Analytics] 및 Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
+      + {hide-from-toc}[[!DNL Analytics] 및 Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] 및 [!DNL Target]{#analytics-target}
-      + [[!DNL Analytics] 및 [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
+      + {hide-from-toc}[[!DNL Analytics] 및 [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] 및 [!DNL Analytics]{#campaign-analytics}
-      + [트리거 사용 자습서 [!DNL Campaign] 과(와)  [!DNL Analytics] 표준 통합](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+      + {hide-from-toc}[통합 [!DNL Campaign] 표준 및  [!DNL Analytics] 트리거 사용 자습서](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign] 및 Experience Manager {#campaign-experience-manager}
-      + [[!DNL Campaign] v8 및 Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
+      + {hide-from-toc}[[!DNL Campaign] v8 및 Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign] 및 Real-Time CDP{#campaign-real-time-cdp}
-      + [[!DNL Campaign] v8 및 Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
+      + {hide-from-toc}[[!DNL Campaign] v8 및 Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
    + Real-Team CDP{#rtcdp-target}
-      + [Real-Time CDP 및 [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
-      + [Real-Time CDP 및 [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
-      + [Real-Time CDP 및 [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
+      + {hide-from-toc}[Real-Time CDP 및 [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
+      + {hide-from-toc}[Real-Time CDP 및 [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
+      + {hide-from-toc}[Real-Time CDP 및 [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
    + GenStudio for Performance Marketing 및 Experience Manager {#genstudio-for-performance-marketing-experience-manager}
       + [개요](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [설정](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
