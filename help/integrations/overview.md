@@ -23,10 +23,10 @@ Experience Cloud 제품에 대해 잘 알고 있지만 이를 통합하는 것�
 <table>
 <tr>
    <td style="vertical-align: middle; text-align: center;">
-      <a  href="./integrations-between-applications/overview.md"><img alt="제품별" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
+      <a  href="./integrations-between-applications/overview.md"><img alt="제품별" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png?lang=ko"/></a>
    </td>
    <td>
-      <a  href="./solution-categories/overview.md"><img alt="비즈니스 솔루션별" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png"/></a>
+      <a  href="./solution-categories/overview.md"><img alt="비즈니스 솔루션별" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png?lang=ko"/></a>
    </td>  
 </tr>
 <tr>
