@@ -2,9 +2,20 @@
 title: 고객 여정을 위한 애플리케이션 통합
 description: 모든 소스에서 데이터를 가져와 개인화된 크로스 채널 여정을 생성하여 실시간 고객 프로필을 개발합니다.
 exl-id: eb653b89-db0f-433a-8641-bbeb32197096
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/XkEYtGUFWDMXc-qm4PMeRVNK8hduYOZ7sj2fkyWMCZM
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: 298
 ht-degree: 2%
 
 ---
@@ -17,7 +28,7 @@ ht-degree: 2%
 <table>
  <thead>
     <tr>
-      <th>활용 사례</th>
+      <th>사용 사례</th>
       <th>설명</th>
       <th>예시</th>
       <th>애플리케이션</th>
@@ -26,7 +37,7 @@ ht-degree: 2%
   <tbody>
 <tr>
   <td><strong>브랜드 자산을 사용하여 마케팅 자료 만들기</strong><br></td>
-  <td>AEM 및 Adobe [!DNL Campaign]을(를) 사용하여 전자 메일 마케팅 콘텐츠와 템플릿을 빌드하고 감독합니다.</td>
+  <td>AEM 및 Adobe [!DNL Campaign]을(를) 사용하여 이메일 마케팅 콘텐츠와 템플릿을 만들고 감독합니다.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>AEM으로 만든 마케팅 이메일 보내기</li>
@@ -83,7 +94,7 @@ ht-degree: 2%
 
 <tr>
   <td><strong>이메일 게재 개인화</strong><br></td>
-  <td>[!DNL Target] Adobe의 기능을 활용하여 다이내믹 콘텐츠로 이메일 게재를 개인화합니다.</td>
+  <td>Adobe [!DNL Target]의 기능을 활용하여 다이내믹 콘텐츠로 이메일 게재를 개인화합니다.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>고객 이메일에 개인화된 오퍼 추가</li>

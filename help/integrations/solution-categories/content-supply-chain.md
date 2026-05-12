@@ -1,15 +1,24 @@
 ---
-title: 콘텐츠 공급망을 위한 애플리케이션 통합
+title: 컨텐츠 supply chain을 위한 애플리케이션 통합
 description: 콘텐츠를 계획, 작성, 개인화 및 게시할 수 있습니다.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 03f958e6a2754b23a4a7d21ee87107a777f10406
+TQID: https://experienceleague.adobe.com/1OyoS3OaD8POo-SLGbdX2fApV4MokuigC3sM9xv2ea0
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: 332
 ht-degree: 1%
 
 ---
 
-# 콘텐츠 공급망
+# 컨텐츠 supply chain
 
 모든 고객을 위한 잊지 못할 콘텐츠를 지금 당장 계획하고, 만들고, 개인화하고, 게시하십시오.
 
@@ -18,7 +27,7 @@ ht-degree: 1%
 <table>
  <thead>
     <tr>
-      <th>활용 사례</th>
+      <th>사용 사례</th>
       <th>설명</th>
       <th>예시</th>
       <th>애플리케이션</th>
@@ -27,7 +36,7 @@ ht-degree: 1%
   <tbody>
 <tr>
   <td rowspan="2"><strong>브랜드 자산을 사용하여 마케팅 자료 만들기</strong><br/></td>
-  <td>AEM 및 Adobe [!DNL Campaign]을(를) 사용하여 전자 메일 마케팅 콘텐츠와 템플릿을 빌드하고 감독합니다.</td>
+  <td>AEM 및 Adobe [!DNL Campaign]을(를) 사용하여 이메일 마케팅 콘텐츠와 템플릿을 만들고 감독합니다.</td>
   <td>
     <ul>
       <li>AEM으로 만든 마케팅 이메일 보내기</li>
@@ -40,7 +49,7 @@ ht-degree: 1%
   <td>
     <ul>
       <li>GenStudio for Performance Marketing에서 만든 마케팅 이메일을 AEM Assets의 브랜드 내 이미지와 함께 보냅니다.</li>
-      <li>AEM Assets의 브랜드 내 이미지를 사용하여 GenStudio for Performance Marketing에서 브랜드 내 메타 광고를 만듭니다.</li>
+      <li>AEM Assets의 브랜드 내 이미지를 사용하여 GenStudio for Performance Marketing에서 브랜드 내 Meta 광고를 만듭니다.</li>
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GenStudio for Performance Marketing 및 AEM</a></td>
