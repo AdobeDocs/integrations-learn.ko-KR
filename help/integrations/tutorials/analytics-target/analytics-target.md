@@ -9,12 +9,19 @@ level: Beginner
 index: true
 kt: null
 thumbnail: null
-last-substantial-update: 2023-04-11T00:00:00Z
+last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="통합" type="positive"
 exl-id: 4ab6c61f-f14e-408a-a700-53f7b3d0600a
-source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
+TQID: https://experienceleague.adobe.com/FrQDFw8oAkdz4NUMi9c9fXfyxqHod4-c-oL-GTb2a4Y
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3aid: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: adee20bd-51f4-461d-b9db-d215f8756eebid: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: c93393a4-e558-47e1-992e-c91ed4d480ceid: eb9732ab-8232-4b21-bc4c-89de86dbe4d7id: f7c7de77-382f-4f48-8b36-61a170f06d3did: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+subfeature_v2: id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4id: ce57bdb9-8bbb-4c80-b9ab-e52598027bb9id: dcae653e-62c6-4cc8-84e6-ee110b848296id: df62f171-ac37-440f-8f0f-f41a72ebdd34id: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: e6c28e30-8689-4bf4-8fa8-561343d308a9id: f1f1a2d4-0976-4881-b091-c2bb8de7ffacid: fd0ff162-b6d3-4a11-8aeb-e165a01c0f0a
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bcc5edb5-84c3-4940-9f84-ed88b6c16274id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d3cdead0-685a-4489-9250-4bb709942f66id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: 437
 ht-degree: 9%
 
 ---
@@ -28,7 +35,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->이 비디오에서는 [!DNL Target] at.js 및 [!DNL Analytics] appMeasurement.js에 대한 구현과 유효성 검사를 보여 줍니다. 두 도구의 필수 라이브러리 버전에 대해서는 [설명서](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=ko)를 참조하십시오.
+>이 비디오에서는 [!DNL Target] at.js 및 [!DNL Analytics] appMeasurement.js에 대한 구현과 유효성 검사를 보여 줍니다. 두 도구의 필수 라이브러리 버전에 대해서는 [설명서](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html)를 참조하십시오.
 
 ### A4T([!DNL Target]의 경우 [!DNL Analytics]) 설정 중
 
@@ -47,7 +54,7 @@ ht-degree: 9%
 * A4T는 어떻게 작동합니까?
 * A4T를 사용하기 위한 사전 요구 사항은 무엇입니까?
 
->[!VIDEO](https://video.tv.adobe.com/v/3421728/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/17384/?quality=12&learn=on)
 
 
 ## 일반적인 사용 사례
@@ -58,13 +65,13 @@ ht-degree: 9%
 
 [!DNL Target]용 [!DNL Analytics]&#x200B;(A4T) 패널을 사용하면 Analysis Workspace에서 자신 있게 Adobe [!DNL Target] 활동 및 경험을 분석할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/326714/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
 ### A4T 패널을 사용하여 자동 [!DNL Target] 활동 분석
 
 이 비디오에서는 [!DNL Target] 패널의 [!DNL Analytics]을(를) 사용하여 자동 [!DNL Target] 테스트의 결과를 시각화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412971/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
 
 또한 &quot;자동 할당&quot; 및 &quot;자동 타겟&quot; 활동을 위해 Analysis Workspace에서 A4T 보고서를 설정하는 방법에 대한 세부 사항을 보여주는 두 가지 단계별 자습서가 있습니다.
 

@@ -2,9 +2,13 @@
 title: 데이터 인사이트 및 활성화를 위한 애플리케이션 통합
 description: 전체 조직에서 온라인 및 오프라인 데이터 인사이트를 사용하여 모든 채널에서 실시간 개인화를 촉진합니다.
 exl-id: 9f22085a-306e-48e8-9b86-6429d851df58
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/zkqCV7vW8y8lOyV58jQVQImIskKiMqN2oecEKhg6Vd0
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c4147b6e-073b-4d3c-9ab1-d60f2f4434efid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: fc314d1d-7cb9-4a38-8dbd-8f9b6478f40did: ff2b9b37-92e0-45fc-b853-379d44c08c89
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: 560
 ht-degree: 1%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 1%
 
 <thead>
     <tr>
-      <th>활용 사례</th>
+      <th>사용 사례</th>
       <th>설명</th>
       <th>예시</th>
       <th>애플리케이션</th>
@@ -30,7 +34,7 @@ ht-degree: 1%
    <td rowspan="8"><b>데이터 분석 및 보고</b></td>
 
 <!--  ROW 2a  -->
-<td>[!DNL Target] Adobe을 사용하고 [!DNL Analytics] Adobe을 통해 포괄적인 보고서를 생성하여 A/B 테스트를 포함한 최적화 테스트 결과를 분석하십시오.</td>
+<td>Adobe [!DNL Target]을(를) 사용하고 Adobe [!DNL Analytics]을(를) 통해 포괄적인 보고서를 생성하여 A/B 테스트를 포함한 최적화 테스트 결과를 분석합니다.</td>
    <td><ul style="margin-top: 0;">
         <li>풍부한 분석 보고서에 A/B 테스트 결과를 표시합니다.</li>
        </ul></td>
@@ -51,7 +55,7 @@ ht-degree: 1%
 <tr>
    <td>개인화 및 광고 플랫폼을 위한 대상을 확장합니다.</td>
     <td><ul style="margin-top: 0;">
-        <li>서버측 전달을 사용하여 [!DNL Analytics] 데이터를 Audience Manager에 전송하여 세그먼트를 만듭니다.</li>
+        <li>서버측 전달을 사용하여 [!DNL Analytics] 데이터를 Audience Manager으로 전송하여 세그먼트를 만듭니다.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">Audience Manager 및 [!DNL Analytics]</a></td>
  </tr>
@@ -78,7 +82,7 @@ ht-degree: 1%
 
 <!--  ROW 2f  -->
 <tr>
-   <td>사전 클릭 Adobe 및 전환율을 사용하여 [!DNL Campaign] 전자 메일 마케팅 캠페인에 대한 포괄적인 통찰력을 얻으십시오.</td>
+   <td>사전 클릭 지표 및 전환율을 사용하여 Adobe [!DNL Campaign] 이메일 마케팅 캠페인에 대한 포괄적인 통찰력을 얻으십시오.</td>
    <td><ul style="margin-top: 0;">
         <li>이메일 캠페인에 대한 클릭 후 전환 지표를 추적, 분석 및 보고합니다.</li>
         <li>캠페인을 [!DNL Analytics]에서 수집된 다른 차원으로 드릴다운합니다.</li>
@@ -89,10 +93,10 @@ ht-degree: 1%
 
 <!--  ROW 2g  -->
 <tr>
-   <td>선택한 주요 지표 및 차원을 사용하여 [!DNL Commerce] Adobe 스토어 성능에 대한 포괄적인 통찰력을 얻으십시오.</td>
+   <td>선택한 주요 지표 및 차원을 사용하여 Adobe [!DNL Commerce] 스토어 성능에 대한 포괄적인 통찰력을 얻으십시오.</td>
    <td><ul style="margin-top: 0;">
         <li>상거래 활동에 대한 데이터 통찰력 및 보고.</li>
-        <li>선택한 주요 지표 및 차원을 사용하여 [!DNL Commerce] Adobe 스토어 성능에 대한 포괄적인 통찰력을 얻으십시오.</li>
+        <li>선택한 주요 지표 및 차원을 사용하여 Adobe [!DNL Commerce] 스토어 성능에 대한 포괄적인 통찰력을 얻으십시오.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/commerce/commerce-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Commerce] 및 [!DNL Analytics]</a></td>
  </tr>
@@ -126,7 +130,7 @@ ht-degree: 1%
 <tr>
   <td>대상자 및 프로필 데이터를 사용하여 마케팅 캠페인을 강화합니다.</td>
   <td><ul style="margin-top: 0;">
-        <li>대상자 세분화를 위해 AEP 데이터를 사용하여 마케팅 캠페인을 개선합니다.</li>
+        <li>대상자 세분화를 위해 AEP 데이터를 사용하여 마케팅 캠페인을 강화합니다.</li>
       </ul></td>
    <td><a href="../integrations-between-applications/campaign/campaign-rtcdp.md">[!DNL Campaign] v8 및 실시간 고객 데이터 [!DNL Platform]</a></td>
  </tr>
@@ -154,7 +158,7 @@ ht-degree: 1%
 <!--  ROW 4  -->
 <tr>
    <td><b>마케팅 이미지 사용 및 성능 측정</b></td>
-   <td>AEM Assets과 Adobe [!DNL Analytics]을(를) 통합하여 마케팅 이미지의 효과를 추적 및 분석합니다.</td>
+   <td>AEM Assets 및 Adobe [!DNL Analytics]을(를) 통합하여 마케팅 이미지의 효과를 추적 및 분석합니다.</td>
    <td><ul style="margin-top: 0;"><li>자산 성과를 추적하고 분석합니다.</li>
            <li>사용자 참여 분석</li>
            <li>콘텐츠 전략을 최적화합니다.</li>

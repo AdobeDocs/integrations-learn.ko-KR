@@ -2,9 +2,13 @@
 title: Commerce용 애플리케이션 통합
 description: 유연한 AI 기반 상거래 솔루션을 사용하여 단일 플랫폼에서 멀티채널 상거래 경험을 구축하십시오.
 exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/apKwbItmCVvmkJ-gx580ymdP7M1FGNieIorzOSHo374
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: 174
 ht-degree: 3%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 3%
 
 <thead>
     <tr>
-      <th>활용 사례</th>
+      <th>사용 사례</th>
       <th>설명</th>
       <th>예시</th>
       <th>애플리케이션</th>
@@ -28,7 +32,7 @@ ht-degree: 3%
    <td><strong>디지털 상점</strong></td>
    <td><ul style="margin-top: 0;">
           <li>AEM에서 단일 스토어 배포
-          <li>AEM의 글로벌 다중 스토어 배포</li>
+          <li>AEM에서 글로벌 다중 스토어 배포</li>
           <li>AEM을 사용한 다중 시스템 배포</li>
         </ul>
   </td>
@@ -40,7 +44,7 @@ ht-degree: 3%
           <li>복잡한 다중 스토어 구성을 구현합니다.</li>
           <li>사이트 간 원활한 컨텐츠 관리</li>
           <li>효율적인 전역 콘텐츠 조정.</li>
-          <li>[!DNL Commerce] Adobe에 대한 다중 환경을 지원합니다.</li>
+          <li>Adobe [!DNL Commerce]에 대한 다중 환경 지원.</li>
           <li>상거래 콘텐츠 만들기 간소화.</li>
           <li>일관되고 효율적인 상점 관리.</li>
       </ul>
@@ -49,8 +53,8 @@ ht-degree: 3%
  </tr> 
  <tr>
    <td><strong>데이터 분석 및 보고<strong></td>
-   <td>상거래 저장소 전환 단계, 주문, 매출, 방문 및 방문자 지표를 평가합니다.</td>
-   <td><ul style="margin-top: 0;"><li>상거래 활동에 대한 데이터 통찰력 및 보고.</li><li>선택한 주요 지표 및 차원을 사용하여 [!DNL Commerce] Adobe 스토어 성능에 대한 포괄적인 통찰력을 얻으십시오.</li></ul></td>
+   <td>상거래 저장소 전환 funnel, 주문, 매출, 방문 및 방문자 지표를 평가합니다.</td>
+   <td><ul style="margin-top: 0;"><li>상거래 활동에 대한 데이터 통찰력 및 보고.</li><li>선택한 주요 지표 및 차원을 사용하여 Adobe [!DNL Commerce] 스토어 성능에 대한 포괄적인 통찰력을 얻으십시오.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] 및 [!DNL Analytics]</a></td>
  </tr>
  </tbody>

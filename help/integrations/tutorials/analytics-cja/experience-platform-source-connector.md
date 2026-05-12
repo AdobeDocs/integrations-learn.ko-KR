@@ -9,12 +9,17 @@ level: Beginner
 index: true
 kt: 13727
 thumbnail: null
-last-substantial-update: 2023-04-11T00:00:00Z
+last-substantial-update: 2023-04-11T00:00:00.000Z
 badgeIntegration: label="통합" type="positive"
 exl-id: f0dbd59d-d5e5-40e6-b4a4-e4789e7dd7e3
-source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
+TQID: https://experienceleague.adobe.com/o3HCX8vz8ZKn2j1Hl3W4XWMOudx7MBZCMNRWxO-eKbw
+product_v2: id: e43347a8-f2c5-4aa4-8623-6f13875d7e3aid: e98b7246-966c-4318-9e95-cad2f7a17dc7
+feature_v2: id: e75a4a9c-d354-4ca4-9b02-1afeca73fa5eid: f7c7de77-382f-4f48-8b36-61a170f06d3d
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: 341
 ht-degree: 18%
 
 ---
@@ -22,14 +27,14 @@ ht-degree: 18%
 # Adobe [!DNL Analytics] 및 고객 여정 [!DNL Analytics]을(를) Experience [!DNL Platform] 소스 커넥터와 통합
 
 <ol>
-    <li>데이터를 수집할 <a href="https://experienceleague.adobe.com/ko?lang=en#dashboard/learning" _target="_blank" rel="noopener noreferrer">스키마를 만듭니다</a>.</li>
-    <li>데이터를 수집할 <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html?lang=ko" _target="_blank" rel="noopener noreferrer">데이터 세트를 만듭니다</a>.</a></li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=ko" _target="_blank" rel="noopener noreferrer">스키마에서 올바른 ID 및 ID 네임스페이스를 구성</a>하여 수집된 데이터를 통합 프로필에 연결할 수 있도록 합니다.</li> 
+    <li>데이터를 수집할 <a href="https://experienceleague.adobe.com/?lang=en#dashboard/learning" _target="_blank" rel="noopener noreferrer">스키마를 만듭니다</a>.</li>
+    <li>데이터를 수집할 <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html" _target="_blank" rel="noopener noreferrer">데이터 세트를 만듭니다</a>.</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en" _target="_blank" rel="noopener noreferrer">스키마에서 올바른 ID 및 ID 네임스페이스를 구성</a>하여 수집된 데이터를 통합 프로필에 연결할 수 있도록 합니다.</li> 
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/bring-data-into-the-real-time-customer-profile.html?lang=ko-KR" _target="_blank" rel="noopener noreferrer">프로필에 대해 스키마와 데이터 세트를 사용하도록 설정</a>.</li>
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-adobe-analytics.html?lang=ko-KR" _target="_blank" rel="noopener noreferrer">Adobe [!DNL Analytics] 소스 커넥터</a>를 사용하여 [!DNL Platform] 경험에 데이터 수집</li>
-    <li><i>(선택 사항)</i>. 여러 데이터 세트를 사용하는 경우 개인 ID를 함께 <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html?lang=ko" _target="_blank" rel="noopener noreferrer">결합된 데이터 세트를 생성</a>합니다. 단일 [!DNL Analytics] 데이터 세트를 사용하거나 고객 여정 [!DNL Analytics]에서 사용하려는 모든 데이터 세트에 공통 식별자가 있는 경우 이 단계를 건너뜁니다.</li>
-    <li>고객 여정 [!DNL Analytics]에서 <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html?lang=ko" _target="_blank" rel="noopener noreferrer">연결을 만듭니다</a>.</li>
-    <li>고객 여정 [!DNL Analytics]에서 <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/basic-configuration-for-data-views.html?lang=ko" _target="_blank" rel="noopener noreferrer">데이터 보기 만들기</a>, <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/configuring-component-settings-in-data-views.html?lang=ko" _target="_blank" rel="noopener noreferrer">구성 요소 설정 구성</a> 및 <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/formatting-metrics-in-data-views.html?lang=ko" _target="_blank" rel="noopener noreferrer">서식 지표</a>.
+    <li><i>(선택 사항)</i>. 여러 데이터 세트를 사용하는 경우 개인 ID를 함께 <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html" _target="_blank" rel="noopener noreferrer">결합된 데이터 세트를 생성</a>합니다. 단일 [!DNL Analytics] 데이터 세트를 사용하거나 고객 여정 [!DNL Analytics]에서 사용하려는 모든 데이터 세트에 공통 식별자가 있는 경우 이 단계를 건너뜁니다.</li>
+    <li>고객 여정 [!DNL Analytics]에서 <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html" _target="_blank" rel="noopener noreferrer">연결을 만듭니다</a>.</li>
+    <li>고객 여정 [!DNL Analytics]에서 <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/basic-configuration-for-data-views.html" _target="_blank" rel="noopener noreferrer">데이터 보기 만들기</a>, <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/configuring-component-settings-in-data-views.html" _target="_blank" rel="noopener noreferrer">구성 요소 설정 구성</a> 및 <a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/formatting-metrics-in-data-views.html" _target="_blank" rel="noopener noreferrer">서식 지표</a>.
     <li><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/build-a-new-project.html?lang=ko" _target="_blank" rel="noopener noreferrer">고객 여정 [!DNL Analytics]에서 프로젝트를 만듭니다.</a></li>
 </ol>
 
