@@ -3,8 +3,10 @@ title: 애플리케이션 통합
 description: Experience Cloud 애플리케이션 통합을 위한 일반 구성에 대해 알아봅니다. Adobe의 동급 최강의 엔터프라이즈 제품을 통해 비즈니스 문제를 해결하는 방법에 대해 알아봅니다.
 exl-id: 3c0a75ec-2b4c-4984-bd42-0b5ddeb7c004
 TQID: https://experienceleague.adobe.com/TQeDwtLluKJYg-j7LUqXGkb6aluY4UqYAfpyzWZ5sKQ
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
 source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
 source-wordcount: 164
