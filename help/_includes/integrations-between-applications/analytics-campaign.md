@@ -33,7 +33,7 @@ Adobe [!DNL Analytics]과(와) Adobe [!DNL Campaign]의 통합을 통해 원활�
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] 표준 포함 [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">외부 [!DNL Campaign] 계정이 Adobe [!DNL Analytics] 및 Admin 구성에 연결되어 있습니다. [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=ko" target="_blank" rel="noreferrer">외부 [!DNL Campaign] 계정이 Adobe [!DNL Analytics] 및 Admin 구성에 연결되어 있습니다. [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Adobe [!DNL Analytics]에서 직접 [!DNL Campaign]의 이메일 게재 성공 여부를 추적하려는 경우.</li>
