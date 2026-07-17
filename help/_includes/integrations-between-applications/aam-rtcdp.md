@@ -35,7 +35,7 @@ Adobe Audience Manager과 Adobe Real-Time CDP을 통합하면 다음과 같은 �
     <tbody>
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">Audience Manager 및 Real-Time CDP</a>
+                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=ko" target="_blank" rel="noreferrer">Audience Manager 및 Real-Time CDP</a>
             </td>
             <td>Adobe Audience Manager 데이터 커넥터</td>
             <td>
