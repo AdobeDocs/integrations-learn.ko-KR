@@ -89,7 +89,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/ko/docs/experience-manager-learn/assets/content-hub/set-up" title="AEM Assets Content Hub 활성화" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1733417775065" alt="AEM Assets Content Hub 활성화"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450289/?captions=kor&format=jpeg&nocache=1733417775065" alt="AEM Assets Content Hub 활성화"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

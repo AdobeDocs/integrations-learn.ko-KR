@@ -51,28 +51,28 @@ ht-degree: 0%
 
 통합에 대한 개요 및 데모를 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342980?captions=kor&quality=12&learn=on)
 
 ## 실시간 고객 데이터 [!DNL Platform]에서 Adobe [!DNL Target] 대상 구성
 
 실시간 고객 데이터 [!DNL Platform]에서 Adobe [!DNL Target] 대상을 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418799/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449800/?captions=kor&learn=on)
 
 ## Adobe [!DNL Target]에 대한 세그먼트 및 프로필 특성 활성화
 
 Adobe Real-Time Customer Data [!DNL Platform]에서 Adobe [!DNL Target]&#x200B;(으)로 세그먼트 및 프로필 특성을 활성화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447362/?captions=kor&learn=on)
 
 ## Adobe [!DNL Target]에서 Real-Time CDP 세그먼트 사용
 
 Adobe [!DNL Target]에서 실시간 고객 데이터 [!DNL Platform] 세그먼트를 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446834/?captions=kor&learn=on)
 
 ## Adobe [!DNL Target]에서 Real-Time CDP 프로필 특성 사용
 
 Adobe [!DNL Target]에서 Adobe 실시간 고객 데이터 [!DNL Platform] 프로필 특성을 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451900/?captions=kor&learn=on)
