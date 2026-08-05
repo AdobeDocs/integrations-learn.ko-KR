@@ -51,7 +51,7 @@ ht-degree: 0%
 
 통합에 대한 개요 및 데모를 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342980?captions=kor&quality=12&learn=on)
 
 ## 실시간 고객 데이터 [!DNL Platform]에서 Adobe [!DNL Target] 대상 구성
 
