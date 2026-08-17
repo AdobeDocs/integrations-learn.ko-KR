@@ -57,7 +57,7 @@ Adobe [!DNL Analytics] 및 Audience Manager 통합의 주요 이점은 다음과
         </tr>        
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer">Audience Manager이 데이터를 다시 [!DNL Analytics]</a>(으)로 전송 중
+                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ko" target="_blank" rel="noreferrer">Audience Manager이 데이터를 다시 [!DNL Analytics]</a>(으)로 전송 중
             </td>
             <td>Adobe [!DNL Analytics] 태그 확장 또는 서버측 전달이 활성화된 AppMeasurement.js</td>
             <td>
