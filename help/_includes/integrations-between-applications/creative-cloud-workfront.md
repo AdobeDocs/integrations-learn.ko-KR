@@ -32,7 +32,7 @@ Adobe Workfront 및 Adobe Creative Cloud 통합의 주요 이점은 다음과 �
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html" target="_blank" rel="noreferrer">Creative Cloud 및 Workfront</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=ko" target="_blank" rel="noreferrer">Creative Cloud 및 Workfront</a></td>
             <td>기본 커넥터</td>
             <td>
                 <ul style="margin-top: 0;">
