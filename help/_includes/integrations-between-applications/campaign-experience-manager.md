@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '146'
 ht-degree: 2%
 
 ---
@@ -13,10 +13,10 @@ ht-degree: 2%
 
 {{experience-manager-description}}
 
-Adobe [!DNL Campaign]과(와) AEM Experience Manager 통합의 주요 이점은 다음과 같습니다.
+Adobe [!DNL Campaign] 및 AEM Experience Manager 통합의 주요 이점은 다음과 같습니다.
 
 + **Adobe Experience Manager에서 직접 전자 메일 게재 내용 관리** 및 양식을 관리하세요.
-+ **Adobe Experience Manager Assets에서 [!DNL Campaign] Adobe의 전자 메일 또는 랜딩 페이지를 편집하는 동안 브랜드 자산을 사용**&#x200B;합니다.
++ Adobe [!DNL Campaign]의 Adobe Experience Manager Assets에서 **전자 메일 또는 랜딩 페이지를 편집하는 동안 브랜드 자산을 사용**&#x200B;합니다.
 
 ## 일반적인 통합
 
@@ -47,7 +47,7 @@ Adobe [!DNL Campaign]과(와) AEM Experience Manager 통합의 주요 이점은 
             </td>
         </tr>      
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html?lang=ko" target="_blank" rel="noreferrer">[!DNL Campaign] AEM Forms을 사용한 표준</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html" target="_blank" rel="noreferrer">[!DNL Campaign] AEM Forms을 사용한 표준</a></td>
             <td>Adobe IMS 액세스 토큰</td>
             <td>
                 <ul style="margin-top: 0;">
