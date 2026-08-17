@@ -1,7 +1,7 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: 'null'
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 {{audience-manager-description}}
 
-Adobe [!DNL Analytics] 데이터를 서버측에서 Audience Manager으로 전달하여 이 통합을 활성화하면 Audience Manager에게 데이터의 주요 소스 중 하나, 즉 온라인 고객 행동 데이터를 제공합니다. 그런 다음 이 데이터를 자사 CRM 데이터 또는 타사 파트너 데이터와 같은 다른 데이터와 결합하여 풍부한 고객 세그먼트를 만들 수 있습니다. 또한 이후 추가적인 방문자 분석에 대한 응답으로 Audience Manager 세그먼트는 웹 페이지로 다시 전송됩니다. 이러한 두 가지 중요한 사용 사례는 아래에 설명되어 있습니다.
+Adobe [!DNL Analytics] 데이터를 서버측에서 Audience Manager으로 전달하여 이 통합을 활성화하면 Audience Manager에 데이터의 주요 소스 중 하나, 즉 온라인 고객 행동 데이터가 제공됩니다. 그런 다음 이 데이터를 자사 CRM 데이터 또는 타사 파트너 데이터와 같은 다른 데이터와 결합하여 풍부한 고객 세그먼트를 만들 수 있습니다. 또한 추가적인 방문자 분석에 대한 응답으로 Audience Manager 세그먼트가 다시 웹 페이지로 전송됩니다. 이러한 두 가지 중요한 사용 사례는 아래에 설명되어 있습니다.
 
-Adobe [!DNL Analytics]과(와) Audience Manager 통합의 주요 이점은 다음과 같습니다.
+Adobe [!DNL Analytics] 및 Audience Manager 통합의 주요 이점은 다음과 같습니다.
 
-+ **향상된 세그멘테이션**: 마케팅 캠페인에서 정밀하고 개인화된 대상 세그먼트를 위해 Adobe [!DNL Analytics]과(와) Audience Manager 데이터를 결합합니다.
++ **향상된 세그멘테이션**: 마케팅 캠페인에서 정밀하고 개인화된 대상 세그먼트를 위해 Adobe [!DNL Analytics] 및 Audience Manager 데이터를 결합합니다.
 + **통합 고객 프로필**: 데이터 소스를 통합하여 상호 작용과 동작을 이해하고 포괄적인 고객 프로필을 만듭니다.
 + **광고 효율성 향상**: Adobe [!DNL Analytics] 및 Audience Manager 통합의 데이터 기반 타깃팅으로 광고를 최적화합니다.
-+ **데이터 기반 결정**: 자세한 인사이트, [!DNL Analytics] Adobe 및 Audience Manager 데이터 병합을 통해 선택 사항을 알립니다.
++ **데이터 기반 결정**: 자세한 인사이트를 통해 선택 사항에 대해 알리고 Adobe [!DNL Analytics] 및 Audience Manager 데이터를 병합합니다.
 + **개인화된 경험**: 콘텐츠 및 오퍼를 맞춤화하여 두 플랫폼 모두 사용하여 터치포인트 간에 고객 상호 작용을 강화합니다.
 
 전반적으로 이 통합은 중요한 데이터와 대상 통찰력을 하나로 모읍니다. 이를 통해 기업은 고객의 선호도와 행동을 더 깊이 이해하면서 타겟팅되고 관련성이 높은 마케팅 캠페인을 만들 수 있습니다.
@@ -39,12 +39,12 @@ Adobe [!DNL Analytics]과(와) Audience Manager 통합의 주요 이점은 다�
     <tbody>
         <tr>
             <td>
-                <a href="/docs/analytics-learn/tutorials/integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.html" target="_blank" rel="noreferrer">[!DNL Analytics] Audience Manager에게 데이터를 보내는 중</a>
+                <a href="/docs/analytics-learn/tutorials/integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.html" target="_blank" rel="noreferrer">[!DNL Analytics] Audience Manager에 데이터 보내기</a>
             </td>
             <td>Adobe [!DNL Analytics] 태그 확장 또는 서버측 전달이 활성화된 AppMeasurement.js</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>다른 Adobe Experience Cloud 대상, 사용자 기반 대상 또는 Audience Manager에서 지원하는 다른 장치 기반 및 사용자 지정 대상과 공유할 수 있는 세그먼트를 만들기 위해 Adobe [!DNL Analytics] 데이터를 Audience Manager에 보내려는 경우.</li>
+                    <li>다른 Adobe Experience Cloud 대상, 사용자 기반 대상 또는 Audience Manager에서 지원하는 다른 장치 기반 및 사용자 지정 대상과 공유할 수 있는 세그먼트를 만들기 위해 Adobe [!DNL Analytics] 데이터를 Audience Manager으로 보내려는 경우.</li>
                 </ul>
             </td>
             <td>
