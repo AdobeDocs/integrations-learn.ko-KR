@@ -1,5 +1,5 @@
 ---
-source-git-commit: 'null'
+source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '390'
 ht-degree: 0%
@@ -57,12 +57,12 @@ Adobe [!DNL Analytics] 및 Audience Manager 통합의 주요 이점은 다음과
         </tr>        
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ko" target="_blank" rel="noreferrer">Audience Manager이 데이터를 다시 [!DNL Analytics]</a>(으)로 전송 중
+                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer">Audience Manager이 데이터를 다시 [!DNL Analytics]</a>(으)로 전송 중
             </td>
             <td>Adobe [!DNL Analytics] 태그 확장 또는 서버측 전달이 활성화된 AppMeasurement.js</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>대상 검색, 세분화 및 최적화를 알리기 위해 Audience Manager에서 [!DNL Analytics] (으)로 세그먼트를 공유하려는 경우.</li>
+                    <li>대상 검색, 세분화 및 최적화를 알리기 위해 Audience Manager에서 [!DNL Analytics](으)로 세그먼트를 공유하려는 경우.</li>
                 </ul>
             </td>
             <td>
