@@ -40,7 +40,7 @@ Adobe 고객 여정 [!DNL Analytics]과(와) Adobe Real-Time CDP을 통합하면
             <td>Adobe 경험 [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Adobe Journey Optimizer에서 여정에 고객 여정 [!DNL Analytics](CJA) 대상을 사용하려는 경우.</li>
+                    <li>Adobe Journey Optimizer에서 여정에 고객 여정 [!DNL Analytics] (CJA) 대상을 사용하려는 경우.</li>
                     <li>Experience [!DNL Platform] 대상을 통해 CJA 대상을 서드파티에 내보내려는 경우.</li>
                     <li>CJA의 이벤트 기반 데이터에서 파생된 유용한 속성으로 실시간 고객 프로필을 보강하려는 경우.</li>
                     <li>대상을 Real-Time CDP에 게시한 후 대기 시간을 최소화하면서 이 모든 작업을 수행합니다.</li>

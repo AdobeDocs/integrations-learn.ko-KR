@@ -38,7 +38,7 @@ Adobe [!DNL Analytics]을(를) 고객 여정 [!DNL Analytics]과(와) 통합하�
             <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-source-connector.md" target="_blank" rel="noreferrer">경험 [!DNL Platform] 원본 커넥터</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>이미 Adobe [!DNL Analytics]을(를) 구현했으며 고객 여정 [!DNL Analytics]에서 사용할 수 있도록 이 데이터를 Experience [!DNL Platform](으)로 수집하는 가장 빠른 방법을 원하는 고객에게 권장되는 방법입니다.</li>
+                    <li>이미 Adobe [!DNL Analytics]을(를) 구현했으며 고객 여정 [!DNL Analytics]에서 사용할 수 있도록 이 데이터를 Experience [!DNL Platform] (으)로 수집하는 가장 빠른 방법을 원하는 고객에게 권장되는 방법입니다.</li>
                     <li>고객 프로필에 대한 데이터 가용성이 데이터 수집 시점부터 2~30분일 수 있고 데이터 레이크에 대한 가용성은 최대 90분입니다.</li>
                 </ul>
             </td>
@@ -55,7 +55,7 @@ Adobe [!DNL Analytics]을(를) 고객 여정 [!DNL Analytics]과(와) 통합하�
             <td>
                 <ul style="margin-top: 0;">
                     <li>새로운 [!DNL Analytics] 구현에 대한 권장 접근 방식 또는 장기적인 전략을 구현하려는 경우.</li>
-                    <li>AEP Web SDK, AEP Mobile SDK 또는 Edge Network Server API를 사용하여 장치에서 Experience [!DNL Platform](으)로 직접 데이터를 보냅니다.</li>
+                    <li>AEP Web SDK, AEP Mobile SDK 또는 Edge Network Server API를 사용하여 장치에서 Experience [!DNL Platform] (으)로 직접 데이터를 보냅니다.</li>
                 </ul>
             </td>
             <td>
