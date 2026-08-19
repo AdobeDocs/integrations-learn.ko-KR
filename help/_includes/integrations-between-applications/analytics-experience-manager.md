@@ -35,7 +35,7 @@ Adobe [!DNL Analytics]과(와) Adobe Experience Manager을 통합하면 다음�
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Analytics] AEM Sites 사용</a></td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">경험 [!DNL Platform] 웹 SDK 태그 확장 또는 alloy.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html?lang=ko" target="_blank" rel="noreferrer">경험 [!DNL Platform] 웹 SDK 태그 확장 또는 alloy.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Adobe [!DNL Analytics]에서 AEM 웹 분석 데이터에 대해 보고하려는 경우 향후 다른 Experience Cloud 애플리케이션과 통합할 수 있습니다.</li>
@@ -50,7 +50,7 @@ Adobe [!DNL Analytics]과(와) Adobe Experience Manager을 통합하면 다음�
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html" target="_blank" rel="noreferrer">Adobe [!DNL Analytics] 태그 확장 또는 AppMeasurement.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html?lang=ko" target="_blank" rel="noreferrer">Adobe [!DNL Analytics] 태그 확장 또는 AppMeasurement.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Experience Cloud [!DNL Analytics]에서 AEM 웹 분석 데이터를 보고하려 하는데 다른 Adobe 애플리케이션에서 해당 데이터를 사용할 계획이 없는 경우</li>
@@ -67,7 +67,7 @@ Adobe [!DNL Analytics]과(와) Adobe Experience Manager을 통합하면 다음�
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html" target="_blank" rel="noreferrer">[!DNL Analytics] 및 AEM Forms as Cloud Service</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html?lang=ko" target="_blank" rel="noreferrer">[!DNL Analytics] 및 AEM Forms as Cloud Service</a></td>
             <td>경험 [!DNL Platform] 웹 SDK 태그 확장</td>
             <td>
               <ul style="margin-top: 0;">
