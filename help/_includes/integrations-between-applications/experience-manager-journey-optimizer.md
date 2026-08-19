@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 3%
+source-wordcount: '117'
+ht-degree: 15%
 
 ---
 
@@ -34,7 +34,7 @@ Adobe Journey Optimizer 및 Experience Manager Assets Essentials를 통합하면
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=ko" target="_blank" rel="noreferrer">Journey Optimizer 및 AEM Assets 기본 사항</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" target="_blank" rel="noreferrer">Journey Optimizer 및 AEM Assets 기본 사항</a></td>
             <td>Asset Essentials가 Journey Optimizer에 임베드됨</td>
             <td>
                 <ul style="margin-top: 0;">
