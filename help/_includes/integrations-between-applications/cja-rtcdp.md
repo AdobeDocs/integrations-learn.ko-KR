@@ -1,19 +1,19 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 1%
+source-wordcount: '258'
+ht-degree: 6%
 
 ---
 
 
-# 고객 여정 [!DNL Analytics] 및 실시간 고객 데이터 [!DNL Platform] (Real-Time CDP) 통합
+# 고객 여정 [!DNL Analytics] 및 실시간 고객 데이터 [!DNL Platform]&#x200B;(Real-Time CDP) 통합
 
 {{customer-journey-analytics-description}}
 
 {{real-time-cdp-description}}
 
-Adobe 고객 여정 [!DNL Analytics]과(와) Adobe Real-Time CDP을(를) 통합하면 다음과 같은 이점이 있습니다.
+Adobe 고객 여정 [!DNL Analytics]과(와) Adobe Real-Time CDP을 통합하면 다음과 같은 이점이 있습니다.
 
 + **360도 고객 보기**: 통합 고객 여정 보기를 위해 데이터를 결합하여 상호 작용 및 환경 설정을 이해합니다.
 + **실시간 개인화**: Adobe Real-Time CDP을 통해 관련 경험을 즉시 제공합니다.
@@ -40,8 +40,8 @@ Adobe 고객 여정 [!DNL Analytics]과(와) Adobe Real-Time CDP을(를) 통합�
             <td>Adobe 경험 [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Adobe Journey Optimizer에서 여정에 CJA(고객 여정 [!DNL Analytics]) 대상을 사용하려는 경우.</li>
-                    <li>Experience [!DNL Platform] 대상을 통해 CJA 대상자를 서드파티에 내보내려는 경우.</li>
+                    <li>Adobe Journey Optimizer에서 여정에 고객 여정 [!DNL Analytics] (CJA) 대상을 사용하려는 경우.</li>
+                    <li>Experience [!DNL Platform] 대상을 통해 CJA 대상을 서드파티에 내보내려는 경우.</li>
                     <li>CJA의 이벤트 기반 데이터에서 파생된 유용한 속성으로 실시간 고객 프로필을 보강하려는 경우.</li>
                     <li>대상을 Real-Time CDP에 게시한 후 대기 시간을 최소화하면서 이 모든 작업을 수행합니다.</li>
                     <li>일회성 대상자 또는 반복 대상자를 게시하려는 경우.</li>
