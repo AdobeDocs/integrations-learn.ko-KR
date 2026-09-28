@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '124'
 ht-degree: 2%
-
 ---
-
 
 # [!DNL Campaign] 및 실시간 고객 데이터 [!DNL Platform]
 
@@ -13,9 +11,9 @@ ht-degree: 2%
 
 {{real-time-cdp-description}}
 
-[!DNL Campaign] Adobe 관리 Cloud Service 대상 및 Source 커넥터를 사용하면 [!DNL Campaign] Adobe과 [!DNL Platform] Adobe 경험 간의 원활한 통합을 수행할 수 있습니다. 이 통합의 주요 이점은 다음과 같습니다.
+Adobe [!DNL Campaign] 관리 Cloud Service 대상 및 Source 커넥터를 사용하면 Adobe [!DNL Campaign]과(와) Adobe Experience [!DNL Platform] 간의 원활한 통합을 수행할 수 있습니다. 이 통합의 주요 이점은 다음과 같습니다.
 
-+ **Adobe 경험 [!DNL Platform] 기반 대상자를 사용하여 [!DNL Campaign]의 세분화 기능을 강화**&#x200B;하고 [!DNL Campaign]에서 해당 데이터를 활성화합니다.
++ **Adobe Experience [!DNL Platform] 기반 대상자를 사용하여 [!DNL Campaign]의 세분화 기능을 보강**&#x200B;하고 [!DNL Campaign]에서 해당 데이터를 활성화합니다.
 
 ## 일반적인 통합
 
@@ -31,10 +29,10 @@ ht-degree: 2%
     <tbody>
         <tr>
             <td><a href="../../integrations/tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md" target="_blank" rel="noreferrer">[!DNL Campaign] v8 및 Real-Time CDP</a></td>
-            <td>[!DNL Campaign] 관리되는 Cloud Service 대상</td>
+            <td>[!DNL Campaign] 관리 클라우드 서비스 대상</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Adobe 경험 [!DNL Platform] 기반 스마트 세그먼트를 활용하고 Adobe [!DNL Campaign]을(를) 사용하여 활성화하여 Adobe [!DNL Campaign]에서 지원하는 다양한 채널에서 고객 기반에 연결합니다.</li>
+                    <li>Adobe Experience [!DNL Platform] 기반 스마트 세그먼트를 활용하고 Adobe [!DNL Campaign]을(를) 사용하여 활성화하면 Adobe [!DNL Campaign]에서 지원하는 다양한 채널에서 고객 기반에 연결할 수 있습니다.</li>
                 </ul>
             </td>
             <td>
