@@ -5,26 +5,33 @@ exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
 TQID: https://experienceleague.adobe.com/vZyhtRi9XnWPLZww56VbOGNYzSMD0xxcXYPfa9PGrkw
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+    internal-label: Integrations
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c4147b6e-073b-4d3c-9ab1-d60f2f4434ef
+    internal-label: Behavioral data
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
+    internal-label: Web experience
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
+    internal-label: Customer profiles
+source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
 workflow-type: tm+mt
-source-wordcount: 610
+source-wordcount: '612'
 ht-degree: 1%
-
 ---
-
 # 규모에 맞는 Personalization
 
-경쟁이 치열하고 디지털 중심의 오늘날 환경에서 고객들은 고유한 선호도와 요구에 맞는 경험을 기대하게 되었습니다. Adobe Experience Cloud의 기능을 사용하면 광범위한 고객 데이터를 수집하고 분석할 수 있으므로 행동, 관심사 및 선호도에 대한 중요한 통찰력을 제공할 수 있습니다. 이러한 깊은 이해는 다양한 접점에 걸쳐 개인화된 경험을 쉽게 전달하여 의미 있고 매력적인 상호 작용을 보장합니다. Adobe Experience Cloud의 강력한 기능을 활용하면 개인화의 모든 잠재력을 잠금 해제하여 더 강력한 고객 연결을 구축하고 충성도를 향상시키며 비즈니스 성장을 촉진할 수 있습니다.
+경쟁이 치열하고 디지털 중심의 오늘날 환경에서 고객들은 고유한 선호도와 요구에 맞는 경험을 기대하게 되었습니다. Adobe Experience Cloud의 기능을 사용하면 광범위한 고객 데이터를 수집하고 분석할 수 있으므로 비헤이비어, 관심사 및 환경 설정에 대한 중요한 통찰력을 제공합니다. 이러한 깊은 이해는 다양한 접점에 걸쳐 개인화된 경험을 쉽게 전달하여 의미 있고 매력적인 상호 작용을 보장합니다. Adobe Experience Cloud의 강력한 기능을 통해 개인화의 모든 잠재력을 잠금 해제하여 더 강력한 고객 연결을 구축하고, 충성도를 높이며, 비즈니스 성장을 촉진합니다.
 
 <table>
  <thead>
@@ -248,7 +255,7 @@ ht-degree: 1%
       </td>
       <td>
         <a
-          href="https://experienceleague.adobe.com/ko/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
           target="_blank"
           rel="noopener noreferrer"
           >AEM Sites 및 [!DNL Target]</a
