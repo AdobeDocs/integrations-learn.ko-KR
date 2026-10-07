@@ -1,22 +1,22 @@
 ---
 title: 애플리케이션 통합
-description: Experience Cloud 애플리케이션 통합을 위한 일반 구성에 대해 알아봅니다. Adobe의 동급 최강의 엔터프라이즈 제품을 통해 비즈니스 문제를 해결하는 방법에 대해 알아봅니다.
+description: Experience Cloud 애플리케이션 통합을 위한 일반적인 구성에 대해 알아봅니다. Adobe의 동급 최강의 엔터프라이즈 제품을 통해 비즈니스 문제를 해결하는 방법에 대해 알아봅니다.
 exl-id: 3c0a75ec-2b4c-4984-bd42-0b5ddeb7c004
 TQID: https://experienceleague.adobe.com/TQeDwtLluKJYg-j7LUqXGkb6aluY4UqYAfpyzWZ5sKQ
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 feature_v2:
   - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
-source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
+    internal-label: Integrations
+source-git-commit: 4c51eef6f89060dc633dede5ea23e0f3ab445d0b
 workflow-type: tm+mt
-source-wordcount: 164
+source-wordcount: '164'
 ht-degree: 0%
-
 ---
-
 # Experience Cloud 애플리케이션을 위한 통합 구성
 
-Experience Cloud 제품에 대해 잘 알고 있지만 이를 통합하는 것이 최선인지 확신할 수 없습니까? 비즈니스 목표는 알고 있지만 어떤 애플리케이션을 사용해야 하는지 확실하지 않습니까? 그럼 제대로 찾아오셨네요!
+Experience Cloud 제품에 대해 잘 알고 있지만 이를 통합하는 가장 좋은 방법을 잘 모르고 계십니까? 비즈니스 목표는 알고 있지만 어떤 애플리케이션을 사용해야 하는지 확실하지 않습니까? 그럼 제대로 찾아오셨네요!
 
 이 Experience Cloud 통합 튜토리얼에서는 사용 가능한 가장 일반적인 제품 통합 중 일부를 설명합니다. 구성 옵션은 환경에 따라 다르므로 비즈니스 솔루션 및 제품별로 통합을 구성했습니다. 이러한 자습서와 비디오를 있는 그대로 배포하기 위한 지침으로 사용하거나 환경의 요구 사항에 맞게 수정할 수 있습니다.
 
