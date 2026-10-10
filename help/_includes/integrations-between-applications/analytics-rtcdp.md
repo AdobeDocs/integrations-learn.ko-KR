@@ -50,7 +50,7 @@ Adobe [!DNL Analytics]과(와) Real-Time CDP을(를) 결합함으로써 기업�
         <td>
             <ul style="margin-top: 0;">
                 <li>새로운 [!DNL Analytics] 구현에 대한 권장 접근 방식 또는 장기적인 전략을 구현하려는 경우.</li>
-                <li>AEP Web SDK, AEP Mobile SDK 또는 Edge Network Server API를 사용하여 장치에서 Experience [!DNL Platform](으)로 직접 데이터를 보냅니다.</li>
+                <li>AEP Web SDK, AEP Mobile SDK 또는 Edge Network Server API를 사용하여 장치에서 Experience [!DNL Platform] (으)로 직접 데이터를 보냅니다.</li>
                 <li>동일 및 다음 페이지 개인화 사용 사례를 지원하기 위해 실시간 고객 프로필에 [!DNL Analytics] 데이터 가용성이 필요한 신규 고객 또는 기존 고객.</li>
             </ul>
         </td>
