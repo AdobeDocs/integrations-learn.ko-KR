@@ -50,7 +50,7 @@ Adobe [!DNL Analytics] 및 Adobe [!DNL Target]&#x200B;(A4T) 통합의 주요 이
         <tr>
             <td>
                 <ul style="margin-top: 0;">
-                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html" target="_blank" rel="noreferrer">Experience Cloud 핵심 서비스</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html?lang=ko" target="_blank" rel="noreferrer">Experience Cloud 핵심 서비스</a></li>
                 </ul>
             </td>
             <td>
