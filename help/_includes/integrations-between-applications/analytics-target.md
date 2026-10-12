@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 6%
-
+source-wordcount: '134'
+ht-degree: 5%
 ---
-
 
 # [!DNL Analytics] 및 [!DNL Target] 통합
 
@@ -13,9 +11,9 @@ ht-degree: 6%
 
 {{target-description}}
 
-[!DNL Analytics] Adobe과 [!DNL Target] Adobe(A4T) 통합의 주요 이점은 다음과 같습니다.
+Adobe [!DNL Analytics] 및 Adobe [!DNL Target]&#x200B;(A4T) 통합의 주요 이점은 다음과 같습니다.
 
-+ **데이터 기반 개인화**: [!DNL Target] Adobe의 타깃팅된 활동에 [!DNL Analytics]을(를) 사용하여 개인화 전략을 향상시키십시오.
++ **데이터 기반 개인화**: Adobe [!DNL Target]의 타깃팅된 활동에 [!DNL Analytics]을(를) 사용하여 개인화 전략을 향상시키십시오.
 + **통합 보고**: A4T 통합에서는 포괄적인 분석을 위해 [!DNL Target] 및 [!DNL Analytics] 보고서를 결합합니다.
 + **최적화된 타깃팅**: 정확한 대상 세분화 및 콘텐츠 최적화를 위해 [!DNL Analytics] 데이터에 대한 기본 결정입니다.
 + **공유 대상**: [!DNL Analytics]을(를) 사용하여 자세한 세그먼트를 만들고 [!DNL Target]에 공유하여 테스트용 대상으로 사용합니다.
@@ -39,7 +37,7 @@ ht-degree: 6%
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>[!DNL Analytics] Adobe의 다양한 보고 기능을 사용하여 [!DNL Target] 활동 결과를 표시하고 분석하려고 합니다.</li>
+                    <li>[!DNL Target]개의 활동 결과를 표시하고 분석하는 데 Adobe [!DNL Analytics]개의 풍부한 보고 기능을 사용하려고 합니다.</li>
                 </ul>
             </td>
             <td>
